@@ -1,0 +1,1361 @@
+metric,rank,noun,verb,average
+metaphoricity,1,kotoba (word),X ga huttou-suru (X boils),3.9
+metaphoricity,2,kanjou (emotion),X ni oboreru (Y almost drowns in X),3.8
+metaphoricity,3,zetubou (despair),X ga ahureru (X overflows),3.7
+metaphoricity,4,oto (sound),X ga simiru (X soaks into Y),3.6
+metaphoricity,5,kyouhu (fear),X ga nagarederu (X flows out),3.5
+metaphoricity,5,zetubou (despair),X ga koboreru (X spills out),3.5
+metaphoricity,5,zetubou (despair),X wo makitirasu (Y sprinkles X),3.5
+metaphoricity,5,zetubou (despair),X ga moreru (X leaks),3.5
+metaphoricity,5,oto (sound),X wo nomu (Y drinks X),3.5
+metaphoricity,10,sitto (envy),X ni oboreru (Y almost drowns in X),3.4
+metaphoricity,10,rikai (understanding),X ga nizimu (X oozes),3.4
+metaphoricity,10,kuuki (air),X wo kakeru (Y sprays X),3.4
+metaphoricity,10,kotoba (word),X ga nizimu (X oozes),3.4
+metaphoricity,10,oto (sound),X ga sumu (X gets clear),3.4
+metaphoricity,15,yorokobi (delight),X wo tarasu (Y drops X),3.3
+metaphoricity,15,ansin (relief),X wo abiseru (Y showers X),3.3
+metaphoricity,15,kairaku (pleasure),X ga uzumaku (X whirls),3.3
+metaphoricity,15,jikan (time),X ga ahureru (X overflows),3.3
+metaphoricity,15,kuuki (air),X ga waku (X gushes out),3.3
+metaphoricity,20,sitto (envy),X ga ahureru (X overflows),3.2
+metaphoricity,20,ansin (relief),X wo maku (Y scatters X),3.2
+metaphoricity,20,kyouhu (fear),X ni oboreru (Y almost drowns in X),3.2
+metaphoricity,20,kanasimi (sorrow),X ga sumu (X gets clear),3.2
+metaphoricity,20,kanjou (emotion),X ga huttou-suru (X boils),3.2
+metaphoricity,20,kanjou (emotion),X wo sosogu (Y pours X),3.2
+metaphoricity,20,jikan (time),X ga yodomu (X gets stagnant),3.2
+metaphoricity,20,kotoba (word),X wo susuru (Y sips X),3.2
+metaphoricity,20,oto (sound),X wo kumitoru (Y scoops up X),3.2
+metaphoricity,29,hikari (light),X ga huttou-suru (X boils),3.1
+metaphoricity,29,koe (voice),X ni sizumu (Y sinks into X),3.1
+metaphoricity,29,iwa (rock),X ga sitataru (X drips),3.1
+metaphoricity,29,kairaku (pleasure),X ni sizumu (Y sinks into X),3.1
+metaphoricity,29,ikari (anger),X ga koboreru (X spills out),3.1
+metaphoricity,29,kyouhu (fear),X ni sizumu (Y sinks into X),3.1
+metaphoricity,29,kanasimi (sorrow),X ga nagareru (X flows),3.1
+metaphoricity,29,kanasimi (sorrow),X ni oboreru (Y almost drowns in X),3.1
+metaphoricity,29,jouhou (information),X ga uzumaku (X whirls),3.1
+metaphoricity,29,ai (love),X de susugu (Y rinses Z with X),3.1
+metaphoricity,29,ai (love),X wo tarasu (Y drops X),3.1
+metaphoricity,29,ai (love),X ni uku (Y floats on X),3.1
+metaphoricity,29,doro (mud),X wo susuru (Y sips X),3.1
+metaphoricity,29,rikai (understanding),X ga hotobasiru (X spurts),3.1
+metaphoricity,29,rikai (understanding),X ga huttou-suru (X boils),3.1
+metaphoricity,29,rikai (understanding),X ga sitataru (X drips),3.1
+metaphoricity,29,kuuki (air),X ga simiru (X soaks into Y),3.1
+metaphoricity,29,kuuki (air),X ni sizumu (Y sinks into X),3.1
+metaphoricity,29,kuuki (air),X ni hitasu (Y dips Z in X),3.1
+metaphoricity,29,zetubou (despair),X ga tamaru (X gets collected),3.1
+metaphoricity,29,kinsen (money),X de susugu (Y rinses Z with X),3.1
+metaphoricity,29,kinsen (money),X ni oboreru (Y almost drowns in X),3.1
+metaphoricity,51,human (complaint),X ni oboreru (Y almost drowns in X),3.0
+metaphoricity,51,hikari (light),X ga koboreru (X spills out),3.0
+metaphoricity,51,hikari (light),X wo nomu (Y drinks X),3.0
+metaphoricity,51,koe (voice),X ga nizimu (X oozes),3.0
+metaphoricity,51,sitto (envy),X ni hitaru (Y soaks in X),3.0
+metaphoricity,51,iwa (rock),X ga ahureru (X overflows),3.0
+metaphoricity,51,iwa (rock),X ga nizimu (X oozes),3.0
+metaphoricity,51,kibou (hope),X ga nagareru (X flows),3.0
+metaphoricity,51,kairaku (pleasure),X ni uku (Y floats on X),3.0
+metaphoricity,51,ikari (anger),X wo susuru (Y sips X),3.0
+metaphoricity,51,kyouhu (fear),X ga huttou-suru (X boils),3.0
+metaphoricity,51,kanasimi (sorrow),X ni sizumu (Y sinks into X),3.0
+metaphoricity,51,kanasimi (sorrow),X ga nagarederu (X flows out),3.0
+metaphoricity,51,jouhou (information),X wo tarasu (Y drops X),3.0
+metaphoricity,51,jouhou (information),X ga waku (X gushes out),3.0
+metaphoricity,51,jouhou (information),X ni oboreru (Y almost drowns in X),3.0
+metaphoricity,51,ai (love),X ga sitataru (X drips),3.0
+metaphoricity,51,ai (love),X ni tukaru (Y gets submerged in X),3.0
+metaphoricity,51,kanjou (emotion),X wo susuru (Y sips X),3.0
+metaphoricity,51,kanjou (emotion),X wo abiseru (Y showers X),3.0
+metaphoricity,51,kanjou (emotion),X wo nomu (Y drinks X),3.0
+metaphoricity,51,jikan (time),X wo abiseru (Y showers X),3.0
+metaphoricity,51,jikan (time),X ni tukaru (Y gets submerged in X),3.0
+metaphoricity,51,jikan (time),X ga nigoru (X gets cloudy),3.0
+metaphoricity,51,kimoti (feeling),X ga huttou-suru (X boils),3.0
+metaphoricity,51,abura (oil),X ni oboreru (Y almost drowns in X),3.0
+metaphoricity,51,syutisin (shame),X de susugu (Y rinses Z with X),3.0
+metaphoricity,51,syutisin (shame),X ga koboreru (X spills out),3.0
+metaphoricity,51,kotoba (word),X ga waku (X gushes out),3.0
+metaphoricity,51,kotoba (word),X wo nomu (Y drinks X),3.0
+metaphoricity,51,kinsen (money),X ni uku (Y floats on X),3.0
+metaphoricity,51,kinsen (money),X wo nomu (Y drinks X),3.0
+metaphoricity,51,oto (sound),X ni tukaru (Y gets submerged in X),3.0
+metaphoricity,84,huan (anxiety),X ga sitataru (X drips),2.9
+metaphoricity,84,hikari (light),X wo makitirasu (Y sprinkles X),2.9
+metaphoricity,84,roudou (labor),X ni hitaru (Y soaks in X),2.9
+metaphoricity,84,sitto (envy),X wo sosogu (Y pours X),2.9
+metaphoricity,84,ansin (relief),X ga nagarederu (X flows out),2.9
+metaphoricity,84,ansin (relief),X ni uku (Y floats on X),2.9
+metaphoricity,84,ansin (relief),X ga nigoru (X gets cloudy),2.9
+metaphoricity,84,iwa (rock),X ga sumu (X gets clear),2.9
+metaphoricity,84,kairaku (pleasure),X ga waku (X gushes out),2.9
+metaphoricity,84,ikari (anger),X ni oboreru (Y almost drowns in X),2.9
+metaphoricity,84,kyouhu (fear),X wo kakeru (Y sprays X),2.9
+metaphoricity,84,kyouhu (fear),X wo sosogu (Y pours X),2.9
+metaphoricity,84,kanasimi (sorrow),X wo tarasu (Y drops X),2.9
+metaphoricity,84,jouhou (information),X ga sitataru (X drips),2.9
+metaphoricity,84,jouhou (information),X ni tukaru (Y gets submerged in X),2.9
+metaphoricity,84,ai (love),X ga hotobasiru (X spurts),2.9
+metaphoricity,84,ai (love),X wo susuru (Y sips X),2.9
+metaphoricity,84,ai (love),X ga huttou-suru (X boils),2.9
+metaphoricity,84,ai (love),X ga nagareru (X flows),2.9
+metaphoricity,84,ai (love),X ga nizimu (X oozes),2.9
+metaphoricity,84,kanjou (emotion),X wo makitirasu (Y sprinkles X),2.9
+metaphoricity,84,zouo (hatred),X ni hitasu (Y dips Z in X),2.9
+metaphoricity,84,jikan (time),X ni sizumu (Y sinks into X),2.9
+metaphoricity,84,tanosisa (enjoyment),X ga yodomu (X gets stagnant),2.9
+metaphoricity,84,tanosisa (enjoyment),X ni oboreru (Y almost drowns in X),2.9
+metaphoricity,84,suimin (sleep),X ni oboreru (Y almost drowns in X),2.9
+metaphoricity,84,kuuki (air),X wo maku (Y scatters X),2.9
+metaphoricity,84,kuuki (air),X ni oboreru (Y almost drowns in X),2.9
+metaphoricity,84,zetubou (despair),X wo nomu (Y drinks X),2.9
+metaphoricity,84,kotoba (word),X ga koboreru (X spills out),2.9
+metaphoricity,84,oto (sound),X ga huttou-suru (X boils),2.9
+metaphoricity,115,neko (cat),X ga mitiru (X fills Y),2.8
+metaphoricity,115,nioi (smell),X wo kakeru (Y sprays X),2.8
+metaphoricity,115,huan (anxiety),X ga hotobasiru (X spurts),2.8
+metaphoricity,115,roudou (labor),X ni oboreru (Y almost drowns in X),2.8
+metaphoricity,115,yorokobi (delight),X ga simiru (X soaks into Y),2.8
+metaphoricity,115,sitto (envy),X wo abiseru (Y showers X),2.8
+metaphoricity,115,ansin (relief),X ga yodomu (X gets stagnant),2.8
+metaphoricity,115,iwa (rock),X ni hitasu (Y dips Z in X),2.8
+metaphoricity,115,kibou (hope),X ga tamaru (X gets collected),2.8
+metaphoricity,115,kairaku (pleasure),X ni oboreru (Y almost drowns in X),2.8
+metaphoricity,115,ikari (anger),X ga huttou-suru (X boils),2.8
+metaphoricity,115,ikari (anger),X ga moreru (X leaks),2.8
+metaphoricity,115,kyouhu (fear),X ga nagareru (X flows),2.8
+metaphoricity,115,kyouhu (fear),X ga tamaru (X gets collected),2.8
+metaphoricity,115,kyouhu (fear),X ga moreru (X leaks),2.8
+metaphoricity,115,kanasimi (sorrow),X ga simiru (X soaks into Y),2.8
+metaphoricity,115,jouhou (information),X ga simiru (X soaks into Y),2.8
+metaphoricity,115,jouhou (information),X ga yodomu (X gets stagnant),2.8
+metaphoricity,115,jounetu (passion),X ga koboreru (X spills out),2.8
+metaphoricity,115,kanjou (emotion),X ga nagareru (X flows),2.8
+metaphoricity,115,kanjou (emotion),X ga nigoru (X gets cloudy),2.8
+metaphoricity,115,zouo (hatred),X de susugu (Y rinses Z with X),2.8
+metaphoricity,115,zouo (hatred),X wo susuru (Y sips X),2.8
+metaphoricity,115,zouo (hatred),X ni sizumu (Y sinks into X),2.8
+metaphoricity,115,jikan (time),X ga koboreru (X spills out),2.8
+metaphoricity,115,jikan (time),X wo sosogu (Y pours X),2.8
+metaphoricity,115,jikan (time),X ga waku (X gushes out),2.8
+metaphoricity,115,jikan (time),X ga nizimu (X oozes),2.8
+metaphoricity,115,tanosisa (enjoyment),X wo maku (Y scatters X),2.8
+metaphoricity,115,tanosisa (enjoyment),X ga uzumaku (X whirls),2.8
+metaphoricity,115,tanosisa (enjoyment),X ga nigoru (X gets cloudy),2.8
+metaphoricity,115,kimoti (feeling),X ga koboreru (X spills out),2.8
+metaphoricity,115,kimoti (feeling),X wo siboridasu (Y squeezes X),2.8
+metaphoricity,115,kimoti (feeling),X wo makitirasu (Y sprinkles X),2.8
+metaphoricity,115,kotoba (word),X ga yodomu (X gets stagnant),2.8
+metaphoricity,115,kotoba (word),X ga moreru (X leaks),2.8
+metaphoricity,115,kotoba (word),X ga nigoru (X gets cloudy),2.8
+metaphoricity,152,huan (anxiety),X wo tarasu (Y drops X),2.7
+metaphoricity,152,huan (anxiety),X ni uku (Y floats on X),2.7
+metaphoricity,152,roudou (labor),X wo sosogu (Y pours X),2.7
+metaphoricity,152,roudou (labor),X ga nagarederu (X flows out),2.7
+metaphoricity,152,roudou (labor),X ga ahureru (X overflows),2.7
+metaphoricity,152,yuuki (bravery),X ga hotobasiru (X spurts),2.7
+metaphoricity,152,yorokobi (delight),X wo kakeru (Y sprays X),2.7
+metaphoricity,152,yorokobi (delight),X wo sosogu (Y pours X),2.7
+metaphoricity,152,yorokobi (delight),X ga sitataru (X drips),2.7
+metaphoricity,152,yorokobi (delight),X ga sumu (X gets clear),2.7
+metaphoricity,152,koe (voice),X ni hitasu (Y dips Z in X),2.7
+metaphoricity,152,koe (voice),X ga uzumaku (X whirls),2.7
+metaphoricity,152,sitto (envy),X wo nomu (Y drinks X),2.7
+metaphoricity,152,ansin (relief),X ga hotobasiru (X spurts),2.7
+metaphoricity,152,iwa (rock),X ga simiru (X soaks into Y),2.7
+metaphoricity,152,iwa (rock),X de susugu (Y rinses Z with X),2.7
+metaphoricity,152,kyouhu (fear),X wo siboridasu (Y squeezes X),2.7
+metaphoricity,152,kanasimi (sorrow),X ni hitasu (Y dips Z in X),2.7
+metaphoricity,152,jouhou (information),X ga koboreru (X spills out),2.7
+metaphoricity,152,jouhou (information),X ga sumu (X gets clear),2.7
+metaphoricity,152,jouhou (information),X ga nigoru (X gets cloudy),2.7
+metaphoricity,152,jounetu (passion),X ni sizumu (Y sinks into X),2.7
+metaphoricity,152,jounetu (passion),X ga uzumaku (X whirls),2.7
+metaphoricity,152,jounetu (passion),X wo nomu (Y drinks X),2.7
+metaphoricity,152,ai (love),X ga uzumaku (X whirls),2.7
+metaphoricity,152,ai (love),X ga mitiru (X fills Y),2.7
+metaphoricity,152,ai (love),X ga moreru (X leaks),2.7
+metaphoricity,152,ai (love),X wo nomu (Y drinks X),2.7
+metaphoricity,152,kanjou (emotion),X wo siboridasu (Y squeezes X),2.7
+metaphoricity,152,kanjou (emotion),X ni hitaru (Y soaks in X),2.7
+metaphoricity,152,zouo (hatred),X ga huttou-suru (X boils),2.7
+metaphoricity,152,jikan (time),X ni uku (Y floats on X),2.7
+metaphoricity,152,tanosisa (enjoyment),X ga ahureru (X overflows),2.7
+metaphoricity,152,abura (oil),X wo abiseru (Y showers X),2.7
+metaphoricity,152,rikai (understanding),X ga waku (X gushes out),2.7
+metaphoricity,152,suimin (sleep),X ga koboreru (X spills out),2.7
+metaphoricity,152,suimin (sleep),X ga ahureru (X overflows),2.7
+metaphoricity,152,suimin (sleep),X ga moreru (X leaks),2.7
+metaphoricity,152,suimin (sleep),X ni tukaru (Y gets submerged in X),2.7
+metaphoricity,152,kuuki (air),X ga hotobasiru (X spurts),2.7
+metaphoricity,152,kuuki (air),X wo makitirasu (Y sprinkles X),2.7
+metaphoricity,152,syutisin (shame),X ga yodomu (X gets stagnant),2.7
+metaphoricity,152,syutisin (shame),X ga moreru (X leaks),2.7
+metaphoricity,152,kotoba (word),X ga ahureru (X overflows),2.7
+metaphoricity,152,kinsen (money),X ga nagareru (X flows),2.7
+metaphoricity,152,kinsen (money),X ga waku (X gushes out),2.7
+metaphoricity,152,kinsen (money),X ga mitiru (X fills Y),2.7
+metaphoricity,152,oto (sound),X wo tarasu (Y drops X),2.7
+metaphoricity,152,oto (sound),X ga ahureru (X overflows),2.7
+metaphoricity,152,oto (sound),X ga sitataru (X drips),2.7
+metaphoricity,202,huan (anxiety),X de susugu (Y rinses Z with X),2.6
+metaphoricity,202,huan (anxiety),X ga nagarederu (X flows out),2.6
+metaphoricity,202,huan (anxiety),X ni hitaru (Y soaks in X),2.6
+metaphoricity,202,huan (anxiety),X ni tukaru (Y gets submerged in X),2.6
+metaphoricity,202,hikari (light),X wo kakeru (Y sprays X),2.6
+metaphoricity,202,hikari (light),X wo siboridasu (Y squeezes X),2.6
+metaphoricity,202,hikari (light),X ga uzumaku (X whirls),2.6
+metaphoricity,202,hikari (light),X ga sumu (X gets clear),2.6
+metaphoricity,202,roudou (labor),X ni sizumu (Y sinks into X),2.6
+metaphoricity,202,yuuki (bravery),X ga koboreru (X spills out),2.6
+metaphoricity,202,yuuki (bravery),X ga huttou-suru (X boils),2.6
+metaphoricity,202,yuuki (bravery),X ga uzumaku (X whirls),2.6
+metaphoricity,202,yuuki (bravery),X ga ahureru (X overflows),2.6
+metaphoricity,202,yuuki (bravery),X ni tukaru (Y gets submerged in X),2.6
+metaphoricity,202,yorokobi (delight),X wo nomu (Y drinks X),2.6
+metaphoricity,202,koe (voice),X wo maku (Y scatters X),2.6
+metaphoricity,202,koe (voice),X ga huttou-suru (X boils),2.6
+metaphoricity,202,sitto (envy),X ga nagareru (X flows),2.6
+metaphoricity,202,ansin (relief),X wo sosogu (Y pours X),2.6
+metaphoricity,202,iwa (rock),X ga koboreru (X spills out),2.6
+metaphoricity,202,iwa (rock),X ga hotobasiru (X spurts),2.6
+metaphoricity,202,iwa (rock),X ni sizumu (Y sinks into X),2.6
+metaphoricity,202,iwa (rock),X ga mitiru (X fills Y),2.6
+metaphoricity,202,kibou (hope),X ni oboreru (Y almost drowns in X),2.6
+metaphoricity,202,kairaku (pleasure),X ga koboreru (X spills out),2.6
+metaphoricity,202,kairaku (pleasure),X ga nagarederu (X flows out),2.6
+metaphoricity,202,ikari (anger),X ga nagarederu (X flows out),2.6
+metaphoricity,202,kyouhu (fear),X ga koboreru (X spills out),2.6
+metaphoricity,202,kanasimi (sorrow),X de susugu (Y rinses Z with X),2.6
+metaphoricity,202,kanasimi (sorrow),X wo siboridasu (Y squeezes X),2.6
+metaphoricity,202,kanasimi (sorrow),X ga nigoru (X gets cloudy),2.6
+metaphoricity,202,jouhou (information),X wo abiseru (Y showers X),2.6
+metaphoricity,202,jouhou (information),X ni hitaru (Y soaks in X),2.6
+metaphoricity,202,jounetu (passion),X ga hotobasiru (X spurts),2.6
+metaphoricity,202,jounetu (passion),X wo tarasu (Y drops X),2.6
+metaphoricity,202,jounetu (passion),X ga sitataru (X drips),2.6
+metaphoricity,202,jounetu (passion),X ni tukaru (Y gets submerged in X),2.6
+metaphoricity,202,jounetu (passion),X ga sumu (X gets clear),2.6
+metaphoricity,202,ito (intention),X ni hitasu (Y dips Z in X),2.6
+metaphoricity,202,ito (intention),X ni oboreru (Y almost drowns in X),2.6
+metaphoricity,202,ai (love),X ga koboreru (X spills out),2.6
+metaphoricity,202,ai (love),X wo abiseru (Y showers X),2.6
+metaphoricity,202,ai (love),X ga nigoru (X gets cloudy),2.6
+metaphoricity,202,zouo (hatred),X ga nagareru (X flows),2.6
+metaphoricity,202,zouo (hatred),X ga nagarederu (X flows out),2.6
+metaphoricity,202,zouo (hatred),X ga yodomu (X gets stagnant),2.6
+metaphoricity,202,zouo (hatred),X ni tukaru (Y gets submerged in X),2.6
+metaphoricity,202,zouo (hatred),X wo nomu (Y drinks X),2.6
+metaphoricity,202,jikan (time),X de susugu (Y rinses Z with X),2.6
+metaphoricity,202,jikan (time),X wo maku (Y scatters X),2.6
+metaphoricity,202,jikan (time),X ga uzumaku (X whirls),2.6
+metaphoricity,202,jikan (time),X ga tamaru (X gets collected),2.6
+metaphoricity,202,jikan (time),X ga moreru (X leaks),2.6
+metaphoricity,202,jikan (time),X ga sumu (X gets clear),2.6
+metaphoricity,202,tanosisa (enjoyment),X ga koboreru (X spills out),2.6
+metaphoricity,202,kimoti (feeling),X de susugu (Y rinses Z with X),2.6
+metaphoricity,202,kimoti (feeling),X ga uzumaku (X whirls),2.6
+metaphoricity,202,kimoti (feeling),X ga mitiru (X fills Y),2.6
+metaphoricity,202,kimoti (feeling),X ga tamaru (X gets collected),2.6
+metaphoricity,202,kimoti (feeling),X ga moreru (X leaks),2.6
+metaphoricity,202,kimoti (feeling),X ga nigoru (X gets cloudy),2.6
+metaphoricity,202,abura (oil),X ni hitaru (Y soaks in X),2.6
+metaphoricity,202,rikai (understanding),X wo makitirasu (Y sprinkles X),2.6
+metaphoricity,202,rikai (understanding),X ga tamaru (X gets collected),2.6
+metaphoricity,202,rikai (understanding),X ga moreru (X leaks),2.6
+metaphoricity,202,rikai (understanding),X ga nigoru (X gets cloudy),2.6
+metaphoricity,202,kuuki (air),X ga nigoru (X gets cloudy),2.6
+metaphoricity,202,zetubou (despair),X ga huttou-suru (X boils),2.6
+metaphoricity,202,syutisin (shame),X wo makitirasu (Y sprinkles X),2.6
+metaphoricity,202,syutisin (shame),X ni sizumu (Y sinks into X),2.6
+metaphoricity,202,syutisin (shame),X ni uku (Y floats on X),2.6
+metaphoricity,202,syutisin (shame),X ga ahureru (X overflows),2.6
+metaphoricity,202,syutisin (shame),X ga sumu (X gets clear),2.6
+metaphoricity,202,kotoba (word),X ga mitiru (X fills Y),2.6
+metaphoricity,202,kinsen (money),X wo susuru (Y sips X),2.6
+metaphoricity,202,kinsen (money),X ga uzumaku (X whirls),2.6
+metaphoricity,202,kinsen (money),X ga moreru (X leaks),2.6
+metaphoricity,202,oto (sound),X ga nizimu (X oozes),2.6
+metaphoricity,202,oto (sound),X ga nigoru (X gets cloudy),2.6
+metaphoricity,281,nioi (smell),X ga huttou-suru (X boils),2.5
+metaphoricity,281,nioi (smell),X wo sosogu (Y pours X),2.5
+metaphoricity,281,nioi (smell),X wo nomu (Y drinks X),2.5
+metaphoricity,281,huan (anxiety),X ga koboreru (X spills out),2.5
+metaphoricity,281,human (complaint),X ga nagareru (X flows),2.5
+metaphoricity,281,human (complaint),X ga nizimu (X oozes),2.5
+metaphoricity,281,hikari (light),X ga yodomu (X gets stagnant),2.5
+metaphoricity,281,hikari (light),X ni tukaru (Y gets submerged in X),2.5
+metaphoricity,281,roudou (labor),X ga sumu (X gets clear),2.5
+metaphoricity,281,yuuki (bravery),X de susugu (Y rinses Z with X),2.5
+metaphoricity,281,yuuki (bravery),X ga nagareru (X flows),2.5
+metaphoricity,281,yuuki (bravery),X ni uku (Y floats on X),2.5
+metaphoricity,281,yuuki (bravery),X ga sitataru (X drips),2.5
+metaphoricity,281,yuuki (bravery),X ga moreru (X leaks),2.5
+metaphoricity,281,yorokobi (delight),X wo susuru (Y sips X),2.5
+metaphoricity,281,yorokobi (delight),X wo abiseru (Y showers X),2.5
+metaphoricity,281,yorokobi (delight),X ga yodomu (X gets stagnant),2.5
+metaphoricity,281,koe (voice),X ga simiru (X soaks into Y),2.5
+metaphoricity,281,koe (voice),X ga hotobasiru (X spurts),2.5
+metaphoricity,281,koe (voice),X ga nagarederu (X flows out),2.5
+metaphoricity,281,koe (voice),X ni hitaru (Y soaks in X),2.5
+metaphoricity,281,koe (voice),X ga tamaru (X gets collected),2.5
+metaphoricity,281,koe (voice),X ni oboreru (Y almost drowns in X),2.5
+metaphoricity,281,sitto (envy),X ga sitataru (X drips),2.5
+metaphoricity,281,iwa (rock),X ga moreru (X leaks),2.5
+metaphoricity,281,iwa (rock),X ni tukaru (Y gets submerged in X),2.5
+metaphoricity,281,kibou (hope),X wo kakeru (Y sprays X),2.5
+metaphoricity,281,kibou (hope),X wo sosogu (Y pours X),2.5
+metaphoricity,281,kairaku (pleasure),X de susugu (Y rinses Z with X),2.5
+metaphoricity,281,kairaku (pleasure),X wo susuru (Y sips X),2.5
+metaphoricity,281,kairaku (pleasure),X wo siboridasu (Y squeezes X),2.5
+metaphoricity,281,kairaku (pleasure),X wo sosogu (Y pours X),2.5
+metaphoricity,281,kairaku (pleasure),X ga nagareru (X flows),2.5
+metaphoricity,281,ikari (anger),X ga nagareru (X flows),2.5
+metaphoricity,281,ikari (anger),X ga uzumaku (X whirls),2.5
+metaphoricity,281,ikari (anger),X ga waku (X gushes out),2.5
+metaphoricity,281,kyouhu (fear),X ga simiru (X soaks into Y),2.5
+metaphoricity,281,kyouhu (fear),X wo susuru (Y sips X),2.5
+metaphoricity,281,kyouhu (fear),X wo abiseru (Y showers X),2.5
+metaphoricity,281,kanasimi (sorrow),X wo sosogu (Y pours X),2.5
+metaphoricity,281,kanasimi (sorrow),X ni uku (Y floats on X),2.5
+metaphoricity,281,kanasimi (sorrow),X ga sitataru (X drips),2.5
+metaphoricity,281,kanasimi (sorrow),X ni tukaru (Y gets submerged in X),2.5
+metaphoricity,281,jouhou (information),X wo siboridasu (Y squeezes X),2.5
+metaphoricity,281,jouhou (information),X ni sizumu (Y sinks into X),2.5
+metaphoricity,281,jouhou (information),X ga huttou-suru (X boils),2.5
+metaphoricity,281,jouhou (information),X ni uku (Y floats on X),2.5
+metaphoricity,281,jouhou (information),X ni hitasu (Y dips Z in X),2.5
+metaphoricity,281,jouhou (information),X ga nizimu (X oozes),2.5
+metaphoricity,281,jounetu (passion),X de susugu (Y rinses Z with X),2.5
+metaphoricity,281,jounetu (passion),X wo siboridasu (Y squeezes X),2.5
+metaphoricity,281,jounetu (passion),X wo kumitoru (Y scoops up X),2.5
+metaphoricity,281,jounetu (passion),X ga huttou-suru (X boils),2.5
+metaphoricity,281,jounetu (passion),X ni hitasu (Y dips Z in X),2.5
+metaphoricity,281,jounetu (passion),X ga yodomu (X gets stagnant),2.5
+metaphoricity,281,ai (love),X wo maku (Y scatters X),2.5
+metaphoricity,281,ai (love),X wo makitirasu (Y sprinkles X),2.5
+metaphoricity,281,ai (love),X ni hitasu (Y dips Z in X),2.5
+metaphoricity,281,ai (love),X ga yodomu (X gets stagnant),2.5
+metaphoricity,281,ai (love),X ga tamaru (X gets collected),2.5
+metaphoricity,281,zouo (hatred),X ga simiru (X soaks into Y),2.5
+metaphoricity,281,zouo (hatred),X ga ahureru (X overflows),2.5
+metaphoricity,281,zouo (hatred),X ni oboreru (Y almost drowns in X),2.5
+metaphoricity,281,jikan (time),X ga simiru (X soaks into Y),2.5
+metaphoricity,281,jikan (time),X ga nagarederu (X flows out),2.5
+metaphoricity,281,jikan (time),X ni hitaru (Y soaks in X),2.5
+metaphoricity,281,jikan (time),X ni oboreru (Y almost drowns in X),2.5
+metaphoricity,281,tanosisa (enjoyment),X wo kumitoru (Y scoops up X),2.5
+metaphoricity,281,tanosisa (enjoyment),X ga huttou-suru (X boils),2.5
+metaphoricity,281,kimoti (feeling),X wo susuru (Y sips X),2.5
+metaphoricity,281,rikai (understanding),X ni uku (Y floats on X),2.5
+metaphoricity,281,rikai (understanding),X ni tukaru (Y gets submerged in X),2.5
+metaphoricity,281,suimin (sleep),X ga waku (X gushes out),2.5
+metaphoricity,281,suna (sand),X ni uku (Y floats on X),2.5
+metaphoricity,281,kuuki (air),X wo kumitoru (Y scoops up X),2.5
+metaphoricity,281,kuuki (air),X wo abiseru (Y showers X),2.5
+metaphoricity,281,kuuki (air),X ga uzumaku (X whirls),2.5
+metaphoricity,281,kuuki (air),X ga sitataru (X drips),2.5
+metaphoricity,281,zetubou (despair),X wo susuru (Y sips X),2.5
+metaphoricity,281,zetubou (despair),X ni hitasu (Y dips Z in X),2.5
+metaphoricity,281,syutisin (shame),X ga nagarederu (X flows out),2.5
+metaphoricity,281,syutisin (shame),X ni tukaru (Y gets submerged in X),2.5
+metaphoricity,281,kotoba (word),X ni sizumu (Y sinks into X),2.5
+metaphoricity,281,kotoba (word),X ga uzumaku (X whirls),2.5
+metaphoricity,281,kotoba (word),X ga tamaru (X gets collected),2.5
+metaphoricity,281,kotoba (word),X ni oboreru (Y almost drowns in X),2.5
+metaphoricity,281,kinsen (money),X ni sizumu (Y sinks into X),2.5
+metaphoricity,281,kinsen (money),X ga nizimu (X oozes),2.5
+metaphoricity,281,kinsen (money),X ga sitataru (X drips),2.5
+metaphoricity,281,oto (sound),X wo sosogu (Y pours X),2.5
+metaphoricity,281,oto (sound),X ni hitasu (Y dips Z in X),2.5
+metaphoricity,372,neko (cat),X ga waku (X gushes out),2.4
+metaphoricity,372,neko (cat),X wo nomu (Y drinks X),2.4
+metaphoricity,372,nioi (smell),X ga nigoru (X gets cloudy),2.4
+metaphoricity,372,huan (anxiety),X wo abiseru (Y showers X),2.4
+metaphoricity,372,human (complaint),X ni sizumu (Y sinks into X),2.4
+metaphoricity,372,human (complaint),X ga huttou-suru (X boils),2.4
+metaphoricity,372,hikari (light),X wo susuru (Y sips X),2.4
+metaphoricity,372,hikari (light),X wo tarasu (Y drops X),2.4
+metaphoricity,372,hikari (light),X wo kumitoru (Y scoops up X),2.4
+metaphoricity,372,hikari (light),X ga tamaru (X gets collected),2.4
+metaphoricity,372,hikari (light),X ga ahureru (X overflows),2.4
+metaphoricity,372,yuuki (bravery),X wo susuru (Y sips X),2.4
+metaphoricity,372,yuuki (bravery),X wo siboridasu (Y squeezes X),2.4
+metaphoricity,372,yuuki (bravery),X wo makitirasu (Y sprinkles X),2.4
+metaphoricity,372,yuuki (bravery),X ni sizumu (Y sinks into X),2.4
+metaphoricity,372,yuuki (bravery),X ga waku (X gushes out),2.4
+metaphoricity,372,yuuki (bravery),X ga mitiru (X fills Y),2.4
+metaphoricity,372,yuuki (bravery),X ni oboreru (Y almost drowns in X),2.4
+metaphoricity,372,yorokobi (delight),X ga hotobasiru (X spurts),2.4
+metaphoricity,372,yorokobi (delight),X wo makitirasu (Y sprinkles X),2.4
+metaphoricity,372,yorokobi (delight),X ni oboreru (Y almost drowns in X),2.4
+metaphoricity,372,yorokobi (delight),X ni tukaru (Y gets submerged in X),2.4
+metaphoricity,372,koe (voice),X ga yodomu (X gets stagnant),2.4
+metaphoricity,372,koe (voice),X ga mitiru (X fills Y),2.4
+metaphoricity,372,koe (voice),X ni tukaru (Y gets submerged in X),2.4
+metaphoricity,372,sitto (envy),X wo kumitoru (Y scoops up X),2.4
+metaphoricity,372,sitto (envy),X ga huttou-suru (X boils),2.4
+metaphoricity,372,sitto (envy),X ga nagarederu (X flows out),2.4
+metaphoricity,372,ansin (relief),X de susugu (Y rinses Z with X),2.4
+metaphoricity,372,ansin (relief),X wo tarasu (Y drops X),2.4
+metaphoricity,372,ansin (relief),X ni hitasu (Y dips Z in X),2.4
+metaphoricity,372,kibou (hope),X wo makitirasu (Y sprinkles X),2.4
+metaphoricity,372,kibou (hope),X ga uzumaku (X whirls),2.4
+metaphoricity,372,kairaku (pleasure),X ga simiru (X soaks into Y),2.4
+metaphoricity,372,kairaku (pleasure),X ga hotobasiru (X spurts),2.4
+metaphoricity,372,kairaku (pleasure),X wo maku (Y scatters X),2.4
+metaphoricity,372,kairaku (pleasure),X ga sitataru (X drips),2.4
+metaphoricity,372,ikari (anger),X wo kakeru (Y sprays X),2.4
+metaphoricity,372,ikari (anger),X wo siboridasu (Y squeezes X),2.4
+metaphoricity,372,ikari (anger),X ni sizumu (Y sinks into X),2.4
+metaphoricity,372,ikari (anger),X ni uku (Y floats on X),2.4
+metaphoricity,372,ikari (anger),X ni hitaru (Y soaks in X),2.4
+metaphoricity,372,ikari (anger),X ga mitiru (X fills Y),2.4
+metaphoricity,372,ikari (anger),X ga nizimu (X oozes),2.4
+metaphoricity,372,kyouhu (fear),X ni hitasu (Y dips Z in X),2.4
+metaphoricity,372,kyouhu (fear),X ga sitataru (X drips),2.4
+metaphoricity,372,kanasimi (sorrow),X ga hotobasiru (X spurts),2.4
+metaphoricity,372,kanasimi (sorrow),X wo abiseru (Y showers X),2.4
+metaphoricity,372,kanasimi (sorrow),X ga nizimu (X oozes),2.4
+metaphoricity,372,jouhou (information),X wo makitirasu (Y sprinkles X),2.4
+metaphoricity,372,jouhou (information),X wo sosogu (Y pours X),2.4
+metaphoricity,372,jounetu (passion),X wo maku (Y scatters X),2.4
+metaphoricity,372,jounetu (passion),X ni uku (Y floats on X),2.4
+metaphoricity,372,jounetu (passion),X ga nizimu (X oozes),2.4
+metaphoricity,372,ito (intention),X ga hotobasiru (X spurts),2.4
+metaphoricity,372,ito (intention),X ga nagareru (X flows),2.4
+metaphoricity,372,ai (love),X ga simiru (X soaks into Y),2.4
+metaphoricity,372,ai (love),X wo siboridasu (Y squeezes X),2.4
+metaphoricity,372,ai (love),X ga nagarederu (X flows out),2.4
+metaphoricity,372,ai (love),X ni hitaru (Y soaks in X),2.4
+metaphoricity,372,ai (love),X ga waku (X gushes out),2.4
+metaphoricity,372,ai (love),X ni oboreru (Y almost drowns in X),2.4
+metaphoricity,372,kanjou (emotion),X ga sumu (X gets clear),2.4
+metaphoricity,372,zouo (hatred),X wo tarasu (Y drops X),2.4
+metaphoricity,372,zouo (hatred),X ni uku (Y floats on X),2.4
+metaphoricity,372,zouo (hatred),X ga sumu (X gets clear),2.4
+metaphoricity,372,jikan (time),X ga hotobasiru (X spurts),2.4
+metaphoricity,372,jikan (time),X wo makitirasu (Y sprinkles X),2.4
+metaphoricity,372,tanosisa (enjoyment),X wo tarasu (Y drops X),2.4
+metaphoricity,372,tanosisa (enjoyment),X wo makitirasu (Y sprinkles X),2.4
+metaphoricity,372,tanosisa (enjoyment),X wo sosogu (Y pours X),2.4
+metaphoricity,372,tanosisa (enjoyment),X wo abiseru (Y showers X),2.4
+metaphoricity,372,tanosisa (enjoyment),X ga sitataru (X drips),2.4
+metaphoricity,372,kimoti (feeling),X ni hitasu (Y dips Z in X),2.4
+metaphoricity,372,kimoti (feeling),X ni oboreru (Y almost drowns in X),2.4
+metaphoricity,372,rikai (understanding),X wo susuru (Y sips X),2.4
+metaphoricity,372,rikai (understanding),X wo tarasu (Y drops X),2.4
+metaphoricity,372,rikai (understanding),X wo sosogu (Y pours X),2.4
+metaphoricity,372,rikai (understanding),X wo abiseru (Y showers X),2.4
+metaphoricity,372,rikai (understanding),X ga mitiru (X fills Y),2.4
+metaphoricity,372,suimin (sleep),X wo siboridasu (Y squeezes X),2.4
+metaphoricity,372,suimin (sleep),X ga sumu (X gets clear),2.4
+metaphoricity,372,suna (sand),X ga simiru (X soaks into Y),2.4
+metaphoricity,372,suna (sand),X ga hotobasiru (X spurts),2.4
+metaphoricity,372,kuuki (air),X ga koboreru (X spills out),2.4
+metaphoricity,372,kuuki (air),X wo sosogu (Y pours X),2.4
+metaphoricity,372,kuuki (air),X ga yodomu (X gets stagnant),2.4
+metaphoricity,372,zetubou (despair),X wo siboridasu (Y squeezes X),2.4
+metaphoricity,372,zetubou (despair),X ga nagareru (X flows),2.4
+metaphoricity,372,syutisin (shame),X ga tamaru (X gets collected),2.4
+metaphoricity,372,kotoba (word),X wo makitirasu (Y sprinkles X),2.4
+metaphoricity,372,kotoba (word),X ga nagareru (X flows),2.4
+metaphoricity,372,kotoba (word),X ga nagarederu (X flows out),2.4
+metaphoricity,372,kinsen (money),X ga nigoru (X gets cloudy),2.4
+metaphoricity,372,oto (sound),X ga koboreru (X spills out),2.4
+metaphoricity,372,oto (sound),X wo susuru (Y sips X),2.4
+metaphoricity,372,oto (sound),X wo siboridasu (Y squeezes X),2.4
+metaphoricity,372,oto (sound),X wo makitirasu (Y sprinkles X),2.4
+metaphoricity,372,oto (sound),X ga yodomu (X gets stagnant),2.4
+metaphoricity,471,ari (ant),X ga nigoru (X gets cloudy),2.3
+metaphoricity,471,neko (cat),X ni hitaru (Y soaks in X),2.3
+metaphoricity,471,huan (anxiety),X ga huttou-suru (X boils),2.3
+metaphoricity,471,huan (anxiety),X ga nagareru (X flows),2.3
+metaphoricity,471,huan (anxiety),X ga waku (X gushes out),2.3
+metaphoricity,471,huan (anxiety),X wo nomu (Y drinks X),2.3
+metaphoricity,471,hikari (light),X ga mitiru (X fills Y),2.3
+metaphoricity,471,roudou (labor),X wo siboridasu (Y squeezes X),2.3
+metaphoricity,471,roudou (labor),X wo abiseru (Y showers X),2.3
+metaphoricity,471,roudou (labor),X ga uzumaku (X whirls),2.3
+metaphoricity,471,roudou (labor),X ga tamaru (X gets collected),2.3
+metaphoricity,471,roudou (labor),X ga nigoru (X gets cloudy),2.3
+metaphoricity,471,yuuki (bravery),X ga nagarederu (X flows out),2.3
+metaphoricity,471,yuuki (bravery),X ga tamaru (X gets collected),2.3
+metaphoricity,471,yorokobi (delight),X wo maku (Y scatters X),2.3
+metaphoricity,471,yorokobi (delight),X ga huttou-suru (X boils),2.3
+metaphoricity,471,yorokobi (delight),X ga tamaru (X gets collected),2.3
+metaphoricity,471,yorokobi (delight),X ga moreru (X leaks),2.3
+metaphoricity,471,yorokobi (delight),X ga nigoru (X gets cloudy),2.3
+metaphoricity,471,koe (voice),X wo tarasu (Y drops X),2.3
+metaphoricity,471,koe (voice),X ga waku (X gushes out),2.3
+metaphoricity,471,koe (voice),X ga sitataru (X drips),2.3
+metaphoricity,471,koe (voice),X ga nigoru (X gets cloudy),2.3
+metaphoricity,471,sitto (envy),X ni sizumu (Y sinks into X),2.3
+metaphoricity,471,ansin (relief),X ga koboreru (X spills out),2.3
+metaphoricity,471,ansin (relief),X wo makitirasu (Y sprinkles X),2.3
+metaphoricity,471,ansin (relief),X ni sizumu (Y sinks into X),2.3
+metaphoricity,471,ansin (relief),X ni hitaru (Y soaks in X),2.3
+metaphoricity,471,ansin (relief),X ga mitiru (X fills Y),2.3
+metaphoricity,471,ansin (relief),X ga tamaru (X gets collected),2.3
+metaphoricity,471,ansin (relief),X ga sitataru (X drips),2.3
+metaphoricity,471,ansin (relief),X ga moreru (X leaks),2.3
+metaphoricity,471,ansin (relief),X ni tukaru (Y gets submerged in X),2.3
+metaphoricity,471,ansin (relief),X ga sumu (X gets clear),2.3
+metaphoricity,471,iwa (rock),X wo tarasu (Y drops X),2.3
+metaphoricity,471,iwa (rock),X ni uku (Y floats on X),2.3
+metaphoricity,471,kibou (hope),X ga huttou-suru (X boils),2.3
+metaphoricity,471,kairaku (pleasure),X wo tarasu (Y drops X),2.3
+metaphoricity,471,kairaku (pleasure),X ni hitasu (Y dips Z in X),2.3
+metaphoricity,471,kairaku (pleasure),X ga yodomu (X gets stagnant),2.3
+metaphoricity,471,kairaku (pleasure),X ga ahureru (X overflows),2.3
+metaphoricity,471,kairaku (pleasure),X wo nomu (Y drinks X),2.3
+metaphoricity,471,ikari (anger),X wo tarasu (Y drops X),2.3
+metaphoricity,471,ikari (anger),X ni hitasu (Y dips Z in X),2.3
+metaphoricity,471,ikari (anger),X ga yodomu (X gets stagnant),2.3
+metaphoricity,471,ikari (anger),X ga ahureru (X overflows),2.3
+metaphoricity,471,ikari (anger),X wo nomu (Y drinks X),2.3
+metaphoricity,471,kyouhu (fear),X wo makitirasu (Y sprinkles X),2.3
+metaphoricity,471,kyouhu (fear),X ga ahureru (X overflows),2.3
+metaphoricity,471,kyouhu (fear),X ni tukaru (Y gets submerged in X),2.3
+metaphoricity,471,kanasimi (sorrow),X ga yodomu (X gets stagnant),2.3
+metaphoricity,471,kanasimi (sorrow),X ga moreru (X leaks),2.3
+metaphoricity,471,jouhou (information),X ga hotobasiru (X spurts),2.3
+metaphoricity,471,jouhou (information),X wo susuru (Y sips X),2.3
+metaphoricity,471,jounetu (passion),X wo susuru (Y sips X),2.3
+metaphoricity,471,jounetu (passion),X ga nagareru (X flows),2.3
+metaphoricity,471,jounetu (passion),X wo abiseru (Y showers X),2.3
+metaphoricity,471,jounetu (passion),X ga mitiru (X fills Y),2.3
+metaphoricity,471,ito (intention),X wo tarasu (Y drops X),2.3
+metaphoricity,471,ito (intention),X ga waku (X gushes out),2.3
+metaphoricity,471,ito (intention),X ga sitataru (X drips),2.3
+metaphoricity,471,ai (love),X ni sizumu (Y sinks into X),2.3
+metaphoricity,471,ai (love),X ga sumu (X gets clear),2.3
+metaphoricity,471,zouo (hatred),X wo siboridasu (Y squeezes X),2.3
+metaphoricity,471,zouo (hatred),X ga sitataru (X drips),2.3
+metaphoricity,471,zouo (hatred),X ga nigoru (X gets cloudy),2.3
+metaphoricity,471,jikan (time),X ga huttou-suru (X boils),2.3
+metaphoricity,471,jikan (time),X ga mitiru (X fills Y),2.3
+metaphoricity,471,tanosisa (enjoyment),X de susugu (Y rinses Z with X),2.3
+metaphoricity,471,kimoti (feeling),X ga yodomu (X gets stagnant),2.3
+metaphoricity,471,kimoti (feeling),X ga sumu (X gets clear),2.3
+metaphoricity,471,doro (mud),X ga yodomu (X gets stagnant),2.3
+metaphoricity,471,doro (mud),X wo nomu (Y drinks X),2.3
+metaphoricity,471,rikai (understanding),X de susugu (Y rinses Z with X),2.3
+metaphoricity,471,rikai (understanding),X ga nagareru (X flows),2.3
+metaphoricity,471,rikai (understanding),X ga nagarederu (X flows out),2.3
+metaphoricity,471,rikai (understanding),X ni hitasu (Y dips Z in X),2.3
+metaphoricity,471,rikai (understanding),X ni hitaru (Y soaks in X),2.3
+metaphoricity,471,suimin (sleep),X ni sizumu (Y sinks into X),2.3
+metaphoricity,471,suimin (sleep),X ga tamaru (X gets collected),2.3
+metaphoricity,471,suna (sand),X wo tarasu (Y drops X),2.3
+metaphoricity,471,suna (sand),X ga huttou-suru (X boils),2.3
+metaphoricity,471,suna (sand),X ga nizimu (X oozes),2.3
+metaphoricity,471,suna (sand),X ga sitataru (X drips),2.3
+metaphoricity,471,suna (sand),X ga sumu (X gets clear),2.3
+metaphoricity,471,kuuki (air),X ni tukaru (Y gets submerged in X),2.3
+metaphoricity,471,zetubou (despair),X wo tarasu (Y drops X),2.3
+metaphoricity,471,zetubou (despair),X wo kumitoru (Y scoops up X),2.3
+metaphoricity,471,zetubou (despair),X ga uzumaku (X whirls),2.3
+metaphoricity,471,zetubou (despair),X ga sitataru (X drips),2.3
+metaphoricity,471,syutisin (shame),X wo tarasu (Y drops X),2.3
+metaphoricity,471,syutisin (shame),X ni hitaru (Y soaks in X),2.3
+metaphoricity,471,syutisin (shame),X ga nizimu (X oozes),2.3
+metaphoricity,471,syutisin (shame),X ga sitataru (X drips),2.3
+metaphoricity,471,kotoba (word),X ga simiru (X soaks into Y),2.3
+metaphoricity,471,kotoba (word),X de susugu (Y rinses Z with X),2.3
+metaphoricity,471,kotoba (word),X ni hitasu (Y dips Z in X),2.3
+metaphoricity,471,oto (sound),X ni sizumu (Y sinks into X),2.3
+metaphoricity,471,oto (sound),X ga uzumaku (X whirls),2.3
+metaphoricity,570,nioi (smell),X ga simiru (X soaks into Y),2.2
+metaphoricity,570,nioi (smell),X wo susuru (Y sips X),2.2
+metaphoricity,570,nioi (smell),X ga sumu (X gets clear),2.2
+metaphoricity,570,huan (anxiety),X ni oboreru (Y almost drowns in X),2.2
+metaphoricity,570,huan (anxiety),X ga nizimu (X oozes),2.2
+metaphoricity,570,human (complaint),X wo susuru (Y sips X),2.2
+metaphoricity,570,human (complaint),X ga nagarederu (X flows out),2.2
+metaphoricity,570,human (complaint),X ni hitaru (Y soaks in X),2.2
+metaphoricity,570,human (complaint),X ga waku (X gushes out),2.2
+metaphoricity,570,human (complaint),X wo nomu (Y drinks X),2.2
+metaphoricity,570,hikari (light),X de susugu (Y rinses Z with X),2.2
+metaphoricity,570,hikari (light),X ni sizumu (Y sinks into X),2.2
+metaphoricity,570,hikari (light),X ga waku (X gushes out),2.2
+metaphoricity,570,hikari (light),X ga nigoru (X gets cloudy),2.2
+metaphoricity,570,roudou (labor),X ga yodomu (X gets stagnant),2.2
+metaphoricity,570,roudou (labor),X ga waku (X gushes out),2.2
+metaphoricity,570,yuuki (bravery),X wo tarasu (Y drops X),2.2
+metaphoricity,570,yorokobi (delight),X ga koboreru (X spills out),2.2
+metaphoricity,570,yorokobi (delight),X wo siboridasu (Y squeezes X),2.2
+metaphoricity,570,yorokobi (delight),X ga nagareru (X flows),2.2
+metaphoricity,570,yorokobi (delight),X ni uku (Y floats on X),2.2
+metaphoricity,570,yorokobi (delight),X ni hitasu (Y dips Z in X),2.2
+metaphoricity,570,yorokobi (delight),X ga ahureru (X overflows),2.2
+metaphoricity,570,koe (voice),X wo abiseru (Y showers X),2.2
+metaphoricity,570,koe (voice),X wo nomu (Y drinks X),2.2
+metaphoricity,570,sitto (envy),X ga uzumaku (X whirls),2.2
+metaphoricity,570,sitto (envy),X ga waku (X gushes out),2.2
+metaphoricity,570,ansin (relief),X ga simiru (X soaks into Y),2.2
+metaphoricity,570,ansin (relief),X ga nizimu (X oozes),2.2
+metaphoricity,570,iwa (rock),X wo siboridasu (Y squeezes X),2.2
+metaphoricity,570,iwa (rock),X ga uzumaku (X whirls),2.2
+metaphoricity,570,kibou (hope),X wo abiseru (Y showers X),2.2
+metaphoricity,570,kairaku (pleasure),X ga huttou-suru (X boils),2.2
+metaphoricity,570,kairaku (pleasure),X ga nizimu (X oozes),2.2
+metaphoricity,570,kairaku (pleasure),X ni tukaru (Y gets submerged in X),2.2
+metaphoricity,570,kairaku (pleasure),X ga nigoru (X gets cloudy),2.2
+metaphoricity,570,ikari (anger),X ga simiru (X soaks into Y),2.2
+metaphoricity,570,ikari (anger),X wo makitirasu (Y sprinkles X),2.2
+metaphoricity,570,ikari (anger),X wo abiseru (Y showers X),2.2
+metaphoricity,570,ikari (anger),X ni tukaru (Y gets submerged in X),2.2
+metaphoricity,570,ikari (anger),X ga sumu (X gets clear),2.2
+metaphoricity,570,ikari (anger),X ga nigoru (X gets cloudy),2.2
+metaphoricity,570,kyouhu (fear),X wo tarasu (Y drops X),2.2
+metaphoricity,570,kyouhu (fear),X ni uku (Y floats on X),2.2
+metaphoricity,570,kyouhu (fear),X ni hitaru (Y soaks in X),2.2
+metaphoricity,570,kyouhu (fear),X ga uzumaku (X whirls),2.2
+metaphoricity,570,kyouhu (fear),X ga mitiru (X fills Y),2.2
+metaphoricity,570,kyouhu (fear),X ga nigoru (X gets cloudy),2.2
+metaphoricity,570,kanasimi (sorrow),X ga koboreru (X spills out),2.2
+metaphoricity,570,kanasimi (sorrow),X wo makitirasu (Y sprinkles X),2.2
+metaphoricity,570,kanasimi (sorrow),X ga uzumaku (X whirls),2.2
+metaphoricity,570,kanasimi (sorrow),X wo nomu (Y drinks X),2.2
+metaphoricity,570,jouhou (information),X wo maku (Y scatters X),2.2
+metaphoricity,570,jounetu (passion),X ga nigoru (X gets cloudy),2.2
+metaphoricity,570,ito (intention),X ga simiru (X soaks into Y),2.2
+metaphoricity,570,kanjou (emotion),X wo kakeru (Y sprays X),2.2
+metaphoricity,570,kanjou (emotion),X ga hotobasiru (X spurts),2.2
+metaphoricity,570,kanjou (emotion),X ni sizumu (Y sinks into X),2.2
+metaphoricity,570,kanjou (emotion),X ga yodomu (X gets stagnant),2.2
+metaphoricity,570,kanjou (emotion),X ga mitiru (X fills Y),2.2
+metaphoricity,570,kanjou (emotion),X ga tamaru (X gets collected),2.2
+metaphoricity,570,kanjou (emotion),X ga nizimu (X oozes),2.2
+metaphoricity,570,zouo (hatred),X wo kakeru (Y sprays X),2.2
+metaphoricity,570,jikan (time),X wo susuru (Y sips X),2.2
+metaphoricity,570,jikan (time),X wo siboridasu (Y squeezes X),2.2
+metaphoricity,570,jikan (time),X ni hitasu (Y dips Z in X),2.2
+metaphoricity,570,jikan (time),X wo nomu (Y drinks X),2.2
+metaphoricity,570,tanosisa (enjoyment),X ga simiru (X soaks into Y),2.2
+metaphoricity,570,tanosisa (enjoyment),X wo nomu (Y drinks X),2.2
+metaphoricity,570,kimoti (feeling),X wo nomu (Y drinks X),2.2
+metaphoricity,570,rikai (understanding),X wo kakeru (Y sprays X),2.2
+metaphoricity,570,rikai (understanding),X ga koboreru (X spills out),2.2
+metaphoricity,570,rikai (understanding),X wo siboridasu (Y squeezes X),2.2
+metaphoricity,570,rikai (understanding),X ga yodomu (X gets stagnant),2.2
+metaphoricity,570,rikai (understanding),X ni oboreru (Y almost drowns in X),2.2
+metaphoricity,570,suimin (sleep),X ga simiru (X soaks into Y),2.2
+metaphoricity,570,suimin (sleep),X wo makitirasu (Y sprinkles X),2.2
+metaphoricity,570,suimin (sleep),X ga uzumaku (X whirls),2.2
+metaphoricity,570,kuuki (air),X wo tarasu (Y drops X),2.2
+metaphoricity,570,kuuki (air),X wo siboridasu (Y squeezes X),2.2
+metaphoricity,570,kuuki (air),X ga mitiru (X fills Y),2.2
+metaphoricity,570,zetubou (despair),X ga hotobasiru (X spurts),2.2
+metaphoricity,570,zetubou (despair),X ni sizumu (Y sinks into X),2.2
+metaphoricity,570,zetubou (despair),X ni uku (Y floats on X),2.2
+metaphoricity,570,syutisin (shame),X ga huttou-suru (X boils),2.2
+metaphoricity,570,syutisin (shame),X ga nigoru (X gets cloudy),2.2
+metaphoricity,570,kotoba (word),X wo maku (Y scatters X),2.2
+metaphoricity,570,kotoba (word),X wo kumitoru (Y scoops up X),2.2
+metaphoricity,570,kotoba (word),X ga sitataru (X drips),2.2
+metaphoricity,570,kotoba (word),X ga sumu (X gets clear),2.2
+metaphoricity,570,kinsen (money),X ga koboreru (X spills out),2.2
+metaphoricity,570,kinsen (money),X wo siboridasu (Y squeezes X),2.2
+metaphoricity,570,kinsen (money),X ga huttou-suru (X boils),2.2
+metaphoricity,570,kinsen (money),X ga nagarederu (X flows out),2.2
+metaphoricity,570,kinsen (money),X ga sumu (X gets clear),2.2
+metaphoricity,570,oto (sound),X ga tamaru (X gets collected),2.2
+metaphoricity,666,ari (ant),X ga mitiru (X fills Y),2.1
+metaphoricity,666,neko (cat),X wo kakeru (Y sprays X),2.1
+metaphoricity,666,neko (cat),X wo makitirasu (Y sprinkles X),2.1
+metaphoricity,666,neko (cat),X ga huttou-suru (X boils),2.1
+metaphoricity,666,neko (cat),X ga uzumaku (X whirls),2.1
+metaphoricity,666,nioi (smell),X ga koboreru (X spills out),2.1
+metaphoricity,666,nioi (smell),X ni hitasu (Y dips Z in X),2.1
+metaphoricity,666,huan (anxiety),X wo siboridasu (Y squeezes X),2.1
+metaphoricity,666,huan (anxiety),X ni sizumu (Y sinks into X),2.1
+metaphoricity,666,huan (anxiety),X wo sosogu (Y pours X),2.1
+metaphoricity,666,huan (anxiety),X ga moreru (X leaks),2.1
+metaphoricity,666,huan (anxiety),X ga nigoru (X gets cloudy),2.1
+metaphoricity,666,hikari (light),X ga hotobasiru (X spurts),2.1
+metaphoricity,666,hikari (light),X wo sosogu (Y pours X),2.1
+metaphoricity,666,hikari (light),X ni hitaru (Y soaks in X),2.1
+metaphoricity,666,hikari (light),X ni oboreru (Y almost drowns in X),2.1
+metaphoricity,666,hikari (light),X ga sitataru (X drips),2.1
+metaphoricity,666,roudou (labor),X wo kumitoru (Y scoops up X),2.1
+metaphoricity,666,yuuki (bravery),X wo maku (Y scatters X),2.1
+metaphoricity,666,yuuki (bravery),X ga sumu (X gets clear),2.1
+metaphoricity,666,yorokobi (delight),X de susugu (Y rinses Z with X),2.1
+metaphoricity,666,yorokobi (delight),X ga uzumaku (X whirls),2.1
+metaphoricity,666,koe (voice),X wo susuru (Y sips X),2.1
+metaphoricity,666,koe (voice),X ga sumu (X gets clear),2.1
+metaphoricity,666,sitto (envy),X wo siboridasu (Y squeezes X),2.1
+metaphoricity,666,sitto (envy),X ni uku (Y floats on X),2.1
+metaphoricity,666,ansin (relief),X ga ahureru (X overflows),2.1
+metaphoricity,666,iwa (rock),X ga waku (X gushes out),2.1
+metaphoricity,666,iwa (rock),X ga tamaru (X gets collected),2.1
+metaphoricity,666,kibou (hope),X ga koboreru (X spills out),2.1
+metaphoricity,666,kibou (hope),X wo siboridasu (Y squeezes X),2.1
+metaphoricity,666,kibou (hope),X ni sizumu (Y sinks into X),2.1
+metaphoricity,666,kibou (hope),X ni hitaru (Y soaks in X),2.1
+metaphoricity,666,kibou (hope),X ga mitiru (X fills Y),2.1
+metaphoricity,666,kairaku (pleasure),X wo kakeru (Y sprays X),2.1
+metaphoricity,666,kairaku (pleasure),X wo abiseru (Y showers X),2.1
+metaphoricity,666,kairaku (pleasure),X ga mitiru (X fills Y),2.1
+metaphoricity,666,kairaku (pleasure),X ga sumu (X gets clear),2.1
+metaphoricity,666,ikari (anger),X de susugu (Y rinses Z with X),2.1
+metaphoricity,666,ikari (anger),X wo maku (Y scatters X),2.1
+metaphoricity,666,ikari (anger),X ga sitataru (X drips),2.1
+metaphoricity,666,kyouhu (fear),X wo maku (Y scatters X),2.1
+metaphoricity,666,kanasimi (sorrow),X ga huttou-suru (X boils),2.1
+metaphoricity,666,kanasimi (sorrow),X ni hitaru (Y soaks in X),2.1
+metaphoricity,666,kanasimi (sorrow),X ga tamaru (X gets collected),2.1
+metaphoricity,666,kanasimi (sorrow),X ga ahureru (X overflows),2.1
+metaphoricity,666,jouhou (information),X ga nagarederu (X flows out),2.1
+metaphoricity,666,jouhou (information),X ga ahureru (X overflows),2.1
+metaphoricity,666,jounetu (passion),X ni hitaru (Y soaks in X),2.1
+metaphoricity,666,ito (intention),X wo siboridasu (Y squeezes X),2.1
+metaphoricity,666,ito (intention),X ni hitaru (Y soaks in X),2.1
+metaphoricity,666,ito (intention),X ga uzumaku (X whirls),2.1
+metaphoricity,666,ito (intention),X ga mitiru (X fills Y),2.1
+metaphoricity,666,ito (intention),X ni tukaru (Y gets submerged in X),2.1
+metaphoricity,666,ito (intention),X ga nigoru (X gets cloudy),2.1
+metaphoricity,666,ai (love),X wo kakeru (Y sprays X),2.1
+metaphoricity,666,kanjou (emotion),X wo maku (Y scatters X),2.1
+metaphoricity,666,kanjou (emotion),X ga uzumaku (X whirls),2.1
+metaphoricity,666,kanjou (emotion),X ga waku (X gushes out),2.1
+metaphoricity,666,kanjou (emotion),X ga sitataru (X drips),2.1
+metaphoricity,666,kanjou (emotion),X ga moreru (X leaks),2.1
+metaphoricity,666,zouo (hatred),X ga waku (X gushes out),2.1
+metaphoricity,666,tanosisa (enjoyment),X wo siboridasu (Y squeezes X),2.1
+metaphoricity,666,tanosisa (enjoyment),X ni sizumu (Y sinks into X),2.1
+metaphoricity,666,tanosisa (enjoyment),X ga nagareru (X flows),2.1
+metaphoricity,666,tanosisa (enjoyment),X ga waku (X gushes out),2.1
+metaphoricity,666,tanosisa (enjoyment),X ga tamaru (X gets collected),2.1
+metaphoricity,666,kimoti (feeling),X ga simiru (X soaks into Y),2.1
+metaphoricity,666,kimoti (feeling),X ni sizumu (Y sinks into X),2.1
+metaphoricity,666,kimoti (feeling),X wo sosogu (Y pours X),2.1
+metaphoricity,666,kimoti (feeling),X ga ahureru (X overflows),2.1
+metaphoricity,666,kimoti (feeling),X ga nizimu (X oozes),2.1
+metaphoricity,666,abura (oil),X wo sosogu (Y pours X),2.1
+metaphoricity,666,doro (mud),X de susugu (Y rinses Z with X),2.1
+metaphoricity,666,doro (mud),X wo abiseru (Y showers X),2.1
+metaphoricity,666,suimin (sleep),X ni hitasu (Y dips Z in X),2.1
+metaphoricity,666,suna (sand),X wo abiseru (Y showers X),2.1
+metaphoricity,666,kuuki (air),X ni hitaru (Y soaks in X),2.1
+metaphoricity,666,kuuki (air),X ga nizimu (X oozes),2.1
+metaphoricity,666,zetubou (despair),X de susugu (Y rinses Z with X),2.1
+metaphoricity,666,zetubou (despair),X wo maku (Y scatters X),2.1
+metaphoricity,666,zetubou (despair),X ga waku (X gushes out),2.1
+metaphoricity,666,zetubou (despair),X ni oboreru (Y almost drowns in X),2.1
+metaphoricity,666,zetubou (despair),X ni tukaru (Y gets submerged in X),2.1
+metaphoricity,666,zetubou (despair),X ga sumu (X gets clear),2.1
+metaphoricity,666,syutisin (shame),X ga simiru (X soaks into Y),2.1
+metaphoricity,666,syutisin (shame),X wo susuru (Y sips X),2.1
+metaphoricity,666,kotoba (word),X ga hotobasiru (X spurts),2.1
+metaphoricity,666,kotoba (word),X wo siboridasu (Y squeezes X),2.1
+metaphoricity,666,kinsen (money),X wo tarasu (Y drops X),2.1
+metaphoricity,666,kinsen (money),X wo kumitoru (Y scoops up X),2.1
+metaphoricity,666,oto (sound),X ni hitaru (Y soaks in X),2.1
+metaphoricity,666,oto (sound),X ni oboreru (Y almost drowns in X),2.1
+metaphoricity,759,neko (cat),X ga koboreru (X spills out),2.0
+metaphoricity,759,neko (cat),X ga moreru (X leaks),2.0
+metaphoricity,759,nioi (smell),X ni tukaru (Y gets submerged in X),2.0
+metaphoricity,759,keeki (cake),X ni oboreru (Y almost drowns in X),2.0
+metaphoricity,759,huan (anxiety),X wo susuru (Y sips X),2.0
+metaphoricity,759,huan (anxiety),X ga yodomu (X gets stagnant),2.0
+metaphoricity,759,huan (anxiety),X ga sumu (X gets clear),2.0
+metaphoricity,759,human (complaint),X ga uzumaku (X whirls),2.0
+metaphoricity,759,human (complaint),X ga sitataru (X drips),2.0
+metaphoricity,759,roudou (labor),X wo makitirasu (Y sprinkles X),2.0
+metaphoricity,759,roudou (labor),X ga mitiru (X fills Y),2.0
+metaphoricity,759,roudou (labor),X ga nizimu (X oozes),2.0
+metaphoricity,759,yuuki (bravery),X ni hitasu (Y dips Z in X),2.0
+metaphoricity,759,yuuki (bravery),X ga yodomu (X gets stagnant),2.0
+metaphoricity,759,yuuki (bravery),X ga nizimu (X oozes),2.0
+metaphoricity,759,yuuki (bravery),X ga nigoru (X gets cloudy),2.0
+metaphoricity,759,yorokobi (delight),X ni hitaru (Y soaks in X),2.0
+metaphoricity,759,yorokobi (delight),X ga waku (X gushes out),2.0
+metaphoricity,759,koe (voice),X wo makitirasu (Y sprinkles X),2.0
+metaphoricity,759,koe (voice),X wo kumitoru (Y scoops up X),2.0
+metaphoricity,759,koe (voice),X ni uku (Y floats on X),2.0
+metaphoricity,759,sitto (envy),X ga koboreru (X spills out),2.0
+metaphoricity,759,sitto (envy),X wo tarasu (Y drops X),2.0
+metaphoricity,759,sitto (envy),X ga tamaru (X gets collected),2.0
+metaphoricity,759,sitto (envy),X ga nigoru (X gets cloudy),2.0
+metaphoricity,759,ansin (relief),X wo kakeru (Y sprays X),2.0
+metaphoricity,759,iwa (rock),X wo nomu (Y drinks X),2.0
+metaphoricity,759,kibou (hope),X ga yodomu (X gets stagnant),2.0
+metaphoricity,759,kyouhu (fear),X ga yodomu (X gets stagnant),2.0
+metaphoricity,759,kanasimi (sorrow),X wo maku (Y scatters X),2.0
+metaphoricity,759,jouhou (information),X ga nagareru (X flows),2.0
+metaphoricity,759,jouhou (information),X ga mitiru (X fills Y),2.0
+metaphoricity,759,jouhou (information),X wo nomu (Y drinks X),2.0
+metaphoricity,759,jounetu (passion),X ga simiru (X soaks into Y),2.0
+metaphoricity,759,jounetu (passion),X wo makitirasu (Y sprinkles X),2.0
+metaphoricity,759,jounetu (passion),X ga tamaru (X gets collected),2.0
+metaphoricity,759,ai (love),X wo sosogu (Y pours X),2.0
+metaphoricity,759,kanjou (emotion),X ga nagarederu (X flows out),2.0
+metaphoricity,759,kanjou (emotion),X ni hitasu (Y dips Z in X),2.0
+metaphoricity,759,zouo (hatred),X wo maku (Y scatters X),2.0
+metaphoricity,759,jikan (time),X wo kumitoru (Y scoops up X),2.0
+metaphoricity,759,jikan (time),X ga sitataru (X drips),2.0
+metaphoricity,759,tanosisa (enjoyment),X wo susuru (Y sips X),2.0
+metaphoricity,759,tanosisa (enjoyment),X ga moreru (X leaks),2.0
+metaphoricity,759,tanosisa (enjoyment),X ga sumu (X gets clear),2.0
+metaphoricity,759,kimoti (feeling),X ga nagareru (X flows),2.0
+metaphoricity,759,kimoti (feeling),X ga waku (X gushes out),2.0
+metaphoricity,759,doro (mud),X wo maku (Y scatters X),2.0
+metaphoricity,759,doro (mud),X ga nigoru (X gets cloudy),2.0
+metaphoricity,759,rikai (understanding),X ga ahureru (X overflows),2.0
+metaphoricity,759,suimin (sleep),X ga nagareru (X flows),2.0
+metaphoricity,759,suna (sand),X wo susuru (Y sips X),2.0
+metaphoricity,759,suna (sand),X ga yodomu (X gets stagnant),2.0
+metaphoricity,759,suna (sand),X ga uzumaku (X whirls),2.0
+metaphoricity,759,suna (sand),X ni tukaru (Y gets submerged in X),2.0
+metaphoricity,759,kuuki (air),X ga huttou-suru (X boils),2.0
+metaphoricity,759,zetubou (despair),X ga simiru (X soaks into Y),2.0
+metaphoricity,759,zetubou (despair),X ga nagarederu (X flows out),2.0
+metaphoricity,759,syutisin (shame),X wo sosogu (Y pours X),2.0
+metaphoricity,759,syutisin (shame),X ni hitasu (Y dips Z in X),2.0
+metaphoricity,759,syutisin (shame),X wo nomu (Y drinks X),2.0
+metaphoricity,759,kinsen (money),X ga yodomu (X gets stagnant),2.0
+metaphoricity,759,kinsen (money),X ni tukaru (Y gets submerged in X),2.0
+metaphoricity,759,oto (sound),X ga hotobasiru (X spurts),2.0
+metaphoricity,759,oto (sound),X ga mitiru (X fills Y),2.0
+metaphoricity,824,ari (ant),X ga huttou-suru (X boils),1.9
+metaphoricity,824,ari (ant),X ni hitaru (Y soaks in X),1.9
+metaphoricity,824,ari (ant),X ga waku (X gushes out),1.9
+metaphoricity,824,ari (ant),X ga nizimu (X oozes),1.9
+metaphoricity,824,neko (cat),X ni oboreru (Y almost drowns in X),1.9
+metaphoricity,824,neko (cat),X ga nizimu (X oozes),1.9
+metaphoricity,824,nioi (smell),X wo tarasu (Y drops X),1.9
+metaphoricity,824,huan (anxiety),X ga simiru (X soaks into Y),1.9
+metaphoricity,824,huan (anxiety),X ga mitiru (X fills Y),1.9
+metaphoricity,824,human (complaint),X wo sosogu (Y pours X),1.9
+metaphoricity,824,human (complaint),X wo abiseru (Y showers X),1.9
+metaphoricity,824,human (complaint),X ga yodomu (X gets stagnant),1.9
+metaphoricity,824,hikari (light),X ga nizimu (X oozes),1.9
+metaphoricity,824,roudou (labor),X ga nagareru (X flows),1.9
+metaphoricity,824,roudou (labor),X ni hitasu (Y dips Z in X),1.9
+metaphoricity,824,yuuki (bravery),X ga simiru (X soaks into Y),1.9
+metaphoricity,824,yuuki (bravery),X wo nomu (Y drinks X),1.9
+metaphoricity,824,yorokobi (delight),X ni sizumu (Y sinks into X),1.9
+metaphoricity,824,koe (voice),X de susugu (Y rinses Z with X),1.9
+metaphoricity,824,koe (voice),X ga koboreru (X spills out),1.9
+metaphoricity,824,sitto (envy),X wo kakeru (Y sprays X),1.9
+metaphoricity,824,sitto (envy),X ga moreru (X leaks),1.9
+metaphoricity,824,sitto (envy),X ni tukaru (Y gets submerged in X),1.9
+metaphoricity,824,ansin (relief),X ga waku (X gushes out),1.9
+metaphoricity,824,iwa (rock),X wo susuru (Y sips X),1.9
+metaphoricity,824,kibou (hope),X wo susuru (Y sips X),1.9
+metaphoricity,824,kibou (hope),X wo maku (Y scatters X),1.9
+metaphoricity,824,kibou (hope),X ga moreru (X leaks),1.9
+metaphoricity,824,kairaku (pleasure),X ga tamaru (X gets collected),1.9
+metaphoricity,824,ikari (anger),X ga tamaru (X gets collected),1.9
+metaphoricity,824,kyouhu (fear),X de susugu (Y rinses Z with X),1.9
+metaphoricity,824,kanasimi (sorrow),X wo kakeru (Y sprays X),1.9
+metaphoricity,824,jouhou (information),X de susugu (Y rinses Z with X),1.9
+metaphoricity,824,jouhou (information),X ga tamaru (X gets collected),1.9
+metaphoricity,824,jounetu (passion),X ga ahureru (X overflows),1.9
+metaphoricity,824,ito (intention),X wo sosogu (Y pours X),1.9
+metaphoricity,824,ito (intention),X ga yodomu (X gets stagnant),1.9
+metaphoricity,824,kanjou (emotion),X ga koboreru (X spills out),1.9
+metaphoricity,824,kanjou (emotion),X wo tarasu (Y drops X),1.9
+metaphoricity,824,zouo (hatred),X wo kumitoru (Y scoops up X),1.9
+metaphoricity,824,jikan (time),X wo tarasu (Y drops X),1.9
+metaphoricity,824,tanosisa (enjoyment),X ga nagarederu (X flows out),1.9
+metaphoricity,824,tanosisa (enjoyment),X ni hitasu (Y dips Z in X),1.9
+metaphoricity,824,tanosisa (enjoyment),X ni hitaru (Y soaks in X),1.9
+metaphoricity,824,kimoti (feeling),X wo kakeru (Y sprays X),1.9
+metaphoricity,824,kimoti (feeling),X ni uku (Y floats on X),1.9
+metaphoricity,824,mizu (water),X ga hotobasiru (X spurts),1.9
+metaphoricity,824,abura (oil),X ga hotobasiru (X spurts),1.9
+metaphoricity,824,doro (mud),X ni sizumu (Y sinks into X),1.9
+metaphoricity,824,doro (mud),X ni hitaru (Y soaks in X),1.9
+metaphoricity,824,doro (mud),X ni oboreru (Y almost drowns in X),1.9
+metaphoricity,824,rikai (understanding),X ni sizumu (Y sinks into X),1.9
+metaphoricity,824,suimin (sleep),X ga mitiru (X fills Y),1.9
+metaphoricity,824,suna (sand),X ni hitasu (Y dips Z in X),1.9
+metaphoricity,824,suna (sand),X ga waku (X gushes out),1.9
+metaphoricity,824,kuuki (air),X de susugu (Y rinses Z with X),1.9
+metaphoricity,824,kuuki (air),X wo nomu (Y drinks X),1.9
+metaphoricity,824,zetubou (despair),X wo abiseru (Y showers X),1.9
+metaphoricity,824,zetubou (despair),X ni hitaru (Y soaks in X),1.9
+metaphoricity,824,zetubou (despair),X ga yodomu (X gets stagnant),1.9
+metaphoricity,824,zetubou (despair),X ga nigoru (X gets cloudy),1.9
+metaphoricity,824,syutisin (shame),X wo maku (Y scatters X),1.9
+metaphoricity,824,kotoba (word),X wo abiseru (Y showers X),1.9
+metaphoricity,824,kotoba (word),X ni hitaru (Y soaks in X),1.9
+metaphoricity,824,kinsen (money),X wo abiseru (Y showers X),1.9
+metaphoricity,824,kinsen (money),X ga ahureru (X overflows),1.9
+metaphoricity,824,oto (sound),X de susugu (Y rinses Z with X),1.9
+metaphoricity,824,oto (sound),X ni uku (Y floats on X),1.9
+metaphoricity,892,ari (ant),X ga uzumaku (X whirls),1.8
+metaphoricity,892,neko (cat),X de susugu (Y rinses Z with X),1.8
+metaphoricity,892,neko (cat),X ga nagareru (X flows),1.8
+metaphoricity,892,neko (cat),X wo abiseru (Y showers X),1.8
+metaphoricity,892,neko (cat),X ga yodomu (X gets stagnant),1.8
+metaphoricity,892,neko (cat),X ga sitataru (X drips),1.8
+metaphoricity,892,neko (cat),X ni tukaru (Y gets submerged in X),1.8
+metaphoricity,892,nioi (smell),X ni sizumu (Y sinks into X),1.8
+metaphoricity,892,nioi (smell),X ga nizimu (X oozes),1.8
+metaphoricity,892,keeki (cake),X wo siboridasu (Y squeezes X),1.8
+metaphoricity,892,huan (anxiety),X wo maku (Y scatters X),1.8
+metaphoricity,892,huan (anxiety),X wo makitirasu (Y sprinkles X),1.8
+metaphoricity,892,huan (anxiety),X ni hitasu (Y dips Z in X),1.8
+metaphoricity,892,huan (anxiety),X ga uzumaku (X whirls),1.8
+metaphoricity,892,human (complaint),X ga koboreru (X spills out),1.8
+metaphoricity,892,human (complaint),X wo siboridasu (Y squeezes X),1.8
+metaphoricity,892,human (complaint),X ni hitasu (Y dips Z in X),1.8
+metaphoricity,892,hikari (light),X ga nagarederu (X flows out),1.8
+metaphoricity,892,hikari (light),X ga moreru (X leaks),1.8
+metaphoricity,892,roudou (labor),X de susugu (Y rinses Z with X),1.8
+metaphoricity,892,roudou (labor),X ga moreru (X leaks),1.8
+metaphoricity,892,roudou (labor),X ni tukaru (Y gets submerged in X),1.8
+metaphoricity,892,yorokobi (delight),X ga nagarederu (X flows out),1.8
+metaphoricity,892,koe (voice),X ga ahureru (X overflows),1.8
+metaphoricity,892,sitto (envy),X wo makitirasu (Y sprinkles X),1.8
+metaphoricity,892,sitto (envy),X ga yodomu (X gets stagnant),1.8
+metaphoricity,892,sitto (envy),X ga nizimu (X oozes),1.8
+metaphoricity,892,ansin (relief),X wo siboridasu (Y squeezes X),1.8
+metaphoricity,892,ansin (relief),X ga nagareru (X flows),1.8
+metaphoricity,892,ansin (relief),X ni oboreru (Y almost drowns in X),1.8
+metaphoricity,892,iwa (rock),X ga huttou-suru (X boils),1.8
+metaphoricity,892,iwa (rock),X ga nagarederu (X flows out),1.8
+metaphoricity,892,iwa (rock),X wo abiseru (Y showers X),1.8
+metaphoricity,892,kibou (hope),X ga nagarederu (X flows out),1.8
+metaphoricity,892,kibou (hope),X wo nomu (Y drinks X),1.8
+metaphoricity,892,kairaku (pleasure),X wo makitirasu (Y sprinkles X),1.8
+metaphoricity,892,ikari (anger),X wo kumitoru (Y scoops up X),1.8
+metaphoricity,892,kanasimi (sorrow),X wo susuru (Y sips X),1.8
+metaphoricity,892,jouhou (information),X ga moreru (X leaks),1.8
+metaphoricity,892,jounetu (passion),X ga nagarederu (X flows out),1.8
+metaphoricity,892,ito (intention),X ga koboreru (X spills out),1.8
+metaphoricity,892,ai (love),X wo kumitoru (Y scoops up X),1.8
+metaphoricity,892,kanjou (emotion),X ga simiru (X soaks into Y),1.8
+metaphoricity,892,kanjou (emotion),X de susugu (Y rinses Z with X),1.8
+metaphoricity,892,kanjou (emotion),X ga ahureru (X overflows),1.8
+metaphoricity,892,zouo (hatred),X wo makitirasu (Y sprinkles X),1.8
+metaphoricity,892,zouo (hatred),X wo sosogu (Y pours X),1.8
+metaphoricity,892,zouo (hatred),X wo abiseru (Y showers X),1.8
+metaphoricity,892,zouo (hatred),X ga moreru (X leaks),1.8
+metaphoricity,892,tanosisa (enjoyment),X ni tukaru (Y gets submerged in X),1.8
+metaphoricity,892,kimoti (feeling),X ga hotobasiru (X spurts),1.8
+metaphoricity,892,kimoti (feeling),X ni hitaru (Y soaks in X),1.8
+metaphoricity,892,kimoti (feeling),X ni tukaru (Y gets submerged in X),1.8
+metaphoricity,892,abura (oil),X de susugu (Y rinses Z with X),1.8
+metaphoricity,892,doro (mud),X wo kakeru (Y sprays X),1.8
+metaphoricity,892,doro (mud),X wo sosogu (Y pours X),1.8
+metaphoricity,892,doro (mud),X ni uku (Y floats on X),1.8
+metaphoricity,892,rikai (understanding),X wo maku (Y scatters X),1.8
+metaphoricity,892,rikai (understanding),X wo nomu (Y drinks X),1.8
+metaphoricity,892,suimin (sleep),X de susugu (Y rinses Z with X),1.8
+metaphoricity,892,suimin (sleep),X wo kumitoru (Y scoops up X),1.8
+metaphoricity,892,suimin (sleep),X ni uku (Y floats on X),1.8
+metaphoricity,892,suimin (sleep),X ga nizimu (X oozes),1.8
+metaphoricity,892,kuuki (air),X wo susuru (Y sips X),1.8
+metaphoricity,892,kuuki (air),X ni uku (Y floats on X),1.8
+metaphoricity,892,kuuki (air),X ga tamaru (X gets collected),1.8
+metaphoricity,892,zetubou (despair),X wo sosogu (Y pours X),1.8
+metaphoricity,892,kotoba (word),X wo sosogu (Y pours X),1.8
+metaphoricity,892,kotoba (word),X ni uku (Y floats on X),1.8
+metaphoricity,892,kotoba (word),X ni tukaru (Y gets submerged in X),1.8
+metaphoricity,892,oto (sound),X wo maku (Y scatters X),1.8
+metaphoricity,963,ari (ant),X wo susuru (Y sips X),1.7
+metaphoricity,963,ari (ant),X wo sosogu (Y pours X),1.7
+metaphoricity,963,ari (ant),X ga nagareru (X flows),1.7
+metaphoricity,963,ari (ant),X ga yodomu (X gets stagnant),1.7
+metaphoricity,963,ari (ant),X ga sumu (X gets clear),1.7
+metaphoricity,963,neko (cat),X wo tarasu (Y drops X),1.7
+metaphoricity,963,neko (cat),X wo sosogu (Y pours X),1.7
+metaphoricity,963,neko (cat),X ga nigoru (X gets cloudy),1.7
+metaphoricity,963,nioi (smell),X ga hotobasiru (X spurts),1.7
+metaphoricity,963,nioi (smell),X ga nagarederu (X flows out),1.7
+metaphoricity,963,nioi (smell),X wo abiseru (Y showers X),1.7
+metaphoricity,963,nioi (smell),X ni hitaru (Y soaks in X),1.7
+metaphoricity,963,huan (anxiety),X wo kakeru (Y sprays X),1.7
+metaphoricity,963,huan (anxiety),X ga ahureru (X overflows),1.7
+metaphoricity,963,human (complaint),X ga simiru (X soaks into Y),1.7
+metaphoricity,963,human (complaint),X de susugu (Y rinses Z with X),1.7
+metaphoricity,963,human (complaint),X ga mitiru (X fills Y),1.7
+metaphoricity,963,roudou (labor),X ga koboreru (X spills out),1.7
+metaphoricity,963,roudou (labor),X wo susuru (Y sips X),1.7
+metaphoricity,963,roudou (labor),X ga huttou-suru (X boils),1.7
+metaphoricity,963,roudou (labor),X ga sitataru (X drips),1.7
+metaphoricity,963,yuuki (bravery),X wo kumitoru (Y scoops up X),1.7
+metaphoricity,963,yorokobi (delight),X ga nizimu (X oozes),1.7
+metaphoricity,963,koe (voice),X wo sosogu (Y pours X),1.7
+metaphoricity,963,koe (voice),X ga nagareru (X flows),1.7
+metaphoricity,963,sitto (envy),X de susugu (Y rinses Z with X),1.7
+metaphoricity,963,iwa (rock),X wo makitirasu (Y sprinkles X),1.7
+metaphoricity,963,iwa (rock),X ga yodomu (X gets stagnant),1.7
+metaphoricity,963,iwa (rock),X ni oboreru (Y almost drowns in X),1.7
+metaphoricity,963,kibou (hope),X ga waku (X gushes out),1.7
+metaphoricity,963,kibou (hope),X ga sitataru (X drips),1.7
+metaphoricity,963,kairaku (pleasure),X ni hitaru (Y soaks in X),1.7
+metaphoricity,963,kairaku (pleasure),X ga moreru (X leaks),1.7
+metaphoricity,963,ikari (anger),X wo sosogu (Y pours X),1.7
+metaphoricity,963,kyouhu (fear),X ga waku (X gushes out),1.7
+metaphoricity,963,kyouhu (fear),X ga sumu (X gets clear),1.7
+metaphoricity,963,kanasimi (sorrow),X ga mitiru (X fills Y),1.7
+metaphoricity,963,jounetu (passion),X ni oboreru (Y almost drowns in X),1.7
+metaphoricity,963,jounetu (passion),X ga moreru (X leaks),1.7
+metaphoricity,963,ito (intention),X de susugu (Y rinses Z with X),1.7
+metaphoricity,963,ito (intention),X ni sizumu (Y sinks into X),1.7
+metaphoricity,963,ito (intention),X ga huttou-suru (X boils),1.7
+metaphoricity,963,ito (intention),X ga nagarederu (X flows out),1.7
+metaphoricity,963,ito (intention),X ga nizimu (X oozes),1.7
+metaphoricity,963,ito (intention),X ga sumu (X gets clear),1.7
+metaphoricity,963,zouo (hatred),X ga hotobasiru (X spurts),1.7
+metaphoricity,963,zouo (hatred),X ga uzumaku (X whirls),1.7
+metaphoricity,963,zouo (hatred),X ga tamaru (X gets collected),1.7
+metaphoricity,963,tanosisa (enjoyment),X wo kakeru (Y sprays X),1.7
+metaphoricity,963,tanosisa (enjoyment),X ga hotobasiru (X spurts),1.7
+metaphoricity,963,kimoti (feeling),X ga nagarederu (X flows out),1.7
+metaphoricity,963,mizu (water),X wo abiseru (Y showers X),1.7
+metaphoricity,963,abura (oil),X wo susuru (Y sips X),1.7
+metaphoricity,963,abura (oil),X ga uzumaku (X whirls),1.7
+metaphoricity,963,doro (mud),X ga huttou-suru (X boils),1.7
+metaphoricity,963,doro (mud),X ga mitiru (X fills Y),1.7
+metaphoricity,963,doro (mud),X ga nizimu (X oozes),1.7
+metaphoricity,963,rikai (understanding),X ga simiru (X soaks into Y),1.7
+metaphoricity,963,rikai (understanding),X ga uzumaku (X whirls),1.7
+metaphoricity,963,rikai (understanding),X ga sumu (X gets clear),1.7
+metaphoricity,963,suimin (sleep),X wo tarasu (Y drops X),1.7
+metaphoricity,963,suimin (sleep),X ga huttou-suru (X boils),1.7
+metaphoricity,963,suimin (sleep),X ga nagarederu (X flows out),1.7
+metaphoricity,963,suimin (sleep),X ga sitataru (X drips),1.7
+metaphoricity,963,suimin (sleep),X wo nomu (Y drinks X),1.7
+metaphoricity,963,suna (sand),X ga nigoru (X gets cloudy),1.7
+metaphoricity,963,suna (sand),X wo nomu (Y drinks X),1.7
+metaphoricity,963,kuuki (air),X ga moreru (X leaks),1.7
+metaphoricity,963,zetubou (despair),X ga nizimu (X oozes),1.7
+metaphoricity,963,syutisin (shame),X ga uzumaku (X whirls),1.7
+metaphoricity,963,syutisin (shame),X ga mitiru (X fills Y),1.7
+metaphoricity,963,kotoba (word),X wo tarasu (Y drops X),1.7
+metaphoricity,963,kinsen (money),X ga simiru (X soaks into Y),1.7
+metaphoricity,963,kinsen (money),X ga hotobasiru (X spurts),1.7
+metaphoricity,963,kinsen (money),X ni hitasu (Y dips Z in X),1.7
+metaphoricity,963,oto (sound),X ga nagarederu (X flows out),1.7
+metaphoricity,963,oto (sound),X ga waku (X gushes out),1.7
+metaphoricity,1040,ari (ant),X wo kumitoru (Y scoops up X),1.6
+metaphoricity,1040,ari (ant),X ga nagarederu (X flows out),1.6
+metaphoricity,1040,ari (ant),X wo abiseru (Y showers X),1.6
+metaphoricity,1040,ari (ant),X ni oboreru (Y almost drowns in X),1.6
+metaphoricity,1040,ari (ant),X wo nomu (Y drinks X),1.6
+metaphoricity,1040,neko (cat),X wo kumitoru (Y scoops up X),1.6
+metaphoricity,1040,neko (cat),X ni sizumu (Y sinks into X),1.6
+metaphoricity,1040,neko (cat),X ni uku (Y floats on X),1.6
+metaphoricity,1040,nioi (smell),X de susugu (Y rinses Z with X),1.6
+metaphoricity,1040,nioi (smell),X wo kumitoru (Y scoops up X),1.6
+metaphoricity,1040,nioi (smell),X ga uzumaku (X whirls),1.6
+metaphoricity,1040,nioi (smell),X ni oboreru (Y almost drowns in X),1.6
+metaphoricity,1040,nioi (smell),X ga sitataru (X drips),1.6
+metaphoricity,1040,keeki (cake),X ga waku (X gushes out),1.6
+metaphoricity,1040,huan (anxiety),X ga tamaru (X gets collected),1.6
+metaphoricity,1040,human (complaint),X wo kakeru (Y sprays X),1.6
+metaphoricity,1040,human (complaint),X ga nigoru (X gets cloudy),1.6
+metaphoricity,1040,hikari (light),X ga nagareru (X flows),1.6
+metaphoricity,1040,roudou (labor),X wo kakeru (Y sprays X),1.6
+metaphoricity,1040,roudou (labor),X wo maku (Y scatters X),1.6
+metaphoricity,1040,yuuki (bravery),X wo sosogu (Y pours X),1.6
+metaphoricity,1040,yuuki (bravery),X wo abiseru (Y showers X),1.6
+metaphoricity,1040,sitto (envy),X ga sumu (X gets clear),1.6
+metaphoricity,1040,ansin (relief),X wo kumitoru (Y scoops up X),1.6
+metaphoricity,1040,ansin (relief),X ga uzumaku (X whirls),1.6
+metaphoricity,1040,ansin (relief),X wo nomu (Y drinks X),1.6
+metaphoricity,1040,iwa (rock),X wo maku (Y scatters X),1.6
+metaphoricity,1040,iwa (rock),X ni hitaru (Y soaks in X),1.6
+metaphoricity,1040,kibou (hope),X de susugu (Y rinses Z with X),1.6
+metaphoricity,1040,kibou (hope),X ga nizimu (X oozes),1.6
+metaphoricity,1040,kibou (hope),X ni tukaru (Y gets submerged in X),1.6
+metaphoricity,1040,ito (intention),X ni uku (Y floats on X),1.6
+metaphoricity,1040,ito (intention),X wo abiseru (Y showers X),1.6
+metaphoricity,1040,ai (love),X ga ahureru (X overflows),1.6
+metaphoricity,1040,kanjou (emotion),X ni tukaru (Y gets submerged in X),1.6
+metaphoricity,1040,zouo (hatred),X ni hitaru (Y soaks in X),1.6
+metaphoricity,1040,zouo (hatred),X ga mitiru (X fills Y),1.6
+metaphoricity,1040,kimoti (feeling),X wo tarasu (Y drops X),1.6
+metaphoricity,1040,doro (mud),X ga hotobasiru (X spurts),1.6
+metaphoricity,1040,doro (mud),X ga uzumaku (X whirls),1.6
+metaphoricity,1040,suimin (sleep),X wo susuru (Y sips X),1.6
+metaphoricity,1040,zetubou (despair),X ga mitiru (X fills Y),1.6
+metaphoricity,1040,syutisin (shame),X ni oboreru (Y almost drowns in X),1.6
+metaphoricity,1040,kinsen (money),X ni hitaru (Y soaks in X),1.6
+metaphoricity,1040,oto (sound),X wo abiseru (Y showers X),1.6
+metaphoricity,1085,ari (ant),X wo siboridasu (Y squeezes X),1.5
+metaphoricity,1085,neko (cat),X wo susuru (Y sips X),1.5
+metaphoricity,1085,neko (cat),X wo siboridasu (Y squeezes X),1.5
+metaphoricity,1085,keeki (cake),X ga simiru (X soaks into Y),1.5
+metaphoricity,1085,keeki (cake),X ga hotobasiru (X spurts),1.5
+metaphoricity,1085,human (complaint),X wo maku (Y scatters X),1.5
+metaphoricity,1085,human (complaint),X wo kumitoru (Y scoops up X),1.5
+metaphoricity,1085,hikari (light),X ni hitasu (Y dips Z in X),1.5
+metaphoricity,1085,roudou (labor),X ga simiru (X soaks into Y),1.5
+metaphoricity,1085,yuuki (bravery),X wo kakeru (Y sprays X),1.5
+metaphoricity,1085,yuuki (bravery),X ni hitaru (Y soaks in X),1.5
+metaphoricity,1085,yorokobi (delight),X ga mitiru (X fills Y),1.5
+metaphoricity,1085,sitto (envy),X wo susuru (Y sips X),1.5
+metaphoricity,1085,sitto (envy),X ga mitiru (X fills Y),1.5
+metaphoricity,1085,iwa (rock),X wo sosogu (Y pours X),1.5
+metaphoricity,1085,kyouhu (fear),X ga hotobasiru (X spurts),1.5
+metaphoricity,1085,kyouhu (fear),X ga nizimu (X oozes),1.5
+metaphoricity,1085,ito (intention),X wo susuru (Y sips X),1.5
+metaphoricity,1085,zouo (hatred),X ga nizimu (X oozes),1.5
+metaphoricity,1085,tanosisa (enjoyment),X ni uku (Y floats on X),1.5
+metaphoricity,1085,tanosisa (enjoyment),X ga mitiru (X fills Y),1.5
+metaphoricity,1085,tanosisa (enjoyment),X ga nizimu (X oozes),1.5
+metaphoricity,1085,kimoti (feeling),X ga sitataru (X drips),1.5
+metaphoricity,1085,abura (oil),X ga waku (X gushes out),1.5
+metaphoricity,1085,doro (mud),X ga nagarederu (X flows out),1.5
+metaphoricity,1085,rikai (understanding),X wo kumitoru (Y scoops up X),1.5
+metaphoricity,1085,suimin (sleep),X ga hotobasiru (X spurts),1.5
+metaphoricity,1085,suimin (sleep),X wo maku (Y scatters X),1.5
+metaphoricity,1085,suimin (sleep),X wo abiseru (Y showers X),1.5
+metaphoricity,1085,suimin (sleep),X ga yodomu (X gets stagnant),1.5
+metaphoricity,1085,suimin (sleep),X ga nigoru (X gets cloudy),1.5
+metaphoricity,1085,suna (sand),X wo kakeru (Y sprays X),1.5
+metaphoricity,1085,suna (sand),X wo siboridasu (Y squeezes X),1.5
+metaphoricity,1085,suna (sand),X ga mitiru (X fills Y),1.5
+metaphoricity,1085,syutisin (shame),X ga hotobasiru (X spurts),1.5
+metaphoricity,1085,syutisin (shame),X ga nagareru (X flows),1.5
+metaphoricity,1085,syutisin (shame),X wo abiseru (Y showers X),1.5
+metaphoricity,1085,syutisin (shame),X ga waku (X gushes out),1.5
+metaphoricity,1123,ari (ant),X ni sizumu (Y sinks into X),1.4
+metaphoricity,1123,neko (cat),X ga simiru (X soaks into Y),1.4
+metaphoricity,1123,neko (cat),X ga hotobasiru (X spurts),1.4
+metaphoricity,1123,neko (cat),X ga tamaru (X gets collected),1.4
+metaphoricity,1123,nioi (smell),X ga yodomu (X gets stagnant),1.4
+metaphoricity,1123,keeki (cake),X ni sizumu (Y sinks into X),1.4
+metaphoricity,1123,keeki (cake),X ga huttou-suru (X boils),1.4
+metaphoricity,1123,huan (anxiety),X wo kumitoru (Y scoops up X),1.4
+metaphoricity,1123,hikari (light),X wo maku (Y scatters X),1.4
+metaphoricity,1123,hikari (light),X ni uku (Y floats on X),1.4
+metaphoricity,1123,roudou (labor),X wo nomu (Y drinks X),1.4
+metaphoricity,1123,yorokobi (delight),X wo kumitoru (Y scoops up X),1.4
+metaphoricity,1123,sitto (envy),X ga simiru (X soaks into Y),1.4
+metaphoricity,1123,sitto (envy),X ga hotobasiru (X spurts),1.4
+metaphoricity,1123,sitto (envy),X ni hitasu (Y dips Z in X),1.4
+metaphoricity,1123,kibou (hope),X wo kumitoru (Y scoops up X),1.4
+metaphoricity,1123,kibou (hope),X ga ahureru (X overflows),1.4
+metaphoricity,1123,kairaku (pleasure),X wo kumitoru (Y scoops up X),1.4
+metaphoricity,1123,kyouhu (fear),X wo kumitoru (Y scoops up X),1.4
+metaphoricity,1123,kanasimi (sorrow),X ga waku (X gushes out),1.4
+metaphoricity,1123,jouhou (information),X wo kakeru (Y sprays X),1.4
+metaphoricity,1123,ito (intention),X wo maku (Y scatters X),1.4
+metaphoricity,1123,ito (intention),X wo makitirasu (Y sprinkles X),1.4
+metaphoricity,1123,ito (intention),X ga ahureru (X overflows),1.4
+metaphoricity,1123,ito (intention),X wo nomu (Y drinks X),1.4
+metaphoricity,1123,zouo (hatred),X ga koboreru (X spills out),1.4
+metaphoricity,1123,kimoti (feeling),X wo maku (Y scatters X),1.4
+metaphoricity,1123,kimoti (feeling),X wo abiseru (Y showers X),1.4
+metaphoricity,1123,mizu (water),X wo kakeru (Y sprays X),1.4
+metaphoricity,1123,abura (oil),X wo kumitoru (Y scoops up X),1.4
+metaphoricity,1123,abura (oil),X ga yodomu (X gets stagnant),1.4
+metaphoricity,1123,abura (oil),X ni tukaru (Y gets submerged in X),1.4
+metaphoricity,1123,doro (mud),X ga waku (X gushes out),1.4
+metaphoricity,1123,doro (mud),X ga sumu (X gets clear),1.4
+metaphoricity,1123,suimin (sleep),X wo sosogu (Y pours X),1.4
+metaphoricity,1123,suna (sand),X ga nagareru (X flows),1.4
+metaphoricity,1123,suna (sand),X ni oboreru (Y almost drowns in X),1.4
+metaphoricity,1123,kinsen (money),X ga tamaru (X gets collected),1.4
+metaphoricity,1161,neko (cat),X wo maku (Y scatters X),1.3
+metaphoricity,1161,neko (cat),X ni hitasu (Y dips Z in X),1.3
+metaphoricity,1161,nioi (smell),X ga ahureru (X overflows),1.3
+metaphoricity,1161,keeki (cake),X ga mitiru (X fills Y),1.3
+metaphoricity,1161,keeki (cake),X ga sumu (X gets clear),1.3
+metaphoricity,1161,human (complaint),X wo tarasu (Y drops X),1.3
+metaphoricity,1161,human (complaint),X ni uku (Y floats on X),1.3
+metaphoricity,1161,koe (voice),X wo siboridasu (Y squeezes X),1.3
+metaphoricity,1161,sitto (envy),X wo maku (Y scatters X),1.3
+metaphoricity,1161,ansin (relief),X wo susuru (Y sips X),1.3
+metaphoricity,1161,ikari (anger),X ga hotobasiru (X spurts),1.3
+metaphoricity,1161,kyouhu (fear),X wo nomu (Y drinks X),1.3
+metaphoricity,1161,jounetu (passion),X ga waku (X gushes out),1.3
+metaphoricity,1161,kanjou (emotion),X ni uku (Y floats on X),1.3
+metaphoricity,1161,abura (oil),X wo kakeru (Y sprays X),1.3
+metaphoricity,1161,abura (oil),X wo maku (Y scatters X),1.3
+metaphoricity,1161,abura (oil),X ga mitiru (X fills Y),1.3
+metaphoricity,1161,doro (mud),X wo siboridasu (Y squeezes X),1.3
+metaphoricity,1161,doro (mud),X ni hitasu (Y dips Z in X),1.3
+metaphoricity,1161,suimin (sleep),X ni hitaru (Y soaks in X),1.3
+metaphoricity,1161,kuuki (air),X ga ahureru (X overflows),1.3
+metaphoricity,1161,syutisin (shame),X wo siboridasu (Y squeezes X),1.3
+metaphoricity,1183,ari (ant),X de susugu (Y rinses Z with X),1.2
+metaphoricity,1183,ari (ant),X wo kakeru (Y sprays X),1.2
+metaphoricity,1183,ari (ant),X ga hotobasiru (X spurts),1.2
+metaphoricity,1183,ari (ant),X ni uku (Y floats on X),1.2
+metaphoricity,1183,neko (cat),X ga ahureru (X overflows),1.2
+metaphoricity,1183,neko (cat),X ga sumu (X gets clear),1.2
+metaphoricity,1183,nioi (smell),X wo siboridasu (Y squeezes X),1.2
+metaphoricity,1183,keeki (cake),X ga nagareru (X flows),1.2
+metaphoricity,1183,keeki (cake),X ni hitasu (Y dips Z in X),1.2
+metaphoricity,1183,keeki (cake),X ga uzumaku (X whirls),1.2
+metaphoricity,1183,keeki (cake),X ga ahureru (X overflows),1.2
+metaphoricity,1183,human (complaint),X ga hotobasiru (X spurts),1.2
+metaphoricity,1183,hikari (light),X ga simiru (X soaks into Y),1.2
+metaphoricity,1183,iwa (rock),X wo kumitoru (Y scoops up X),1.2
+metaphoricity,1183,iwa (rock),X ga nagareru (X flows),1.2
+metaphoricity,1183,iwa (rock),X ga nigoru (X gets cloudy),1.2
+metaphoricity,1183,kibou (hope),X ga simiru (X soaks into Y),1.2
+metaphoricity,1183,kibou (hope),X wo tarasu (Y drops X),1.2
+metaphoricity,1183,kibou (hope),X ni hitasu (Y dips Z in X),1.2
+metaphoricity,1183,kibou (hope),X ga sumu (X gets clear),1.2
+metaphoricity,1183,kanasimi (sorrow),X wo kumitoru (Y scoops up X),1.2
+metaphoricity,1183,ito (intention),X ga moreru (X leaks),1.2
+metaphoricity,1183,jikan (time),X ga nagareru (X flows),1.2
+metaphoricity,1183,abura (oil),X ni sizumu (Y sinks into X),1.2
+metaphoricity,1183,abura (oil),X ga sumu (X gets clear),1.2
+metaphoricity,1183,abura (oil),X wo nomu (Y drinks X),1.2
+metaphoricity,1183,suimin (sleep),X wo kakeru (Y sprays X),1.2
+metaphoricity,1183,suna (sand),X de susugu (Y rinses Z with X),1.2
+metaphoricity,1183,suna (sand),X ni hitaru (Y soaks in X),1.2
+metaphoricity,1183,syutisin (shame),X wo kakeru (Y sprays X),1.2
+metaphoricity,1183,kinsen (money),X wo sosogu (Y pours X),1.2
+metaphoricity,1214,keeki (cake),X ni tukaru (Y gets submerged in X),1.1
+metaphoricity,1214,human (complaint),X wo makitirasu (Y sprinkles X),1.1
+metaphoricity,1214,human (complaint),X ni tukaru (Y gets submerged in X),1.1
+metaphoricity,1214,roudou (labor),X ga hotobasiru (X spurts),1.1
+metaphoricity,1214,roudou (labor),X ni uku (Y floats on X),1.1
+metaphoricity,1214,kibou (hope),X ga hotobasiru (X spurts),1.1
+metaphoricity,1214,ito (intention),X ga tamaru (X gets collected),1.1
+metaphoricity,1214,kanjou (emotion),X wo kumitoru (Y scoops up X),1.1
+metaphoricity,1214,abura (oil),X ga simiru (X soaks into Y),1.1
+metaphoricity,1214,doro (mud),X ni tukaru (Y gets submerged in X),1.1
+metaphoricity,1214,suna (sand),X ni sizumu (Y sinks into X),1.1
+metaphoricity,1214,kuuki (air),X ga nagarederu (X flows out),1.1
+metaphoricity,1214,kuuki (air),X ga sumu (X gets clear),1.1
+metaphoricity,1214,zetubou (despair),X wo kakeru (Y sprays X),1.1
+metaphoricity,1214,syutisin (shame),X wo kumitoru (Y scoops up X),1.1
+metaphoricity,1214,kotoba (word),X wo kakeru (Y sprays X),1.1
+metaphoricity,1230,ari (ant),X ga koboreru (X spills out),1.0
+metaphoricity,1230,ari (ant),X ga tamaru (X gets collected),1.0
+metaphoricity,1230,ari (ant),X ga moreru (X leaks),1.0
+metaphoricity,1230,nioi (smell),X ga waku (X gushes out),1.0
+metaphoricity,1230,keeki (cake),X wo tarasu (Y drops X),1.0
+metaphoricity,1230,keeki (cake),X ga nizimu (X oozes),1.0
+metaphoricity,1230,keeki (cake),X ga moreru (X leaks),1.0
+metaphoricity,1230,keeki (cake),X wo nomu (Y drinks X),1.0
+metaphoricity,1230,human (complaint),X ga ahureru (X overflows),1.0
+metaphoricity,1230,human (complaint),X ga moreru (X leaks),1.0
+metaphoricity,1230,ansin (relief),X ga huttou-suru (X boils),1.0
+metaphoricity,1230,kibou (hope),X ni uku (Y floats on X),1.0
+metaphoricity,1230,ito (intention),X wo kumitoru (Y scoops up X),1.0
+metaphoricity,1230,kimoti (feeling),X wo kumitoru (Y scoops up X),1.0
+metaphoricity,1230,mizu (water),X ga yodomu (X gets stagnant),1.0
+metaphoricity,1230,mizu (water),X ga ahureru (X overflows),1.0
+metaphoricity,1230,abura (oil),X ga huttou-suru (X boils),1.0
+metaphoricity,1230,abura (oil),X ga sitataru (X drips),1.0
+metaphoricity,1230,doro (mud),X wo tarasu (Y drops X),1.0
+metaphoricity,1230,suna (sand),X wo kumitoru (Y scoops up X),1.0
+metaphoricity,1230,suna (sand),X wo sosogu (Y pours X),1.0
+metaphoricity,1230,kinsen (money),X wo makitirasu (Y sprinkles X),1.0
+metaphoricity,1252,nioi (smell),X wo maku (Y scatters X),0.9
+metaphoricity,1252,nioi (smell),X ni uku (Y floats on X),0.9
+metaphoricity,1252,keeki (cake),X wo kumitoru (Y scoops up X),0.9
+metaphoricity,1252,keeki (cake),X ga sitataru (X drips),0.9
+metaphoricity,1252,keeki (cake),X ga nigoru (X gets cloudy),0.9
+metaphoricity,1252,human (complaint),X ga tamaru (X gets collected),0.9
+metaphoricity,1252,hikari (light),X wo abiseru (Y showers X),0.9
+metaphoricity,1252,mizu (water),X wo siboridasu (Y squeezes X),0.9
+metaphoricity,1252,mizu (water),X ga tamaru (X gets collected),0.9
+metaphoricity,1252,abura (oil),X wo tarasu (Y drops X),0.9
+metaphoricity,1252,oto (sound),X ga moreru (X leaks),0.9
+metaphoricity,1263,ari (ant),X ga simiru (X soaks into Y),0.8
+metaphoricity,1263,ari (ant),X ga sitataru (X drips),0.8
+metaphoricity,1263,neko (cat),X ga nagarederu (X flows out),0.8
+metaphoricity,1263,nioi (smell),X wo makitirasu (Y sprinkles X),0.8
+metaphoricity,1263,keeki (cake),X wo abiseru (Y showers X),0.8
+metaphoricity,1263,keeki (cake),X ga yodomu (X gets stagnant),0.8
+metaphoricity,1263,roudou (labor),X wo tarasu (Y drops X),0.8
+metaphoricity,1263,koe (voice),X ga moreru (X leaks),0.8
+metaphoricity,1263,ito (intention),X wo kakeru (Y sprays X),0.8
+metaphoricity,1263,mizu (water),X ga simiru (X soaks into Y),0.8
+metaphoricity,1263,mizu (water),X wo makitirasu (Y sprinkles X),0.8
+metaphoricity,1263,mizu (water),X ga uzumaku (X whirls),0.8
+metaphoricity,1263,mizu (water),X ga sitataru (X drips),0.8
+metaphoricity,1263,mizu (water),X ga nigoru (X gets cloudy),0.8
+metaphoricity,1263,abura (oil),X ga nagareru (X flows),0.8
+metaphoricity,1263,suna (sand),X ga koboreru (X spills out),0.8
+metaphoricity,1263,suna (sand),X ga ahureru (X overflows),0.8
+metaphoricity,1263,suna (sand),X ga moreru (X leaks),0.8
+metaphoricity,1263,kinsen (money),X wo maku (Y scatters X),0.8
+metaphoricity,1263,oto (sound),X ga nagareru (X flows),0.8
+metaphoricity,1283,ari (ant),X wo maku (Y scatters X),0.7
+metaphoricity,1283,ari (ant),X ga ahureru (X overflows),0.7
+metaphoricity,1283,ari (ant),X ni tukaru (Y gets submerged in X),0.7
+metaphoricity,1283,nioi (smell),X ga mitiru (X fills Y),0.7
+metaphoricity,1283,nioi (smell),X ga tamaru (X gets collected),0.7
+metaphoricity,1283,keeki (cake),X ni hitaru (Y soaks in X),0.7
+metaphoricity,1283,keeki (cake),X ga tamaru (X gets collected),0.7
+metaphoricity,1283,mizu (water),X ni uku (Y floats on X),0.7
+metaphoricity,1283,mizu (water),X ga moreru (X leaks),0.7
+metaphoricity,1283,abura (oil),X wo makitirasu (Y sprinkles X),0.7
+metaphoricity,1283,abura (oil),X ni hitasu (Y dips Z in X),0.7
+metaphoricity,1283,abura (oil),X ga nigoru (X gets cloudy),0.7
+metaphoricity,1283,doro (mud),X ga simiru (X soaks into Y),0.7
+metaphoricity,1283,doro (mud),X wo makitirasu (Y sprinkles X),0.7
+metaphoricity,1283,doro (mud),X ga nagareru (X flows),0.7
+metaphoricity,1283,doro (mud),X ga tamaru (X gets collected),0.7
+metaphoricity,1283,doro (mud),X ga sitataru (X drips),0.7
+metaphoricity,1283,suna (sand),X ga nagarederu (X flows out),0.7
+metaphoricity,1283,oto (sound),X wo kakeru (Y sprays X),0.7
+metaphoricity,1302,ari (ant),X wo makitirasu (Y sprinkles X),0.6
+metaphoricity,1302,ari (ant),X ni hitasu (Y dips Z in X),0.6
+metaphoricity,1302,nioi (smell),X ga nagareru (X flows),0.6
+metaphoricity,1302,nioi (smell),X ga moreru (X leaks),0.6
+metaphoricity,1302,keeki (cake),X de susugu (Y rinses Z with X),0.6
+metaphoricity,1302,keeki (cake),X wo susuru (Y sips X),0.6
+metaphoricity,1302,keeki (cake),X wo makitirasu (Y sprinkles X),0.6
+metaphoricity,1302,keeki (cake),X ga nagarederu (X flows out),0.6
+metaphoricity,1302,human (complaint),X ga sumu (X gets clear),0.6
+metaphoricity,1302,kibou (hope),X ga nigoru (X gets cloudy),0.6
+metaphoricity,1302,jouhou (information),X wo kumitoru (Y scoops up X),0.6
+metaphoricity,1302,mizu (water),X ga koboreru (X spills out),0.6
+metaphoricity,1302,mizu (water),X wo sosogu (Y pours X),0.6
+metaphoricity,1302,mizu (water),X ni hitaru (Y soaks in X),0.6
+metaphoricity,1302,mizu (water),X ga mitiru (X fills Y),0.6
+metaphoricity,1302,mizu (water),X ni tukaru (Y gets submerged in X),0.6
+metaphoricity,1302,mizu (water),X ga sumu (X gets clear),0.6
+metaphoricity,1302,abura (oil),X wo siboridasu (Y squeezes X),0.6
+metaphoricity,1302,abura (oil),X ga ahureru (X overflows),0.6
+metaphoricity,1302,abura (oil),X ga nizimu (X oozes),0.6
+metaphoricity,1302,suna (sand),X wo maku (Y scatters X),0.6
+metaphoricity,1302,suna (sand),X ga tamaru (X gets collected),0.6
+metaphoricity,1324,keeki (cake),X ga koboreru (X spills out),0.5
+metaphoricity,1324,keeki (cake),X wo maku (Y scatters X),0.5
+metaphoricity,1324,keeki (cake),X ni uku (Y floats on X),0.5
+metaphoricity,1324,jounetu (passion),X wo kakeru (Y sprays X),0.5
+metaphoricity,1324,jikan (time),X wo kakeru (Y sprays X),0.5
+metaphoricity,1324,mizu (water),X wo maku (Y scatters X),0.5
+metaphoricity,1324,mizu (water),X ni sizumu (Y sinks into X),0.5
+metaphoricity,1324,abura (oil),X ga koboreru (X spills out),0.5
+metaphoricity,1324,abura (oil),X ga nagarederu (X flows out),0.5
+metaphoricity,1324,abura (oil),X ga tamaru (X gets collected),0.5
+metaphoricity,1324,doro (mud),X ga koboreru (X spills out),0.5
+metaphoricity,1324,doro (mud),X wo kumitoru (Y scoops up X),0.5
+metaphoricity,1324,suna (sand),X wo makitirasu (Y sprinkles X),0.5
+metaphoricity,1324,kinsen (money),X wo kakeru (Y sprays X),0.5
+metaphoricity,1338,ari (ant),X wo tarasu (Y drops X),0.4
+metaphoricity,1338,keeki (cake),X wo kakeru (Y sprays X),0.4
+metaphoricity,1338,keeki (cake),X wo sosogu (Y pours X),0.4
+metaphoricity,1338,iwa (rock),X wo kakeru (Y sprays X),0.4
+metaphoricity,1338,jounetu (passion),X wo sosogu (Y pours X),0.4
+metaphoricity,1338,mizu (water),X ni hitasu (Y dips Z in X),0.4
+metaphoricity,1338,mizu (water),X ga nizimu (X oozes),0.4
+metaphoricity,1338,abura (oil),X ni uku (Y floats on X),0.4
+metaphoricity,1338,doro (mud),X ga ahureru (X overflows),0.4
+metaphoricity,1338,kuuki (air),X ga nagareru (X flows),0.4
+metaphoricity,1348,mizu (water),X ni oboreru (Y almost drowns in X),0.3
+metaphoricity,1348,abura (oil),X ga moreru (X leaks),0.3
+metaphoricity,1348,doro (mud),X ga moreru (X leaks),0.3
+metaphoricity,1351,mizu (water),X de susugu (Y rinses Z with X),0.2
+metaphoricity,1351,mizu (water),X wo tarasu (Y drops X),0.2
+metaphoricity,1351,mizu (water),X ga nagarederu (X flows out),0.2
+metaphoricity,1351,mizu (water),X ga waku (X gushes out),0.2
+metaphoricity,1355,mizu (water),X wo kumitoru (Y scoops up X),0.1
+metaphoricity,1356,koe (voice),X wo kakeru (Y sprays X),0.0
+metaphoricity,1356,mizu (water),X wo susuru (Y sips X),0.0
+metaphoricity,1356,mizu (water),X ga huttou-suru (X boils),0.0
+metaphoricity,1356,mizu (water),X ga nagareru (X flows),0.0
+metaphoricity,1356,mizu (water),X wo nomu (Y drinks X),0.0

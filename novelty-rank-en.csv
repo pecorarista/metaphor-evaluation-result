@@ -1,0 +1,1361 @@
+metric,rank,noun,verb,average
+novelty,1,ari (ant),X ga simiru (X soaks into Y),4.0
+novelty,1,neko (cat),X wo siboridasu (Y squeezes X),4.0
+novelty,1,neko (cat),X ga nagarederu (X flows out),4.0
+novelty,1,nioi (smell),X ni uku (Y floats on X),4.0
+novelty,1,roudou (labor),X wo susuru (Y sips X),4.0
+novelty,1,roudou (labor),X ga sitataru (X drips),4.0
+novelty,1,yuuki (bravery),X ga moreru (X leaks),4.0
+novelty,1,iwa (rock),X wo susuru (Y sips X),4.0
+novelty,1,zouo (hatred),X de susugu (Y rinses Z with X),4.0
+novelty,1,jikan (time),X ga huttou-suru (X boils),4.0
+novelty,1,tanosisa (enjoyment),X de susugu (Y rinses Z with X),4.0
+novelty,1,tanosisa (enjoyment),X ga sumu (X gets clear),4.0
+novelty,1,rikai (understanding),X ga huttou-suru (X boils),4.0
+novelty,1,suimin (sleep),X de susugu (Y rinses Z with X),4.0
+novelty,1,suimin (sleep),X ni uku (Y floats on X),4.0
+novelty,1,kotoba (word),X de susugu (Y rinses Z with X),4.0
+novelty,1,kotoba (word),X ga huttou-suru (X boils),4.0
+novelty,18,ari (ant),X ga moreru (X leaks),3.9
+novelty,18,neko (cat),X ga hotobasiru (X spurts),3.9
+novelty,18,neko (cat),X wo makitirasu (Y sprinkles X),3.9
+novelty,18,neko (cat),X ga sumu (X gets clear),3.9
+novelty,18,neko (cat),X ga nigoru (X gets cloudy),3.9
+novelty,18,huan (anxiety),X ni uku (Y floats on X),3.9
+novelty,18,roudou (labor),X de susugu (Y rinses Z with X),3.9
+novelty,18,roudou (labor),X ni uku (Y floats on X),3.9
+novelty,18,roudou (labor),X wo nomu (Y drinks X),3.9
+novelty,18,yorokobi (delight),X de susugu (Y rinses Z with X),3.9
+novelty,18,sitto (envy),X wo maku (Y scatters X),3.9
+novelty,18,sitto (envy),X ga yodomu (X gets stagnant),3.9
+novelty,18,sitto (envy),X ga nigoru (X gets cloudy),3.9
+novelty,18,iwa (rock),X wo nomu (Y drinks X),3.9
+novelty,18,ikari (anger),X wo susuru (Y sips X),3.9
+novelty,18,kyouhu (fear),X ga nigoru (X gets cloudy),3.9
+novelty,18,kanasimi (sorrow),X wo kakeru (Y sprays X),3.9
+novelty,18,jikan (time),X wo tarasu (Y drops X),3.9
+novelty,18,jikan (time),X wo maku (Y scatters X),3.9
+novelty,18,jikan (time),X ga sitataru (X drips),3.9
+novelty,18,tanosisa (enjoyment),X wo kakeru (Y sprays X),3.9
+novelty,18,tanosisa (enjoyment),X wo tarasu (Y drops X),3.9
+novelty,18,tanosisa (enjoyment),X ni hitasu (Y dips Z in X),3.9
+novelty,18,rikai (understanding),X ni sizumu (Y sinks into X),3.9
+novelty,18,suimin (sleep),X ga nagareru (X flows),3.9
+novelty,18,suimin (sleep),X ga nagarederu (X flows out),3.9
+novelty,18,suimin (sleep),X ga nizimu (X oozes),3.9
+novelty,18,suna (sand),X ga sumu (X gets clear),3.9
+novelty,18,oto (sound),X wo susuru (Y sips X),3.9
+novelty,47,neko (cat),X ga simiru (X soaks into Y),3.8
+novelty,47,neko (cat),X wo kumitoru (Y scoops up X),3.8
+novelty,47,neko (cat),X ni sizumu (Y sinks into X),3.8
+novelty,47,neko (cat),X ni hitasu (Y dips Z in X),3.8
+novelty,47,nioi (smell),X de susugu (Y rinses Z with X),3.8
+novelty,47,keeki (cake),X de susugu (Y rinses Z with X),3.8
+novelty,47,keeki (cake),X ni sizumu (Y sinks into X),3.8
+novelty,47,keeki (cake),X ga nagarederu (X flows out),3.8
+novelty,47,keeki (cake),X ga sitataru (X drips),3.8
+novelty,47,roudou (labor),X wo kumitoru (Y scoops up X),3.8
+novelty,47,sitto (envy),X wo susuru (Y sips X),3.8
+novelty,47,sitto (envy),X ga nagarederu (X flows out),3.8
+novelty,47,sitto (envy),X wo nomu (Y drinks X),3.8
+novelty,47,ansin (relief),X wo abiseru (Y showers X),3.8
+novelty,47,iwa (rock),X de susugu (Y rinses Z with X),3.8
+novelty,47,iwa (rock),X ga huttou-suru (X boils),3.8
+novelty,47,iwa (rock),X ni uku (Y floats on X),3.8
+novelty,47,iwa (rock),X ni hitasu (Y dips Z in X),3.8
+novelty,47,iwa (rock),X ni hitaru (Y soaks in X),3.8
+novelty,47,iwa (rock),X ga yodomu (X gets stagnant),3.8
+novelty,47,iwa (rock),X ga nigoru (X gets cloudy),3.8
+novelty,47,kibou (hope),X de susugu (Y rinses Z with X),3.8
+novelty,47,kairaku (pleasure),X de susugu (Y rinses Z with X),3.8
+novelty,47,kairaku (pleasure),X ga nigoru (X gets cloudy),3.8
+novelty,47,ikari (anger),X wo tarasu (Y drops X),3.8
+novelty,47,ikari (anger),X ni hitasu (Y dips Z in X),3.8
+novelty,47,ai (love),X de susugu (Y rinses Z with X),3.8
+novelty,47,kanjou (emotion),X wo susuru (Y sips X),3.8
+novelty,47,zouo (hatred),X wo tarasu (Y drops X),3.8
+novelty,47,zouo (hatred),X ni uku (Y floats on X),3.8
+novelty,47,zouo (hatred),X ga nigoru (X gets cloudy),3.8
+novelty,47,jikan (time),X de susugu (Y rinses Z with X),3.8
+novelty,47,jikan (time),X wo susuru (Y sips X),3.8
+novelty,47,jikan (time),X ni sizumu (Y sinks into X),3.8
+novelty,47,jikan (time),X ni uku (Y floats on X),3.8
+novelty,47,jikan (time),X ga nigoru (X gets cloudy),3.8
+novelty,47,tanosisa (enjoyment),X wo susuru (Y sips X),3.8
+novelty,47,tanosisa (enjoyment),X ni sizumu (Y sinks into X),3.8
+novelty,47,tanosisa (enjoyment),X ga nagareru (X flows),3.8
+novelty,47,tanosisa (enjoyment),X wo nomu (Y drinks X),3.8
+novelty,47,rikai (understanding),X ga simiru (X soaks into Y),3.8
+novelty,47,rikai (understanding),X wo tarasu (Y drops X),3.8
+novelty,47,rikai (understanding),X ga sumu (X gets clear),3.8
+novelty,47,suimin (sleep),X ni sizumu (Y sinks into X),3.8
+novelty,47,suimin (sleep),X ni hitasu (Y dips Z in X),3.8
+novelty,47,suimin (sleep),X ga sumu (X gets clear),3.8
+novelty,47,kuuki (air),X ga hotobasiru (X spurts),3.8
+novelty,47,kuuki (air),X wo tarasu (Y drops X),3.8
+novelty,47,kuuki (air),X ga sitataru (X drips),3.8
+novelty,47,zetubou (despair),X ni hitasu (Y dips Z in X),3.8
+novelty,47,syutisin (shame),X ni uku (Y floats on X),3.8
+novelty,47,kotoba (word),X wo susuru (Y sips X),3.8
+novelty,47,kinsen (money),X ga sitataru (X drips),3.8
+novelty,47,kinsen (money),X ga sumu (X gets clear),3.8
+novelty,47,oto (sound),X wo nomu (Y drinks X),3.8
+novelty,102,ari (ant),X ga hotobasiru (X spurts),3.7
+novelty,102,ari (ant),X wo kumitoru (Y scoops up X),3.7
+novelty,102,ari (ant),X ni hitasu (Y dips Z in X),3.7
+novelty,102,neko (cat),X wo susuru (Y sips X),3.7
+novelty,102,neko (cat),X ga huttou-suru (X boils),3.7
+novelty,102,neko (cat),X wo sosogu (Y pours X),3.7
+novelty,102,neko (cat),X ga yodomu (X gets stagnant),3.7
+novelty,102,neko (cat),X ga mitiru (X fills Y),3.7
+novelty,102,neko (cat),X ga moreru (X leaks),3.7
+novelty,102,neko (cat),X ni tukaru (Y gets submerged in X),3.7
+novelty,102,keeki (cake),X ga hotobasiru (X spurts),3.7
+novelty,102,keeki (cake),X wo tarasu (Y drops X),3.7
+novelty,102,keeki (cake),X ni uku (Y floats on X),3.7
+novelty,102,keeki (cake),X ga mitiru (X fills Y),3.7
+novelty,102,keeki (cake),X ga nizimu (X oozes),3.7
+novelty,102,keeki (cake),X ni tukaru (Y gets submerged in X),3.7
+novelty,102,keeki (cake),X ga nigoru (X gets cloudy),3.7
+novelty,102,human (complaint),X wo kakeru (Y sprays X),3.7
+novelty,102,hikari (light),X de susugu (Y rinses Z with X),3.7
+novelty,102,hikari (light),X wo siboridasu (Y squeezes X),3.7
+novelty,102,hikari (light),X wo maku (Y scatters X),3.7
+novelty,102,roudou (labor),X wo tarasu (Y drops X),3.7
+novelty,102,roudou (labor),X ga mitiru (X fills Y),3.7
+novelty,102,yuuki (bravery),X wo tarasu (Y drops X),3.7
+novelty,102,yuuki (bravery),X wo makitirasu (Y sprinkles X),3.7
+novelty,102,yuuki (bravery),X ga nagareru (X flows),3.7
+novelty,102,yuuki (bravery),X ni hitasu (Y dips Z in X),3.7
+novelty,102,yuuki (bravery),X ga sumu (X gets clear),3.7
+novelty,102,yuuki (bravery),X ga nigoru (X gets cloudy),3.7
+novelty,102,iwa (rock),X wo kumitoru (Y scoops up X),3.7
+novelty,102,iwa (rock),X wo sosogu (Y pours X),3.7
+novelty,102,kibou (hope),X wo tarasu (Y drops X),3.7
+novelty,102,kibou (hope),X ni sizumu (Y sinks into X),3.7
+novelty,102,kibou (hope),X ga nagarederu (X flows out),3.7
+novelty,102,kibou (hope),X ni hitasu (Y dips Z in X),3.7
+novelty,102,kairaku (pleasure),X wo kakeru (Y sprays X),3.7
+novelty,102,kairaku (pleasure),X ga yodomu (X gets stagnant),3.7
+novelty,102,ikari (anger),X de susugu (Y rinses Z with X),3.7
+novelty,102,ikari (anger),X ni uku (Y floats on X),3.7
+novelty,102,kyouhu (fear),X wo kakeru (Y sprays X),3.7
+novelty,102,kanasimi (sorrow),X wo tarasu (Y drops X),3.7
+novelty,102,jouhou (information),X de susugu (Y rinses Z with X),3.7
+novelty,102,jouhou (information),X ga sumu (X gets clear),3.7
+novelty,102,ai (love),X wo tarasu (Y drops X),3.7
+novelty,102,jikan (time),X ga hotobasiru (X spurts),3.7
+novelty,102,jikan (time),X ga nizimu (X oozes),3.7
+novelty,102,rikai (understanding),X de susugu (Y rinses Z with X),3.7
+novelty,102,rikai (understanding),X wo maku (Y scatters X),3.7
+novelty,102,rikai (understanding),X ni uku (Y floats on X),3.7
+novelty,102,rikai (understanding),X ga sitataru (X drips),3.7
+novelty,102,rikai (understanding),X ni tukaru (Y gets submerged in X),3.7
+novelty,102,suimin (sleep),X ga hotobasiru (X spurts),3.7
+novelty,102,suimin (sleep),X ga sitataru (X drips),3.7
+novelty,102,suna (sand),X ni uku (Y floats on X),3.7
+novelty,102,kuuki (air),X wo kakeru (Y sprays X),3.7
+novelty,102,zetubou (despair),X wo tarasu (Y drops X),3.7
+novelty,102,zetubou (despair),X ni uku (Y floats on X),3.7
+novelty,102,zetubou (despair),X ga yodomu (X gets stagnant),3.7
+novelty,102,zetubou (despair),X ga nigoru (X gets cloudy),3.7
+novelty,102,syutisin (shame),X de susugu (Y rinses Z with X),3.7
+novelty,102,syutisin (shame),X wo kakeru (Y sprays X),3.7
+novelty,102,syutisin (shame),X ga nagareru (X flows),3.7
+novelty,102,kinsen (money),X ga simiru (X soaks into Y),3.7
+novelty,102,kinsen (money),X de susugu (Y rinses Z with X),3.7
+novelty,102,kinsen (money),X ga hotobasiru (X spurts),3.7
+novelty,167,ari (ant),X ga koboreru (X spills out),3.6
+novelty,167,ari (ant),X wo makitirasu (Y sprinkles X),3.6
+novelty,167,ari (ant),X wo sosogu (Y pours X),3.6
+novelty,167,ari (ant),X wo abiseru (Y showers X),3.6
+novelty,167,ari (ant),X ga sitataru (X drips),3.6
+novelty,167,ari (ant),X ni tukaru (Y gets submerged in X),3.6
+novelty,167,neko (cat),X wo maku (Y scatters X),3.6
+novelty,167,neko (cat),X ga nizimu (X oozes),3.6
+novelty,167,neko (cat),X ga sitataru (X drips),3.6
+novelty,167,nioi (smell),X ni sizumu (Y sinks into X),3.6
+novelty,167,keeki (cake),X wo sosogu (Y pours X),3.6
+novelty,167,keeki (cake),X ga sumu (X gets clear),3.6
+novelty,167,human (complaint),X de susugu (Y rinses Z with X),3.6
+novelty,167,human (complaint),X ni uku (Y floats on X),3.6
+novelty,167,human (complaint),X ga yodomu (X gets stagnant),3.6
+novelty,167,human (complaint),X ga nigoru (X gets cloudy),3.6
+novelty,167,hikari (light),X ni uku (Y floats on X),3.6
+novelty,167,hikari (light),X ni hitasu (Y dips Z in X),3.6
+novelty,167,roudou (labor),X ga koboreru (X spills out),3.6
+novelty,167,roudou (labor),X wo makitirasu (Y sprinkles X),3.6
+novelty,167,roudou (labor),X ga nagareru (X flows),3.6
+novelty,167,yuuki (bravery),X de susugu (Y rinses Z with X),3.6
+novelty,167,yuuki (bravery),X wo maku (Y scatters X),3.6
+novelty,167,yuuki (bravery),X ni oboreru (Y almost drowns in X),3.6
+novelty,167,koe (voice),X wo susuru (Y sips X),3.6
+novelty,167,koe (voice),X ga huttou-suru (X boils),3.6
+novelty,167,sitto (envy),X ga sumu (X gets clear),3.6
+novelty,167,ansin (relief),X de susugu (Y rinses Z with X),3.6
+novelty,167,ansin (relief),X wo siboridasu (Y squeezes X),3.6
+novelty,167,ansin (relief),X ga huttou-suru (X boils),3.6
+novelty,167,ansin (relief),X ga nagareru (X flows),3.6
+novelty,167,ansin (relief),X ni uku (Y floats on X),3.6
+novelty,167,ansin (relief),X wo nomu (Y drinks X),3.6
+novelty,167,iwa (rock),X wo tarasu (Y drops X),3.6
+novelty,167,iwa (rock),X wo maku (Y scatters X),3.6
+novelty,167,iwa (rock),X ga nizimu (X oozes),3.6
+novelty,167,iwa (rock),X ga sitataru (X drips),3.6
+novelty,167,iwa (rock),X ni tukaru (Y gets submerged in X),3.6
+novelty,167,kairaku (pleasure),X ga sitataru (X drips),3.6
+novelty,167,kairaku (pleasure),X ga sumu (X gets clear),3.6
+novelty,167,kyouhu (fear),X ga yodomu (X gets stagnant),3.6
+novelty,167,kyouhu (fear),X ga sumu (X gets clear),3.6
+novelty,167,kanasimi (sorrow),X de susugu (Y rinses Z with X),3.6
+novelty,167,ito (intention),X de susugu (Y rinses Z with X),3.6
+novelty,167,ito (intention),X ga koboreru (X spills out),3.6
+novelty,167,ito (intention),X wo maku (Y scatters X),3.6
+novelty,167,ai (love),X wo susuru (Y sips X),3.6
+novelty,167,ai (love),X ga nagareru (X flows),3.6
+novelty,167,zouo (hatred),X wo kakeru (Y sprays X),3.6
+novelty,167,zouo (hatred),X ga yodomu (X gets stagnant),3.6
+novelty,167,zouo (hatred),X wo nomu (Y drinks X),3.6
+novelty,167,jikan (time),X wo abiseru (Y showers X),3.6
+novelty,167,jikan (time),X ga sumu (X gets clear),3.6
+novelty,167,jikan (time),X wo nomu (Y drinks X),3.6
+novelty,167,tanosisa (enjoyment),X ga sitataru (X drips),3.6
+novelty,167,tanosisa (enjoyment),X ga moreru (X leaks),3.6
+novelty,167,kimoti (feeling),X de susugu (Y rinses Z with X),3.6
+novelty,167,kimoti (feeling),X wo maku (Y scatters X),3.6
+novelty,167,rikai (understanding),X wo kakeru (Y sprays X),3.6
+novelty,167,suimin (sleep),X wo kakeru (Y sprays X),3.6
+novelty,167,suimin (sleep),X wo susuru (Y sips X),3.6
+novelty,167,suimin (sleep),X wo tarasu (Y drops X),3.6
+novelty,167,suimin (sleep),X ga huttou-suru (X boils),3.6
+novelty,167,suimin (sleep),X ga uzumaku (X whirls),3.6
+novelty,167,suimin (sleep),X wo nomu (Y drinks X),3.6
+novelty,167,suna (sand),X ga huttou-suru (X boils),3.6
+novelty,167,kuuki (air),X wo susuru (Y sips X),3.6
+novelty,167,kuuki (air),X ni sizumu (Y sinks into X),3.6
+novelty,167,kuuki (air),X ga huttou-suru (X boils),3.6
+novelty,167,zetubou (despair),X de susugu (Y rinses Z with X),3.6
+novelty,167,zetubou (despair),X ga huttou-suru (X boils),3.6
+novelty,167,zetubou (despair),X wo sosogu (Y pours X),3.6
+novelty,167,syutisin (shame),X wo siboridasu (Y squeezes X),3.6
+novelty,167,syutisin (shame),X wo makitirasu (Y sprinkles X),3.6
+novelty,167,syutisin (shame),X ga tamaru (X gets collected),3.6
+novelty,167,kinsen (money),X wo tarasu (Y drops X),3.6
+novelty,167,kinsen (money),X ga huttou-suru (X boils),3.6
+novelty,167,kinsen (money),X ni uku (Y floats on X),3.6
+novelty,167,kinsen (money),X ni hitasu (Y dips Z in X),3.6
+novelty,246,ari (ant),X wo susuru (Y sips X),3.5
+novelty,246,ari (ant),X ni hitaru (Y soaks in X),3.5
+novelty,246,ari (ant),X ga yodomu (X gets stagnant),3.5
+novelty,246,ari (ant),X ga mitiru (X fills Y),3.5
+novelty,246,ari (ant),X ga sumu (X gets clear),3.5
+novelty,246,neko (cat),X wo tarasu (Y drops X),3.5
+novelty,246,neko (cat),X ga nagareru (X flows),3.5
+novelty,246,neko (cat),X ni uku (Y floats on X),3.5
+novelty,246,neko (cat),X wo abiseru (Y showers X),3.5
+novelty,246,keeki (cake),X wo abiseru (Y showers X),3.5
+novelty,246,keeki (cake),X ga yodomu (X gets stagnant),3.5
+novelty,246,huan (anxiety),X wo tarasu (Y drops X),3.5
+novelty,246,human (complaint),X ni oboreru (Y almost drowns in X),3.5
+novelty,246,hikari (light),X ga huttou-suru (X boils),3.5
+novelty,246,roudou (labor),X wo kakeru (Y sprays X),3.5
+novelty,246,roudou (labor),X ga huttou-suru (X boils),3.5
+novelty,246,roudou (labor),X ga nagarederu (X flows out),3.5
+novelty,246,roudou (labor),X wo abiseru (Y showers X),3.5
+novelty,246,roudou (labor),X ga uzumaku (X whirls),3.5
+novelty,246,yuuki (bravery),X wo susuru (Y sips X),3.5
+novelty,246,yuuki (bravery),X ni uku (Y floats on X),3.5
+novelty,246,yuuki (bravery),X ni hitaru (Y soaks in X),3.5
+novelty,246,yuuki (bravery),X ga tamaru (X gets collected),3.5
+novelty,246,yuuki (bravery),X ni tukaru (Y gets submerged in X),3.5
+novelty,246,yorokobi (delight),X wo kakeru (Y sprays X),3.5
+novelty,246,yorokobi (delight),X wo susuru (Y sips X),3.5
+novelty,246,yorokobi (delight),X ni sizumu (Y sinks into X),3.5
+novelty,246,yorokobi (delight),X wo nomu (Y drinks X),3.5
+novelty,246,koe (voice),X wo tarasu (Y drops X),3.5
+novelty,246,koe (voice),X ni hitasu (Y dips Z in X),3.5
+novelty,246,sitto (envy),X ga simiru (X soaks into Y),3.5
+novelty,246,sitto (envy),X de susugu (Y rinses Z with X),3.5
+novelty,246,sitto (envy),X wo kakeru (Y sprays X),3.5
+novelty,246,ansin (relief),X ga simiru (X soaks into Y),3.5
+novelty,246,ansin (relief),X wo susuru (Y sips X),3.5
+novelty,246,ansin (relief),X ga uzumaku (X whirls),3.5
+novelty,246,ansin (relief),X ga nigoru (X gets cloudy),3.5
+novelty,246,iwa (rock),X wo kakeru (Y sprays X),3.5
+novelty,246,iwa (rock),X ni sizumu (Y sinks into X),3.5
+novelty,246,iwa (rock),X wo abiseru (Y showers X),3.5
+novelty,246,iwa (rock),X ga ahureru (X overflows),3.5
+novelty,246,kibou (hope),X ga sitataru (X drips),3.5
+novelty,246,kairaku (pleasure),X wo tarasu (Y drops X),3.5
+novelty,246,kairaku (pleasure),X wo maku (Y scatters X),3.5
+novelty,246,ikari (anger),X ga sumu (X gets clear),3.5
+novelty,246,kyouhu (fear),X de susugu (Y rinses Z with X),3.5
+novelty,246,kyouhu (fear),X ga koboreru (X spills out),3.5
+novelty,246,kanasimi (sorrow),X wo maku (Y scatters X),3.5
+novelty,246,kanasimi (sorrow),X ni uku (Y floats on X),3.5
+novelty,246,kanasimi (sorrow),X ga sumu (X gets clear),3.5
+novelty,246,kanasimi (sorrow),X ga nigoru (X gets cloudy),3.5
+novelty,246,jouhou (information),X wo kakeru (Y sprays X),3.5
+novelty,246,jouhou (information),X wo susuru (Y sips X),3.5
+novelty,246,jounetu (passion),X ni sizumu (Y sinks into X),3.5
+novelty,246,ito (intention),X wo tarasu (Y drops X),3.5
+novelty,246,ito (intention),X wo makitirasu (Y sprinkles X),3.5
+novelty,246,ito (intention),X wo sosogu (Y pours X),3.5
+novelty,246,ito (intention),X wo abiseru (Y showers X),3.5
+novelty,246,ito (intention),X ga tamaru (X gets collected),3.5
+novelty,246,zouo (hatred),X ni tukaru (Y gets submerged in X),3.5
+novelty,246,jikan (time),X ga simiru (X soaks into Y),3.5
+novelty,246,jikan (time),X wo makitirasu (Y sprinkles X),3.5
+novelty,246,jikan (time),X ni tukaru (Y gets submerged in X),3.5
+novelty,246,kimoti (feeling),X ni hitasu (Y dips Z in X),3.5
+novelty,246,kimoti (feeling),X ni tukaru (Y gets submerged in X),3.5
+novelty,246,rikai (understanding),X ga hotobasiru (X spurts),3.5
+novelty,246,rikai (understanding),X ni hitasu (Y dips Z in X),3.5
+novelty,246,suimin (sleep),X ga simiru (X soaks into Y),3.5
+novelty,246,suimin (sleep),X wo siboridasu (Y squeezes X),3.5
+novelty,246,suimin (sleep),X wo kumitoru (Y scoops up X),3.5
+novelty,246,suna (sand),X ga simiru (X soaks into Y),3.5
+novelty,246,suna (sand),X ga hotobasiru (X spurts),3.5
+novelty,246,suna (sand),X wo siboridasu (Y squeezes X),3.5
+novelty,246,zetubou (despair),X wo susuru (Y sips X),3.5
+novelty,246,zetubou (despair),X ga moreru (X leaks),3.5
+novelty,246,zetubou (despair),X ga sumu (X gets clear),3.5
+novelty,246,syutisin (shame),X ga koboreru (X spills out),3.5
+novelty,246,syutisin (shame),X wo tarasu (Y drops X),3.5
+novelty,246,syutisin (shame),X wo sosogu (Y pours X),3.5
+novelty,246,syutisin (shame),X ni hitasu (Y dips Z in X),3.5
+novelty,246,syutisin (shame),X ga sumu (X gets clear),3.5
+novelty,246,kinsen (money),X ni tukaru (Y gets submerged in X),3.5
+novelty,246,oto (sound),X ga huttou-suru (X boils),3.5
+novelty,329,ari (ant),X wo siboridasu (Y squeezes X),3.4
+novelty,329,ari (ant),X ga huttou-suru (X boils),3.4
+novelty,329,ari (ant),X ni uku (Y floats on X),3.4
+novelty,329,neko (cat),X de susugu (Y rinses Z with X),3.4
+novelty,329,neko (cat),X wo kakeru (Y sprays X),3.4
+novelty,329,neko (cat),X wo nomu (Y drinks X),3.4
+novelty,329,nioi (smell),X wo siboridasu (Y squeezes X),3.4
+novelty,329,nioi (smell),X wo sosogu (Y pours X),3.4
+novelty,329,keeki (cake),X ga simiru (X soaks into Y),3.4
+novelty,329,keeki (cake),X ni hitasu (Y dips Z in X),3.4
+novelty,329,keeki (cake),X ga uzumaku (X whirls),3.4
+novelty,329,keeki (cake),X ga ahureru (X overflows),3.4
+novelty,329,huan (anxiety),X de susugu (Y rinses Z with X),3.4
+novelty,329,huan (anxiety),X wo susuru (Y sips X),3.4
+novelty,329,huan (anxiety),X wo siboridasu (Y squeezes X),3.4
+novelty,329,huan (anxiety),X ga nigoru (X gets cloudy),3.4
+novelty,329,huan (anxiety),X wo nomu (Y drinks X),3.4
+novelty,329,human (complaint),X wo susuru (Y sips X),3.4
+novelty,329,hikari (light),X wo kumitoru (Y scoops up X),3.4
+novelty,329,roudou (labor),X ga ahureru (X overflows),3.4
+novelty,329,roudou (labor),X ga moreru (X leaks),3.4
+novelty,329,yuuki (bravery),X ni sizumu (Y sinks into X),3.4
+novelty,329,yuuki (bravery),X ga sitataru (X drips),3.4
+novelty,329,yorokobi (delight),X ga moreru (X leaks),3.4
+novelty,329,sitto (envy),X wo tarasu (Y drops X),3.4
+novelty,329,sitto (envy),X wo kumitoru (Y scoops up X),3.4
+novelty,329,ansin (relief),X wo kakeru (Y sprays X),3.4
+novelty,329,ansin (relief),X ga hotobasiru (X spurts),3.4
+novelty,329,ansin (relief),X wo tarasu (Y drops X),3.4
+novelty,329,ansin (relief),X ga moreru (X leaks),3.4
+novelty,329,iwa (rock),X wo siboridasu (Y squeezes X),3.4
+novelty,329,iwa (rock),X ga uzumaku (X whirls),3.4
+novelty,329,iwa (rock),X ni oboreru (Y almost drowns in X),3.4
+novelty,329,iwa (rock),X ga sumu (X gets clear),3.4
+novelty,329,kibou (hope),X ga simiru (X soaks into Y),3.4
+novelty,329,kibou (hope),X ga nagareru (X flows),3.4
+novelty,329,kibou (hope),X ni uku (Y floats on X),3.4
+novelty,329,kibou (hope),X ni oboreru (Y almost drowns in X),3.4
+novelty,329,kairaku (pleasure),X ni hitasu (Y dips Z in X),3.4
+novelty,329,kairaku (pleasure),X ga moreru (X leaks),3.4
+novelty,329,ikari (anger),X ga simiru (X soaks into Y),3.4
+novelty,329,ikari (anger),X ga sitataru (X drips),3.4
+novelty,329,ikari (anger),X ni tukaru (Y gets submerged in X),3.4
+novelty,329,kyouhu (fear),X wo tarasu (Y drops X),3.4
+novelty,329,jouhou (information),X ga simiru (X soaks into Y),3.4
+novelty,329,jounetu (passion),X ga sumu (X gets clear),3.4
+novelty,329,ito (intention),X ni uku (Y floats on X),3.4
+novelty,329,ito (intention),X ni hitaru (Y soaks in X),3.4
+novelty,329,ito (intention),X ni tukaru (Y gets submerged in X),3.4
+novelty,329,ai (love),X ga huttou-suru (X boils),3.4
+novelty,329,ai (love),X wo nomu (Y drinks X),3.4
+novelty,329,zouo (hatred),X ga nagareru (X flows),3.4
+novelty,329,zouo (hatred),X ni hitasu (Y dips Z in X),3.4
+novelty,329,zouo (hatred),X ga sumu (X gets clear),3.4
+novelty,329,tanosisa (enjoyment),X ga nigoru (X gets cloudy),3.4
+novelty,329,kimoti (feeling),X wo tarasu (Y drops X),3.4
+novelty,329,doro (mud),X ga mitiru (X fills Y),3.4
+novelty,329,rikai (understanding),X ga koboreru (X spills out),3.4
+novelty,329,rikai (understanding),X wo susuru (Y sips X),3.4
+novelty,329,rikai (understanding),X wo makitirasu (Y sprinkles X),3.4
+novelty,329,rikai (understanding),X ga nagareru (X flows),3.4
+novelty,329,rikai (understanding),X ga nagarederu (X flows out),3.4
+novelty,329,rikai (understanding),X ga nigoru (X gets cloudy),3.4
+novelty,329,suimin (sleep),X wo makitirasu (Y sprinkles X),3.4
+novelty,329,suimin (sleep),X ga nigoru (X gets cloudy),3.4
+novelty,329,suna (sand),X ni hitaru (Y soaks in X),3.4
+novelty,329,suna (sand),X ga nizimu (X oozes),3.4
+novelty,329,kuuki (air),X de susugu (Y rinses Z with X),3.4
+novelty,329,kuuki (air),X ni hitasu (Y dips Z in X),3.4
+novelty,329,zetubou (despair),X wo kakeru (Y sprays X),3.4
+novelty,329,zetubou (despair),X ga hotobasiru (X spurts),3.4
+novelty,329,zetubou (despair),X wo siboridasu (Y squeezes X),3.4
+novelty,329,zetubou (despair),X ga nagarederu (X flows out),3.4
+novelty,329,zetubou (despair),X wo nomu (Y drinks X),3.4
+novelty,329,syutisin (shame),X ga huttou-suru (X boils),3.4
+novelty,329,syutisin (shame),X ga nigoru (X gets cloudy),3.4
+novelty,329,kinsen (money),X ga yodomu (X gets stagnant),3.4
+novelty,329,kinsen (money),X ga moreru (X leaks),3.4
+novelty,329,oto (sound),X wo maku (Y scatters X),3.4
+novelty,329,oto (sound),X ni uku (Y floats on X),3.4
+novelty,329,oto (sound),X ni hitasu (Y dips Z in X),3.4
+novelty,329,oto (sound),X ga waku (X gushes out),3.4
+novelty,411,ari (ant),X de susugu (Y rinses Z with X),3.3
+novelty,411,ari (ant),X ni sizumu (Y sinks into X),3.3
+novelty,411,ari (ant),X ga nizimu (X oozes),3.3
+novelty,411,neko (cat),X ga waku (X gushes out),3.3
+novelty,411,nioi (smell),X ni oboreru (Y almost drowns in X),3.3
+novelty,411,keeki (cake),X wo kakeru (Y sprays X),3.3
+novelty,411,keeki (cake),X wo kumitoru (Y scoops up X),3.3
+novelty,411,keeki (cake),X ni hitaru (Y soaks in X),3.3
+novelty,411,keeki (cake),X ga waku (X gushes out),3.3
+novelty,411,human (complaint),X ni hitaru (Y soaks in X),3.3
+novelty,411,hikari (light),X wo susuru (Y sips X),3.3
+novelty,411,hikari (light),X wo tarasu (Y drops X),3.3
+novelty,411,roudou (labor),X ga tamaru (X gets collected),3.3
+novelty,411,roudou (labor),X ni tukaru (Y gets submerged in X),3.3
+novelty,411,yuuki (bravery),X ga koboreru (X spills out),3.3
+novelty,411,yuuki (bravery),X wo abiseru (Y showers X),3.3
+novelty,411,yuuki (bravery),X ga yodomu (X gets stagnant),3.3
+novelty,411,yorokobi (delight),X ga tamaru (X gets collected),3.3
+novelty,411,koe (voice),X de susugu (Y rinses Z with X),3.3
+novelty,411,koe (voice),X ga sitataru (X drips),3.3
+novelty,411,sitto (envy),X ga huttou-suru (X boils),3.3
+novelty,411,sitto (envy),X wo sosogu (Y pours X),3.3
+novelty,411,sitto (envy),X ni hitasu (Y dips Z in X),3.3
+novelty,411,ansin (relief),X wo makitirasu (Y sprinkles X),3.3
+novelty,411,ansin (relief),X ga sitataru (X drips),3.3
+novelty,411,iwa (rock),X ga hotobasiru (X spurts),3.3
+novelty,411,iwa (rock),X ga waku (X gushes out),3.3
+novelty,411,kibou (hope),X wo susuru (Y sips X),3.3
+novelty,411,kibou (hope),X ga huttou-suru (X boils),3.3
+novelty,411,kairaku (pleasure),X ga nagareru (X flows),3.3
+novelty,411,kairaku (pleasure),X ga nizimu (X oozes),3.3
+novelty,411,ikari (anger),X ga yodomu (X gets stagnant),3.3
+novelty,411,ikari (anger),X ga nigoru (X gets cloudy),3.3
+novelty,411,kyouhu (fear),X wo susuru (Y sips X),3.3
+novelty,411,kyouhu (fear),X ga huttou-suru (X boils),3.3
+novelty,411,kyouhu (fear),X ga nagareru (X flows),3.3
+novelty,411,kyouhu (fear),X ga nagarederu (X flows out),3.3
+novelty,411,kyouhu (fear),X ni uku (Y floats on X),3.3
+novelty,411,kyouhu (fear),X ni hitasu (Y dips Z in X),3.3
+novelty,411,kyouhu (fear),X wo nomu (Y drinks X),3.3
+novelty,411,kanasimi (sorrow),X ni hitasu (Y dips Z in X),3.3
+novelty,411,jouhou (information),X wo tarasu (Y drops X),3.3
+novelty,411,jouhou (information),X ni uku (Y floats on X),3.3
+novelty,411,jounetu (passion),X de susugu (Y rinses Z with X),3.3
+novelty,411,jounetu (passion),X wo tarasu (Y drops X),3.3
+novelty,411,jounetu (passion),X ni hitasu (Y dips Z in X),3.3
+novelty,411,ito (intention),X wo susuru (Y sips X),3.3
+novelty,411,ito (intention),X ga huttou-suru (X boils),3.3
+novelty,411,ito (intention),X ni hitasu (Y dips Z in X),3.3
+novelty,411,ito (intention),X ga sitataru (X drips),3.3
+novelty,411,zouo (hatred),X ga simiru (X soaks into Y),3.3
+novelty,411,zouo (hatred),X wo susuru (Y sips X),3.3
+novelty,411,zouo (hatred),X wo siboridasu (Y squeezes X),3.3
+novelty,411,jikan (time),X ni hitasu (Y dips Z in X),3.3
+novelty,411,jikan (time),X ga yodomu (X gets stagnant),3.3
+novelty,411,tanosisa (enjoyment),X wo maku (Y scatters X),3.3
+novelty,411,tanosisa (enjoyment),X wo abiseru (Y showers X),3.3
+novelty,411,doro (mud),X ga hotobasiru (X spurts),3.3
+novelty,411,doro (mud),X ga huttou-suru (X boils),3.3
+novelty,411,rikai (understanding),X wo abiseru (Y showers X),3.3
+novelty,411,suimin (sleep),X ga koboreru (X spills out),3.3
+novelty,411,suimin (sleep),X ga mitiru (X fills Y),3.3
+novelty,411,suimin (sleep),X ga ahureru (X overflows),3.3
+novelty,411,suna (sand),X ni hitasu (Y dips Z in X),3.3
+novelty,411,suna (sand),X ga nigoru (X gets cloudy),3.3
+novelty,411,kuuki (air),X wo maku (Y scatters X),3.3
+novelty,411,zetubou (despair),X ga simiru (X soaks into Y),3.3
+novelty,411,zetubou (despair),X ga koboreru (X spills out),3.3
+novelty,411,zetubou (despair),X wo maku (Y scatters X),3.3
+novelty,411,zetubou (despair),X ga nagareru (X flows),3.3
+novelty,411,syutisin (shame),X wo maku (Y scatters X),3.3
+novelty,411,syutisin (shame),X ga yodomu (X gets stagnant),3.3
+novelty,411,syutisin (shame),X ga moreru (X leaks),3.3
+novelty,411,kotoba (word),X ni uku (Y floats on X),3.3
+novelty,411,kinsen (money),X ga nigoru (X gets cloudy),3.3
+novelty,411,kinsen (money),X wo nomu (Y drinks X),3.3
+novelty,411,oto (sound),X de susugu (Y rinses Z with X),3.3
+novelty,411,oto (sound),X ni sizumu (Y sinks into X),3.3
+novelty,489,ari (ant),X ga ahureru (X overflows),3.2
+novelty,489,ari (ant),X ga nigoru (X gets cloudy),3.2
+novelty,489,ari (ant),X wo nomu (Y drinks X),3.2
+novelty,489,nioi (smell),X wo kakeru (Y sprays X),3.2
+novelty,489,nioi (smell),X ga huttou-suru (X boils),3.2
+novelty,489,keeki (cake),X wo siboridasu (Y squeezes X),3.2
+novelty,489,keeki (cake),X wo maku (Y scatters X),3.2
+novelty,489,keeki (cake),X ga huttou-suru (X boils),3.2
+novelty,489,keeki (cake),X ga tamaru (X gets collected),3.2
+novelty,489,keeki (cake),X ga moreru (X leaks),3.2
+novelty,489,huan (anxiety),X ga sitataru (X drips),3.2
+novelty,489,huan (anxiety),X ni tukaru (Y gets submerged in X),3.2
+novelty,489,hikari (light),X wo kakeru (Y sprays X),3.2
+novelty,489,roudou (labor),X ni sizumu (Y sinks into X),3.2
+novelty,489,roudou (labor),X ga nizimu (X oozes),3.2
+novelty,489,yuuki (bravery),X ga uzumaku (X whirls),3.2
+novelty,489,yorokobi (delight),X wo makitirasu (Y sprinkles X),3.2
+novelty,489,yorokobi (delight),X ga sumu (X gets clear),3.2
+novelty,489,sitto (envy),X ni sizumu (Y sinks into X),3.2
+novelty,489,sitto (envy),X ni uku (Y floats on X),3.2
+novelty,489,sitto (envy),X wo abiseru (Y showers X),3.2
+novelty,489,sitto (envy),X ni hitaru (Y soaks in X),3.2
+novelty,489,sitto (envy),X ni tukaru (Y gets submerged in X),3.2
+novelty,489,ansin (relief),X ga koboreru (X spills out),3.2
+novelty,489,ansin (relief),X wo kumitoru (Y scoops up X),3.2
+novelty,489,ansin (relief),X ga nagarederu (X flows out),3.2
+novelty,489,ansin (relief),X ni hitasu (Y dips Z in X),3.2
+novelty,489,iwa (rock),X ga simiru (X soaks into Y),3.2
+novelty,489,iwa (rock),X ga moreru (X leaks),3.2
+novelty,489,kairaku (pleasure),X ni uku (Y floats on X),3.2
+novelty,489,kairaku (pleasure),X ga tamaru (X gets collected),3.2
+novelty,489,kairaku (pleasure),X ni tukaru (Y gets submerged in X),3.2
+novelty,489,ikari (anger),X wo kakeru (Y sprays X),3.2
+novelty,489,ikari (anger),X ga koboreru (X spills out),3.2
+novelty,489,jounetu (passion),X wo maku (Y scatters X),3.2
+novelty,489,ai (love),X wo siboridasu (Y squeezes X),3.2
+novelty,489,ai (love),X ga sumu (X gets clear),3.2
+novelty,489,kanjou (emotion),X de susugu (Y rinses Z with X),3.2
+novelty,489,kanjou (emotion),X wo kakeru (Y sprays X),3.2
+novelty,489,zouo (hatred),X ga koboreru (X spills out),3.2
+novelty,489,zouo (hatred),X ga sitataru (X drips),3.2
+novelty,489,tanosisa (enjoyment),X wo siboridasu (Y squeezes X),3.2
+novelty,489,kimoti (feeling),X wo susuru (Y sips X),3.2
+novelty,489,rikai (understanding),X ni hitaru (Y soaks in X),3.2
+novelty,489,rikai (understanding),X ga yodomu (X gets stagnant),3.2
+novelty,489,rikai (understanding),X ga tamaru (X gets collected),3.2
+novelty,489,rikai (understanding),X ga nizimu (X oozes),3.2
+novelty,489,suimin (sleep),X wo maku (Y scatters X),3.2
+novelty,489,suimin (sleep),X wo sosogu (Y pours X),3.2
+novelty,489,suimin (sleep),X wo abiseru (Y showers X),3.2
+novelty,489,suna (sand),X wo susuru (Y sips X),3.2
+novelty,489,suna (sand),X ga yodomu (X gets stagnant),3.2
+novelty,489,suna (sand),X ga waku (X gushes out),3.2
+novelty,489,suna (sand),X ga sitataru (X drips),3.2
+novelty,489,suna (sand),X wo nomu (Y drinks X),3.2
+novelty,489,zetubou (despair),X wo abiseru (Y showers X),3.2
+novelty,489,syutisin (shame),X ni hitaru (Y soaks in X),3.2
+novelty,489,kinsen (money),X wo susuru (Y sips X),3.2
+novelty,489,oto (sound),X wo sosogu (Y pours X),3.2
+novelty,548,neko (cat),X ga koboreru (X spills out),3.1
+novelty,548,nioi (smell),X wo tarasu (Y drops X),3.1
+novelty,548,nioi (smell),X ga nizimu (X oozes),3.1
+novelty,548,nioi (smell),X wo nomu (Y drinks X),3.1
+novelty,548,huan (anxiety),X ga simiru (X soaks into Y),3.1
+novelty,548,huan (anxiety),X ga huttou-suru (X boils),3.1
+novelty,548,huan (anxiety),X ni hitasu (Y dips Z in X),3.1
+novelty,548,huan (anxiety),X ga yodomu (X gets stagnant),3.1
+novelty,548,huan (anxiety),X ga sumu (X gets clear),3.1
+novelty,548,human (complaint),X ga nagareru (X flows),3.1
+novelty,548,hikari (light),X ni sizumu (Y sinks into X),3.1
+novelty,548,roudou (labor),X wo maku (Y scatters X),3.1
+novelty,548,roudou (labor),X ga sumu (X gets clear),3.1
+novelty,548,roudou (labor),X ga nigoru (X gets cloudy),3.1
+novelty,548,yuuki (bravery),X wo kakeru (Y sprays X),3.1
+novelty,548,yuuki (bravery),X ga huttou-suru (X boils),3.1
+novelty,548,yorokobi (delight),X wo tarasu (Y drops X),3.1
+novelty,548,yorokobi (delight),X wo sosogu (Y pours X),3.1
+novelty,548,yorokobi (delight),X ga nagareru (X flows),3.1
+novelty,548,yorokobi (delight),X ni uku (Y floats on X),3.1
+novelty,548,yorokobi (delight),X ga yodomu (X gets stagnant),3.1
+novelty,548,koe (voice),X wo maku (Y scatters X),3.1
+novelty,548,koe (voice),X ga tamaru (X gets collected),3.1
+novelty,548,koe (voice),X ni tukaru (Y gets submerged in X),3.1
+novelty,548,sitto (envy),X wo siboridasu (Y squeezes X),3.1
+novelty,548,sitto (envy),X ga nagareru (X flows),3.1
+novelty,548,ansin (relief),X ga yodomu (X gets stagnant),3.1
+novelty,548,ansin (relief),X ga tamaru (X gets collected),3.1
+novelty,548,iwa (rock),X ga mitiru (X fills Y),3.1
+novelty,548,kairaku (pleasure),X ga simiru (X soaks into Y),3.1
+novelty,548,kairaku (pleasure),X wo makitirasu (Y sprinkles X),3.1
+novelty,548,kyouhu (fear),X ga sitataru (X drips),3.1
+novelty,548,kanasimi (sorrow),X wo susuru (Y sips X),3.1
+novelty,548,kanasimi (sorrow),X wo sosogu (Y pours X),3.1
+novelty,548,kanasimi (sorrow),X ga nagareru (X flows),3.1
+novelty,548,kanasimi (sorrow),X wo abiseru (Y showers X),3.1
+novelty,548,kanasimi (sorrow),X ga sitataru (X drips),3.1
+novelty,548,jouhou (information),X ni hitasu (Y dips Z in X),3.1
+novelty,548,jounetu (passion),X wo susuru (Y sips X),3.1
+novelty,548,jounetu (passion),X ga yodomu (X gets stagnant),3.1
+novelty,548,jounetu (passion),X ga tamaru (X gets collected),3.1
+novelty,548,jounetu (passion),X ga sitataru (X drips),3.1
+novelty,548,ito (intention),X wo kakeru (Y sprays X),3.1
+novelty,548,ito (intention),X ni sizumu (Y sinks into X),3.1
+novelty,548,ito (intention),X ga sumu (X gets clear),3.1
+novelty,548,ai (love),X ni uku (Y floats on X),3.1
+novelty,548,tanosisa (enjoyment),X ga huttou-suru (X boils),3.1
+novelty,548,tanosisa (enjoyment),X ni uku (Y floats on X),3.1
+novelty,548,tanosisa (enjoyment),X ga yodomu (X gets stagnant),3.1
+novelty,548,tanosisa (enjoyment),X ga tamaru (X gets collected),3.1
+novelty,548,kimoti (feeling),X wo kakeru (Y sprays X),3.1
+novelty,548,abura (oil),X wo susuru (Y sips X),3.1
+novelty,548,abura (oil),X ni sizumu (Y sinks into X),3.1
+novelty,548,doro (mud),X ga sumu (X gets clear),3.1
+novelty,548,rikai (understanding),X ga uzumaku (X whirls),3.1
+novelty,548,rikai (understanding),X ga mitiru (X fills Y),3.1
+novelty,548,rikai (understanding),X ga ahureru (X overflows),3.1
+novelty,548,rikai (understanding),X ni oboreru (Y almost drowns in X),3.1
+novelty,548,rikai (understanding),X wo nomu (Y drinks X),3.1
+novelty,548,suimin (sleep),X ga waku (X gushes out),3.1
+novelty,548,suimin (sleep),X ga moreru (X leaks),3.1
+novelty,548,suna (sand),X ga uzumaku (X whirls),3.1
+novelty,548,kuuki (air),X wo kumitoru (Y scoops up X),3.1
+novelty,548,zetubou (despair),X ga waku (X gushes out),3.1
+novelty,548,syutisin (shame),X ga simiru (X soaks into Y),3.1
+novelty,548,syutisin (shame),X wo susuru (Y sips X),3.1
+novelty,548,syutisin (shame),X ni sizumu (Y sinks into X),3.1
+novelty,548,syutisin (shame),X ga sitataru (X drips),3.1
+novelty,548,kinsen (money),X ga mitiru (X fills Y),3.1
+novelty,548,oto (sound),X wo tarasu (Y drops X),3.1
+novelty,618,ari (ant),X wo tarasu (Y drops X),3.0
+novelty,618,ari (ant),X ga tamaru (X gets collected),3.0
+novelty,618,neko (cat),X ga uzumaku (X whirls),3.0
+novelty,618,keeki (cake),X ni oboreru (Y almost drowns in X),3.0
+novelty,618,huan (anxiety),X wo sosogu (Y pours X),3.0
+novelty,618,human (complaint),X wo sosogu (Y pours X),3.0
+novelty,618,human (complaint),X ni hitasu (Y dips Z in X),3.0
+novelty,618,hikari (light),X ga simiru (X soaks into Y),3.0
+novelty,618,hikari (light),X ga sitataru (X drips),3.0
+novelty,618,hikari (light),X ni tukaru (Y gets submerged in X),3.0
+novelty,618,roudou (labor),X ga hotobasiru (X spurts),3.0
+novelty,618,roudou (labor),X wo siboridasu (Y squeezes X),3.0
+novelty,618,roudou (labor),X ni hitasu (Y dips Z in X),3.0
+novelty,618,yuuki (bravery),X ga simiru (X soaks into Y),3.0
+novelty,618,yuuki (bravery),X ga nizimu (X oozes),3.0
+novelty,618,yuuki (bravery),X wo nomu (Y drinks X),3.0
+novelty,618,koe (voice),X ni uku (Y floats on X),3.0
+novelty,618,sitto (envy),X ga moreru (X leaks),3.0
+novelty,618,ansin (relief),X wo maku (Y scatters X),3.0
+novelty,618,ansin (relief),X ni sizumu (Y sinks into X),3.0
+novelty,618,ansin (relief),X ga ahureru (X overflows),3.0
+novelty,618,kibou (hope),X wo siboridasu (Y squeezes X),3.0
+novelty,618,kibou (hope),X ni tukaru (Y gets submerged in X),3.0
+novelty,618,kibou (hope),X ga sumu (X gets clear),3.0
+novelty,618,kibou (hope),X ga nigoru (X gets cloudy),3.0
+novelty,618,kairaku (pleasure),X ga koboreru (X spills out),3.0
+novelty,618,kairaku (pleasure),X ga hotobasiru (X spurts),3.0
+novelty,618,kairaku (pleasure),X wo abiseru (Y showers X),3.0
+novelty,618,kairaku (pleasure),X wo nomu (Y drinks X),3.0
+novelty,618,kyouhu (fear),X wo sosogu (Y pours X),3.0
+novelty,618,kanasimi (sorrow),X ga huttou-suru (X boils),3.0
+novelty,618,kanasimi (sorrow),X ga yodomu (X gets stagnant),3.0
+novelty,618,jouhou (information),X ga nizimu (X oozes),3.0
+novelty,618,jounetu (passion),X wo siboridasu (Y squeezes X),3.0
+novelty,618,jounetu (passion),X ga nigoru (X gets cloudy),3.0
+novelty,618,jounetu (passion),X wo nomu (Y drinks X),3.0
+novelty,618,ito (intention),X ga nagareru (X flows),3.0
+novelty,618,ai (love),X ga yodomu (X gets stagnant),3.0
+novelty,618,ai (love),X ga nigoru (X gets cloudy),3.0
+novelty,618,kanjou (emotion),X ni tukaru (Y gets submerged in X),3.0
+novelty,618,zouo (hatred),X ga moreru (X leaks),3.0
+novelty,618,tanosisa (enjoyment),X ga uzumaku (X whirls),3.0
+novelty,618,kimoti (feeling),X ni uku (Y floats on X),3.0
+novelty,618,kimoti (feeling),X ga sitataru (X drips),3.0
+novelty,618,doro (mud),X ni hitaru (Y soaks in X),3.0
+novelty,618,rikai (understanding),X wo siboridasu (Y squeezes X),3.0
+novelty,618,rikai (understanding),X wo sosogu (Y pours X),3.0
+novelty,618,suimin (sleep),X ni hitaru (Y soaks in X),3.0
+novelty,618,suimin (sleep),X ga yodomu (X gets stagnant),3.0
+novelty,618,suimin (sleep),X ni tukaru (Y gets submerged in X),3.0
+novelty,618,kuuki (air),X wo sosogu (Y pours X),3.0
+novelty,618,zetubou (despair),X wo kumitoru (Y scoops up X),3.0
+novelty,618,zetubou (despair),X ga nizimu (X oozes),3.0
+novelty,618,syutisin (shame),X ga nagarederu (X flows out),3.0
+novelty,618,syutisin (shame),X wo abiseru (Y showers X),3.0
+novelty,618,syutisin (shame),X ni tukaru (Y gets submerged in X),3.0
+novelty,618,kotoba (word),X wo tarasu (Y drops X),3.0
+novelty,618,kotoba (word),X ni hitasu (Y dips Z in X),3.0
+novelty,618,kotoba (word),X ga tamaru (X gets collected),3.0
+novelty,618,kinsen (money),X wo kumitoru (Y scoops up X),3.0
+novelty,618,kinsen (money),X ni hitaru (Y soaks in X),3.0
+novelty,618,kinsen (money),X ga uzumaku (X whirls),3.0
+novelty,618,kinsen (money),X ga nizimu (X oozes),3.0
+novelty,618,oto (sound),X ga tamaru (X gets collected),3.0
+novelty,682,ari (ant),X wo kakeru (Y sprays X),2.9
+novelty,682,nioi (smell),X wo susuru (Y sips X),2.9
+novelty,682,nioi (smell),X ga sumu (X gets clear),2.9
+novelty,682,keeki (cake),X wo susuru (Y sips X),2.9
+novelty,682,keeki (cake),X ga nagareru (X flows),2.9
+novelty,682,huan (anxiety),X wo kakeru (Y sprays X),2.9
+novelty,682,huan (anxiety),X ga nagareru (X flows),2.9
+novelty,682,human (complaint),X ni sizumu (Y sinks into X),2.9
+novelty,682,hikari (light),X ga sumu (X gets clear),2.9
+novelty,682,hikari (light),X wo nomu (Y drinks X),2.9
+novelty,682,roudou (labor),X ga yodomu (X gets stagnant),2.9
+novelty,682,roudou (labor),X ga waku (X gushes out),2.9
+novelty,682,yorokobi (delight),X wo siboridasu (Y squeezes X),2.9
+novelty,682,yorokobi (delight),X ga huttou-suru (X boils),2.9
+novelty,682,koe (voice),X ni sizumu (Y sinks into X),2.9
+novelty,682,sitto (envy),X ga hotobasiru (X spurts),2.9
+novelty,682,ansin (relief),X wo sosogu (Y pours X),2.9
+novelty,682,ansin (relief),X ni tukaru (Y gets submerged in X),2.9
+novelty,682,ansin (relief),X ga sumu (X gets clear),2.9
+novelty,682,kibou (hope),X ni hitaru (Y soaks in X),2.9
+novelty,682,kairaku (pleasure),X wo susuru (Y sips X),2.9
+novelty,682,kairaku (pleasure),X wo siboridasu (Y squeezes X),2.9
+novelty,682,kairaku (pleasure),X ga huttou-suru (X boils),2.9
+novelty,682,ikari (anger),X ga nagareru (X flows),2.9
+novelty,682,kyouhu (fear),X ga simiru (X soaks into Y),2.9
+novelty,682,jouhou (information),X wo sosogu (Y pours X),2.9
+novelty,682,jouhou (information),X ga nigoru (X gets cloudy),2.9
+novelty,682,jounetu (passion),X ga simiru (X soaks into Y),2.9
+novelty,682,jounetu (passion),X ga nagareru (X flows),2.9
+novelty,682,jounetu (passion),X ga nagarederu (X flows out),2.9
+novelty,682,jounetu (passion),X ni uku (Y floats on X),2.9
+novelty,682,jounetu (passion),X ni tukaru (Y gets submerged in X),2.9
+novelty,682,ito (intention),X ga simiru (X soaks into Y),2.9
+novelty,682,ito (intention),X ga hotobasiru (X spurts),2.9
+novelty,682,ito (intention),X ga yodomu (X gets stagnant),2.9
+novelty,682,ito (intention),X ga ahureru (X overflows),2.9
+novelty,682,ai (love),X wo kumitoru (Y scoops up X),2.9
+novelty,682,ai (love),X ga nagarederu (X flows out),2.9
+novelty,682,ai (love),X wo abiseru (Y showers X),2.9
+novelty,682,ai (love),X ni hitasu (Y dips Z in X),2.9
+novelty,682,kanjou (emotion),X ga sumu (X gets clear),2.9
+novelty,682,zouo (hatred),X ga huttou-suru (X boils),2.9
+novelty,682,zouo (hatred),X wo sosogu (Y pours X),2.9
+novelty,682,jikan (time),X ga koboreru (X spills out),2.9
+novelty,682,jikan (time),X ga nagarederu (X flows out),2.9
+novelty,682,jikan (time),X ga moreru (X leaks),2.9
+novelty,682,tanosisa (enjoyment),X ga nagarederu (X flows out),2.9
+novelty,682,kimoti (feeling),X wo makitirasu (Y sprinkles X),2.9
+novelty,682,kimoti (feeling),X wo abiseru (Y showers X),2.9
+novelty,682,abura (oil),X de susugu (Y rinses Z with X),2.9
+novelty,682,abura (oil),X ni oboreru (Y almost drowns in X),2.9
+novelty,682,doro (mud),X ga simiru (X soaks into Y),2.9
+novelty,682,rikai (understanding),X ga moreru (X leaks),2.9
+novelty,682,suimin (sleep),X ni oboreru (Y almost drowns in X),2.9
+novelty,682,suna (sand),X de susugu (Y rinses Z with X),2.9
+novelty,682,kuuki (air),X ni uku (Y floats on X),2.9
+novelty,682,kuuki (air),X ga waku (X gushes out),2.9
+novelty,682,kuuki (air),X ni tukaru (Y gets submerged in X),2.9
+novelty,682,zetubou (despair),X wo makitirasu (Y sprinkles X),2.9
+novelty,682,zetubou (despair),X ga tamaru (X gets collected),2.9
+novelty,682,zetubou (despair),X ni oboreru (Y almost drowns in X),2.9
+novelty,682,kotoba (word),X ga sitataru (X drips),2.9
+novelty,682,oto (sound),X wo kumitoru (Y scoops up X),2.9
+novelty,682,oto (sound),X ga sitataru (X drips),2.9
+novelty,746,nioi (smell),X ni tukaru (Y gets submerged in X),2.8
+novelty,746,huan (anxiety),X ga nagarederu (X flows out),2.8
+novelty,746,huan (anxiety),X wo abiseru (Y showers X),2.8
+novelty,746,huan (anxiety),X ni hitaru (Y soaks in X),2.8
+novelty,746,human (complaint),X wo siboridasu (Y squeezes X),2.8
+novelty,746,human (complaint),X ni tukaru (Y gets submerged in X),2.8
+novelty,746,hikari (light),X ga waku (X gushes out),2.8
+novelty,746,hikari (light),X ga tamaru (X gets collected),2.8
+novelty,746,yuuki (bravery),X ga nagarederu (X flows out),2.8
+novelty,746,koe (voice),X wo sosogu (Y pours X),2.8
+novelty,746,iwa (rock),X ga koboreru (X spills out),2.8
+novelty,746,kibou (hope),X wo kakeru (Y sprays X),2.8
+novelty,746,kibou (hope),X ga yodomu (X gets stagnant),2.8
+novelty,746,kairaku (pleasure),X wo sosogu (Y pours X),2.8
+novelty,746,kairaku (pleasure),X ga uzumaku (X whirls),2.8
+novelty,746,ikari (anger),X wo maku (Y scatters X),2.8
+novelty,746,ikari (anger),X ni hitaru (Y soaks in X),2.8
+novelty,746,kyouhu (fear),X ni tukaru (Y gets submerged in X),2.8
+novelty,746,kanasimi (sorrow),X ga tamaru (X gets collected),2.8
+novelty,746,jouhou (information),X wo nomu (Y drinks X),2.8
+novelty,746,jounetu (passion),X ga nizimu (X oozes),2.8
+novelty,746,ito (intention),X ga nigoru (X gets cloudy),2.8
+novelty,746,ai (love),X wo maku (Y scatters X),2.8
+novelty,746,kanjou (emotion),X wo tarasu (Y drops X),2.8
+novelty,746,kanjou (emotion),X wo maku (Y scatters X),2.8
+novelty,746,kanjou (emotion),X ni uku (Y floats on X),2.8
+novelty,746,zouo (hatred),X ga nagarederu (X flows out),2.8
+novelty,746,jikan (time),X wo kumitoru (Y scoops up X),2.8
+novelty,746,jikan (time),X ga uzumaku (X whirls),2.8
+novelty,746,jikan (time),X ga ahureru (X overflows),2.8
+novelty,746,tanosisa (enjoyment),X ga hotobasiru (X spurts),2.8
+novelty,746,tanosisa (enjoyment),X wo makitirasu (Y sprinkles X),2.8
+novelty,746,tanosisa (enjoyment),X wo sosogu (Y pours X),2.8
+novelty,746,tanosisa (enjoyment),X ni tukaru (Y gets submerged in X),2.8
+novelty,746,kimoti (feeling),X ga huttou-suru (X boils),2.8
+novelty,746,doro (mud),X ga yodomu (X gets stagnant),2.8
+novelty,746,kuuki (air),X ga nizimu (X oozes),2.8
+novelty,746,kuuki (air),X wo nomu (Y drinks X),2.8
+novelty,746,syutisin (shame),X ga hotobasiru (X spurts),2.8
+novelty,746,syutisin (shame),X ga mitiru (X fills Y),2.8
+novelty,746,syutisin (shame),X ni oboreru (Y almost drowns in X),2.8
+novelty,746,kotoba (word),X ni sizumu (Y sinks into X),2.8
+novelty,746,kotoba (word),X ga nizimu (X oozes),2.8
+novelty,746,kinsen (money),X ni sizumu (Y sinks into X),2.8
+novelty,746,oto (sound),X ni tukaru (Y gets submerged in X),2.8
+novelty,791,ari (ant),X ga nagareru (X flows),2.7
+novelty,791,nioi (smell),X ga nigoru (X gets cloudy),2.7
+novelty,791,keeki (cake),X wo nomu (Y drinks X),2.7
+novelty,791,huan (anxiety),X ni oboreru (Y almost drowns in X),2.7
+novelty,791,human (complaint),X ga sumu (X gets clear),2.7
+novelty,791,yorokobi (delight),X wo maku (Y scatters X),2.7
+novelty,791,yorokobi (delight),X ga nagarederu (X flows out),2.7
+novelty,791,yorokobi (delight),X ni hitasu (Y dips Z in X),2.7
+novelty,791,yorokobi (delight),X ga nigoru (X gets cloudy),2.7
+novelty,791,sitto (envy),X ga sitataru (X drips),2.7
+novelty,791,iwa (rock),X ga tamaru (X gets collected),2.7
+novelty,791,kibou (hope),X ga tamaru (X gets collected),2.7
+novelty,791,kibou (hope),X ga moreru (X leaks),2.7
+novelty,791,kairaku (pleasure),X wo kumitoru (Y scoops up X),2.7
+novelty,791,kairaku (pleasure),X ga nagarederu (X flows out),2.7
+novelty,791,ikari (anger),X ni oboreru (Y almost drowns in X),2.7
+novelty,791,ikari (anger),X ga moreru (X leaks),2.7
+novelty,791,kyouhu (fear),X ga hotobasiru (X spurts),2.7
+novelty,791,kyouhu (fear),X wo maku (Y scatters X),2.7
+novelty,791,kyouhu (fear),X ga tamaru (X gets collected),2.7
+novelty,791,kyouhu (fear),X ga moreru (X leaks),2.7
+novelty,791,kanasimi (sorrow),X ga simiru (X soaks into Y),2.7
+novelty,791,kanasimi (sorrow),X wo siboridasu (Y squeezes X),2.7
+novelty,791,kanasimi (sorrow),X ga nagarederu (X flows out),2.7
+novelty,791,jouhou (information),X ga huttou-suru (X boils),2.7
+novelty,791,jouhou (information),X ga yodomu (X gets stagnant),2.7
+novelty,791,jouhou (information),X ga waku (X gushes out),2.7
+novelty,791,jouhou (information),X ga sitataru (X drips),2.7
+novelty,791,jounetu (passion),X ga huttou-suru (X boils),2.7
+novelty,791,jounetu (passion),X ga moreru (X leaks),2.7
+novelty,791,ito (intention),X wo siboridasu (Y squeezes X),2.7
+novelty,791,ito (intention),X ga mitiru (X fills Y),2.7
+novelty,791,ito (intention),X ga moreru (X leaks),2.7
+novelty,791,ai (love),X wo kakeru (Y sprays X),2.7
+novelty,791,ai (love),X wo makitirasu (Y sprinkles X),2.7
+novelty,791,ai (love),X ga tamaru (X gets collected),2.7
+novelty,791,kanjou (emotion),X ga moreru (X leaks),2.7
+novelty,791,zouo (hatred),X ni hitaru (Y soaks in X),2.7
+novelty,791,tanosisa (enjoyment),X ga simiru (X soaks into Y),2.7
+novelty,791,tanosisa (enjoyment),X wo kumitoru (Y scoops up X),2.7
+novelty,791,kimoti (feeling),X ni sizumu (Y sinks into X),2.7
+novelty,791,kimoti (feeling),X ga sumu (X gets clear),2.7
+novelty,791,abura (oil),X ni hitaru (Y soaks in X),2.7
+novelty,791,doro (mud),X wo tarasu (Y drops X),2.7
+novelty,791,doro (mud),X ni uku (Y floats on X),2.7
+novelty,791,doro (mud),X ni hitasu (Y dips Z in X),2.7
+novelty,791,rikai (understanding),X ga waku (X gushes out),2.7
+novelty,791,suimin (sleep),X ga tamaru (X gets collected),2.7
+novelty,791,suna (sand),X ga mitiru (X fills Y),2.7
+novelty,791,syutisin (shame),X wo nomu (Y drinks X),2.7
+novelty,841,ari (ant),X ga nagarederu (X flows out),2.6
+novelty,841,ari (ant),X ni oboreru (Y almost drowns in X),2.6
+novelty,841,neko (cat),X ni hitaru (Y soaks in X),2.6
+novelty,841,neko (cat),X ga tamaru (X gets collected),2.6
+novelty,841,nioi (smell),X wo abiseru (Y showers X),2.6
+novelty,841,nioi (smell),X ni hitasu (Y dips Z in X),2.6
+novelty,841,nioi (smell),X ga uzumaku (X whirls),2.6
+novelty,841,huan (anxiety),X ga koboreru (X spills out),2.6
+novelty,841,human (complaint),X ga simiru (X soaks into Y),2.6
+novelty,841,human (complaint),X ga sitataru (X drips),2.6
+novelty,841,human (complaint),X wo nomu (Y drinks X),2.6
+novelty,841,hikari (light),X ni oboreru (Y almost drowns in X),2.6
+novelty,841,yorokobi (delight),X ga koboreru (X spills out),2.6
+novelty,841,koe (voice),X wo nomu (Y drinks X),2.6
+novelty,841,sitto (envy),X ga mitiru (X fills Y),2.6
+novelty,841,sitto (envy),X ga tamaru (X gets collected),2.6
+novelty,841,ansin (relief),X ga waku (X gushes out),2.6
+novelty,841,kibou (hope),X ga koboreru (X spills out),2.6
+novelty,841,kibou (hope),X wo makitirasu (Y sprinkles X),2.6
+novelty,841,kairaku (pleasure),X ga waku (X gushes out),2.6
+novelty,841,ikari (anger),X wo sosogu (Y pours X),2.6
+novelty,841,kyouhu (fear),X wo siboridasu (Y squeezes X),2.6
+novelty,841,jouhou (information),X ni sizumu (Y sinks into X),2.6
+novelty,841,jounetu (passion),X wo makitirasu (Y sprinkles X),2.6
+novelty,841,ai (love),X ga sitataru (X drips),2.6
+novelty,841,ai (love),X ga moreru (X leaks),2.6
+novelty,841,kanjou (emotion),X ga nigoru (X gets cloudy),2.6
+novelty,841,zouo (hatred),X ni sizumu (Y sinks into X),2.6
+novelty,841,jikan (time),X ga waku (X gushes out),2.6
+novelty,841,tanosisa (enjoyment),X ga koboreru (X spills out),2.6
+novelty,841,tanosisa (enjoyment),X ni oboreru (Y almost drowns in X),2.6
+novelty,841,kimoti (feeling),X ga koboreru (X spills out),2.6
+novelty,841,kimoti (feeling),X wo siboridasu (Y squeezes X),2.6
+novelty,841,kimoti (feeling),X ga uzumaku (X whirls),2.6
+novelty,841,abura (oil),X ga uzumaku (X whirls),2.6
+novelty,841,doro (mud),X wo siboridasu (Y squeezes X),2.6
+novelty,841,doro (mud),X ga uzumaku (X whirls),2.6
+novelty,841,doro (mud),X ga nigoru (X gets cloudy),2.6
+novelty,841,rikai (understanding),X wo kumitoru (Y scoops up X),2.6
+novelty,841,suna (sand),X wo tarasu (Y drops X),2.6
+novelty,841,zetubou (despair),X ga mitiru (X fills Y),2.6
+novelty,841,zetubou (despair),X ga sitataru (X drips),2.6
+novelty,841,kotoba (word),X wo sosogu (Y pours X),2.6
+novelty,841,kotoba (word),X ga nagareru (X flows),2.6
+novelty,841,kotoba (word),X ga mitiru (X fills Y),2.6
+novelty,841,kinsen (money),X wo sosogu (Y pours X),2.6
+novelty,841,kinsen (money),X ga nagarederu (X flows out),2.6
+novelty,841,kinsen (money),X wo abiseru (Y showers X),2.6
+novelty,841,oto (sound),X ga mitiru (X fills Y),2.6
+novelty,890,nioi (smell),X ga hotobasiru (X spurts),2.5
+novelty,890,nioi (smell),X ga sitataru (X drips),2.5
+novelty,890,hikari (light),X ga nagarederu (X flows out),2.5
+novelty,890,hikari (light),X ni hitaru (Y soaks in X),2.5
+novelty,890,hikari (light),X ga nizimu (X oozes),2.5
+novelty,890,hikari (light),X ga nigoru (X gets cloudy),2.5
+novelty,890,roudou (labor),X wo sosogu (Y pours X),2.5
+novelty,890,yorokobi (delight),X ga nizimu (X oozes),2.5
+novelty,890,ansin (relief),X ni oboreru (Y almost drowns in X),2.5
+novelty,890,kibou (hope),X wo maku (Y scatters X),2.5
+novelty,890,kairaku (pleasure),X ni sizumu (Y sinks into X),2.5
+novelty,890,ikari (anger),X wo siboridasu (Y squeezes X),2.5
+novelty,890,ikari (anger),X wo nomu (Y drinks X),2.5
+novelty,890,kanasimi (sorrow),X ga moreru (X leaks),2.5
+novelty,890,jouhou (information),X ga koboreru (X spills out),2.5
+novelty,890,jounetu (passion),X ni hitaru (Y soaks in X),2.5
+novelty,890,kanjou (emotion),X ga huttou-suru (X boils),2.5
+novelty,890,jikan (time),X ga tamaru (X gets collected),2.5
+novelty,890,kimoti (feeling),X ga nagareru (X flows),2.5
+novelty,890,kimoti (feeling),X ga tamaru (X gets collected),2.5
+novelty,890,kimoti (feeling),X ni oboreru (Y almost drowns in X),2.5
+novelty,890,kimoti (feeling),X ga moreru (X leaks),2.5
+novelty,890,kimoti (feeling),X ga nigoru (X gets cloudy),2.5
+novelty,890,doro (mud),X wo sosogu (Y pours X),2.5
+novelty,890,doro (mud),X ni tukaru (Y gets submerged in X),2.5
+novelty,890,suna (sand),X wo sosogu (Y pours X),2.5
+novelty,890,suna (sand),X ni oboreru (Y almost drowns in X),2.5
+novelty,890,kuuki (air),X wo abiseru (Y showers X),2.5
+novelty,890,zetubou (despair),X ni tukaru (Y gets submerged in X),2.5
+novelty,890,syutisin (shame),X ga uzumaku (X whirls),2.5
+novelty,890,syutisin (shame),X ga nizimu (X oozes),2.5
+novelty,890,kotoba (word),X wo maku (Y scatters X),2.5
+novelty,890,kotoba (word),X ni tukaru (Y gets submerged in X),2.5
+novelty,890,kotoba (word),X ga sumu (X gets clear),2.5
+novelty,890,kinsen (money),X wo siboridasu (Y squeezes X),2.5
+novelty,925,ari (ant),X wo maku (Y scatters X),2.4
+novelty,925,neko (cat),X ga ahureru (X overflows),2.4
+novelty,925,nioi (smell),X ga koboreru (X spills out),2.4
+novelty,925,nioi (smell),X ga mitiru (X fills Y),2.4
+novelty,925,human (complaint),X ga huttou-suru (X boils),2.4
+novelty,925,hikari (light),X wo makitirasu (Y sprinkles X),2.4
+novelty,925,roudou (labor),X ni hitaru (Y soaks in X),2.4
+novelty,925,roudou (labor),X ni oboreru (Y almost drowns in X),2.4
+novelty,925,yorokobi (delight),X ga uzumaku (X whirls),2.4
+novelty,925,koe (voice),X ga simiru (X soaks into Y),2.4
+novelty,925,koe (voice),X wo kumitoru (Y scoops up X),2.4
+novelty,925,koe (voice),X ni oboreru (Y almost drowns in X),2.4
+novelty,925,ansin (relief),X ga nizimu (X oozes),2.4
+novelty,925,iwa (rock),X ga nagareru (X flows),2.4
+novelty,925,iwa (rock),X ga nagarederu (X flows out),2.4
+novelty,925,kibou (hope),X ga nizimu (X oozes),2.4
+novelty,925,kyouhu (fear),X ni hitaru (Y soaks in X),2.4
+novelty,925,kanasimi (sorrow),X ga nizimu (X oozes),2.4
+novelty,925,kanasimi (sorrow),X wo nomu (Y drinks X),2.4
+novelty,925,jouhou (information),X ga hotobasiru (X spurts),2.4
+novelty,925,jouhou (information),X ni hitaru (Y soaks in X),2.4
+novelty,925,jounetu (passion),X wo abiseru (Y showers X),2.4
+novelty,925,ito (intention),X ni oboreru (Y almost drowns in X),2.4
+novelty,925,ai (love),X ni tukaru (Y gets submerged in X),2.4
+novelty,925,zouo (hatred),X wo kumitoru (Y scoops up X),2.4
+novelty,925,zouo (hatred),X wo abiseru (Y showers X),2.4
+novelty,925,abura (oil),X ga hotobasiru (X spurts),2.4
+novelty,925,abura (oil),X wo abiseru (Y showers X),2.4
+novelty,925,abura (oil),X ga waku (X gushes out),2.4
+novelty,925,abura (oil),X ga mitiru (X fills Y),2.4
+novelty,925,doro (mud),X ga waku (X gushes out),2.4
+novelty,925,doro (mud),X ga sitataru (X drips),2.4
+novelty,925,kuuki (air),X ga simiru (X soaks into Y),2.4
+novelty,925,syutisin (shame),X ga waku (X gushes out),2.4
+novelty,925,kinsen (money),X ga koboreru (X spills out),2.4
+novelty,925,oto (sound),X ni oboreru (Y almost drowns in X),2.4
+novelty,961,huan (anxiety),X ga mitiru (X fills Y),2.3
+novelty,961,hikari (light),X ga uzumaku (X whirls),2.3
+novelty,961,roudou (labor),X ga simiru (X soaks into Y),2.3
+novelty,961,yuuki (bravery),X wo sosogu (Y pours X),2.3
+novelty,961,yorokobi (delight),X wo abiseru (Y showers X),2.3
+novelty,961,sitto (envy),X wo makitirasu (Y sprinkles X),2.3
+novelty,961,ansin (relief),X ga mitiru (X fills Y),2.3
+novelty,961,kibou (hope),X ga hotobasiru (X spurts),2.3
+novelty,961,kibou (hope),X wo sosogu (Y pours X),2.3
+novelty,961,kibou (hope),X wo nomu (Y drinks X),2.3
+novelty,961,kyouhu (fear),X wo abiseru (Y showers X),2.3
+novelty,961,kanasimi (sorrow),X ga hotobasiru (X spurts),2.3
+novelty,961,jouhou (information),X wo makitirasu (Y sprinkles X),2.3
+novelty,961,jouhou (information),X ga mitiru (X fills Y),2.3
+novelty,961,jounetu (passion),X ga uzumaku (X whirls),2.3
+novelty,961,ito (intention),X ga waku (X gushes out),2.3
+novelty,961,ito (intention),X wo nomu (Y drinks X),2.3
+novelty,961,ai (love),X ga nizimu (X oozes),2.3
+novelty,961,kanjou (emotion),X ga nagareru (X flows),2.3
+novelty,961,kanjou (emotion),X wo abiseru (Y showers X),2.3
+novelty,961,kanjou (emotion),X ga tamaru (X gets collected),2.3
+novelty,961,zouo (hatred),X ni oboreru (Y almost drowns in X),2.3
+novelty,961,tanosisa (enjoyment),X ga waku (X gushes out),2.3
+novelty,961,kimoti (feeling),X ga mitiru (X fills Y),2.3
+novelty,961,kuuki (air),X ni oboreru (Y almost drowns in X),2.3
+novelty,961,syutisin (shame),X wo kumitoru (Y scoops up X),2.3
+novelty,961,kotoba (word),X wo makitirasu (Y sprinkles X),2.3
+novelty,961,kotoba (word),X ga uzumaku (X whirls),2.3
+novelty,961,kinsen (money),X ga nagareru (X flows),2.3
+novelty,961,oto (sound),X wo abiseru (Y showers X),2.3
+novelty,961,oto (sound),X ga nizimu (X oozes),2.3
+novelty,992,nioi (smell),X wo kumitoru (Y scoops up X),2.2
+novelty,992,nioi (smell),X ga nagareru (X flows),2.2
+novelty,992,nioi (smell),X ga waku (X gushes out),2.2
+novelty,992,human (complaint),X ga hotobasiru (X spurts),2.2
+novelty,992,yuuki (bravery),X wo kumitoru (Y scoops up X),2.2
+novelty,992,yorokobi (delight),X ga simiru (X soaks into Y),2.2
+novelty,992,koe (voice),X ga nizimu (X oozes),2.2
+novelty,992,kairaku (pleasure),X ga ahureru (X overflows),2.2
+novelty,992,kyouhu (fear),X wo kumitoru (Y scoops up X),2.2
+novelty,992,kanasimi (sorrow),X wo makitirasu (Y sprinkles X),2.2
+novelty,992,jouhou (information),X ni tukaru (Y gets submerged in X),2.2
+novelty,992,jounetu (passion),X ni oboreru (Y almost drowns in X),2.2
+novelty,992,ai (love),X ga simiru (X soaks into Y),2.2
+novelty,992,ai (love),X ni sizumu (Y sinks into X),2.2
+novelty,992,kanjou (emotion),X ga simiru (X soaks into Y),2.2
+novelty,992,kanjou (emotion),X ga sitataru (X drips),2.2
+novelty,992,jikan (time),X ni oboreru (Y almost drowns in X),2.2
+novelty,992,kimoti (feeling),X wo sosogu (Y pours X),2.2
+novelty,992,kimoti (feeling),X ga nagarederu (X flows out),2.2
+novelty,992,kimoti (feeling),X ga waku (X gushes out),2.2
+novelty,992,abura (oil),X ga yodomu (X gets stagnant),2.2
+novelty,992,doro (mud),X de susugu (Y rinses Z with X),2.2
+novelty,992,suna (sand),X wo kumitoru (Y scoops up X),2.2
+novelty,992,suna (sand),X ni tukaru (Y gets submerged in X),2.2
+novelty,992,syutisin (shame),X ga ahureru (X overflows),2.2
+novelty,992,kotoba (word),X ga hotobasiru (X spurts),2.2
+novelty,992,oto (sound),X wo kakeru (Y sprays X),2.2
+novelty,992,oto (sound),X ga uzumaku (X whirls),2.2
+novelty,1020,keeki (cake),X wo makitirasu (Y sprinkles X),2.1
+novelty,1020,huan (anxiety),X wo makitirasu (Y sprinkles X),2.1
+novelty,1020,huan (anxiety),X ga waku (X gushes out),2.1
+novelty,1020,huan (anxiety),X ga moreru (X leaks),2.1
+novelty,1020,yorokobi (delight),X wo kumitoru (Y scoops up X),2.1
+novelty,1020,yorokobi (delight),X ga sitataru (X drips),2.1
+novelty,1020,sitto (envy),X ga koboreru (X spills out),2.1
+novelty,1020,kibou (hope),X wo abiseru (Y showers X),2.1
+novelty,1020,ikari (anger),X wo makitirasu (Y sprinkles X),2.1
+novelty,1020,ikari (anger),X ni sizumu (Y sinks into X),2.1
+novelty,1020,kyouhu (fear),X ni oboreru (Y almost drowns in X),2.1
+novelty,1020,jouhou (information),X wo siboridasu (Y squeezes X),2.1
+novelty,1020,jouhou (information),X wo abiseru (Y showers X),2.1
+novelty,1020,kanjou (emotion),X ni sizumu (Y sinks into X),2.1
+novelty,1020,kanjou (emotion),X ga yodomu (X gets stagnant),2.1
+novelty,1020,zouo (hatred),X wo maku (Y scatters X),2.1
+novelty,1020,doro (mud),X wo maku (Y scatters X),2.1
+novelty,1020,kuuki (air),X wo siboridasu (Y squeezes X),2.1
+novelty,1020,kinsen (money),X ga waku (X gushes out),2.1
+novelty,1039,huan (anxiety),X wo maku (Y scatters X),2.0
+novelty,1039,huan (anxiety),X ga tamaru (X gets collected),2.0
+novelty,1039,yorokobi (delight),X ni tukaru (Y gets submerged in X),2.0
+novelty,1039,koe (voice),X wo makitirasu (Y sprinkles X),2.0
+novelty,1039,koe (voice),X ga nagarederu (X flows out),2.0
+novelty,1039,koe (voice),X ga waku (X gushes out),2.0
+novelty,1039,ansin (relief),X ni hitaru (Y soaks in X),2.0
+novelty,1039,ikari (anger),X ga nagarederu (X flows out),2.0
+novelty,1039,kanasimi (sorrow),X ni oboreru (Y almost drowns in X),2.0
+novelty,1039,jounetu (passion),X wo kumitoru (Y scoops up X),2.0
+novelty,1039,ito (intention),X ga uzumaku (X whirls),2.0
+novelty,1039,ai (love),X ga uzumaku (X whirls),2.0
+novelty,1039,kanjou (emotion),X wo sosogu (Y pours X),2.0
+novelty,1039,kanjou (emotion),X ni hitasu (Y dips Z in X),2.0
+novelty,1039,kanjou (emotion),X wo nomu (Y drinks X),2.0
+novelty,1039,jikan (time),X wo sosogu (Y pours X),2.0
+novelty,1039,jikan (time),X ni hitaru (Y soaks in X),2.0
+novelty,1039,tanosisa (enjoyment),X ga ahureru (X overflows),2.0
+novelty,1039,suna (sand),X ga nagareru (X flows),2.0
+novelty,1039,kuuki (air),X ga koboreru (X spills out),2.0
+novelty,1039,zetubou (despair),X ni sizumu (Y sinks into X),2.0
+novelty,1039,oto (sound),X ga hotobasiru (X spurts),2.0
+novelty,1061,ari (ant),X ga uzumaku (X whirls),1.9
+novelty,1061,neko (cat),X ni oboreru (Y almost drowns in X),1.9
+novelty,1061,nioi (smell),X ni hitaru (Y soaks in X),1.9
+novelty,1061,human (complaint),X wo maku (Y scatters X),1.9
+novelty,1061,hikari (light),X ga nagareru (X flows),1.9
+novelty,1061,hikari (light),X ga yodomu (X gets stagnant),1.9
+novelty,1061,sitto (envy),X ni oboreru (Y almost drowns in X),1.9
+novelty,1061,ikari (anger),X ga huttou-suru (X boils),1.9
+novelty,1061,kyouhu (fear),X ni sizumu (Y sinks into X),1.9
+novelty,1061,kanasimi (sorrow),X ga koboreru (X spills out),1.9
+novelty,1061,jounetu (passion),X ga mitiru (X fills Y),1.9
+novelty,1061,kanjou (emotion),X wo siboridasu (Y squeezes X),1.9
+novelty,1061,jikan (time),X wo siboridasu (Y squeezes X),1.9
+novelty,1061,tanosisa (enjoyment),X ga mitiru (X fills Y),1.9
+novelty,1061,tanosisa (enjoyment),X ga nizimu (X oozes),1.9
+novelty,1061,abura (oil),X ga sumu (X gets clear),1.9
+novelty,1061,abura (oil),X wo nomu (Y drinks X),1.9
+novelty,1061,doro (mud),X wo susuru (Y sips X),1.9
+novelty,1061,kotoba (word),X ga koboreru (X spills out),1.9
+novelty,1061,oto (sound),X ga koboreru (X spills out),1.9
+novelty,1081,keeki (cake),X ga koboreru (X spills out),1.8
+novelty,1081,human (complaint),X ga mitiru (X fills Y),1.8
+novelty,1081,hikari (light),X ga hotobasiru (X spurts),1.8
+novelty,1081,hikari (light),X ga mitiru (X fills Y),1.8
+novelty,1081,koe (voice),X ni hitaru (Y soaks in X),1.8
+novelty,1081,koe (voice),X ga uzumaku (X whirls),1.8
+novelty,1081,koe (voice),X ga mitiru (X fills Y),1.8
+novelty,1081,sitto (envy),X ga nizimu (X oozes),1.8
+novelty,1081,iwa (rock),X wo makitirasu (Y sprinkles X),1.8
+novelty,1081,kibou (hope),X wo kumitoru (Y scoops up X),1.8
+novelty,1081,kairaku (pleasure),X ga mitiru (X fills Y),1.8
+novelty,1081,kyouhu (fear),X ga nizimu (X oozes),1.8
+novelty,1081,kanasimi (sorrow),X ga mitiru (X fills Y),1.8
+novelty,1081,zouo (hatred),X ga tamaru (X gets collected),1.8
+novelty,1081,jikan (time),X ga mitiru (X fills Y),1.8
+novelty,1081,kimoti (feeling),X ga simiru (X soaks into Y),1.8
+novelty,1081,kimoti (feeling),X ni hitaru (Y soaks in X),1.8
+novelty,1081,doro (mud),X ga nizimu (X oozes),1.8
+novelty,1081,suna (sand),X wo abiseru (Y showers X),1.8
+novelty,1081,kuuki (air),X ni hitaru (Y soaks in X),1.8
+novelty,1081,zetubou (despair),X ni hitaru (Y soaks in X),1.8
+novelty,1081,kotoba (word),X ni hitaru (Y soaks in X),1.8
+novelty,1081,kotoba (word),X ga waku (X gushes out),1.8
+novelty,1081,kotoba (word),X ni oboreru (Y almost drowns in X),1.8
+novelty,1081,kinsen (money),X ga ahureru (X overflows),1.8
+novelty,1081,oto (sound),X wo siboridasu (Y squeezes X),1.8
+novelty,1081,oto (sound),X ga yodomu (X gets stagnant),1.8
+novelty,1108,nioi (smell),X wo maku (Y scatters X),1.7
+novelty,1108,nioi (smell),X ga yodomu (X gets stagnant),1.7
+novelty,1108,huan (anxiety),X ga hotobasiru (X spurts),1.7
+novelty,1108,human (complaint),X ga nagarederu (X flows out),1.7
+novelty,1108,yorokobi (delight),X ga hotobasiru (X spurts),1.7
+novelty,1108,yorokobi (delight),X ga ahureru (X overflows),1.7
+novelty,1108,yorokobi (delight),X ni oboreru (Y almost drowns in X),1.7
+novelty,1108,koe (voice),X ga hotobasiru (X spurts),1.7
+novelty,1108,koe (voice),X ga yodomu (X gets stagnant),1.7
+novelty,1108,kibou (hope),X ga uzumaku (X whirls),1.7
+novelty,1108,ito (intention),X ga nagarederu (X flows out),1.7
+novelty,1108,ai (love),X ga waku (X gushes out),1.7
+novelty,1108,kanjou (emotion),X ga mitiru (X fills Y),1.7
+novelty,1108,abura (oil),X wo maku (Y scatters X),1.7
+novelty,1108,abura (oil),X wo makitirasu (Y sprinkles X),1.7
+novelty,1108,doro (mud),X ni oboreru (Y almost drowns in X),1.7
+novelty,1108,doro (mud),X wo nomu (Y drinks X),1.7
+novelty,1108,suna (sand),X ni sizumu (Y sinks into X),1.7
+novelty,1108,kuuki (air),X wo makitirasu (Y sprinkles X),1.7
+novelty,1108,kotoba (word),X ga nagarederu (X flows out),1.7
+novelty,1108,kotoba (word),X ga yodomu (X gets stagnant),1.7
+novelty,1108,oto (sound),X wo makitirasu (Y sprinkles X),1.7
+novelty,1108,oto (sound),X ga nagarederu (X flows out),1.7
+novelty,1108,oto (sound),X ni hitaru (Y soaks in X),1.7
+novelty,1132,nioi (smell),X ga nagarederu (X flows out),1.6
+novelty,1132,hikari (light),X wo sosogu (Y pours X),1.6
+novelty,1132,yuuki (bravery),X ga hotobasiru (X spurts),1.6
+novelty,1132,koe (voice),X ga ahureru (X overflows),1.6
+novelty,1132,koe (voice),X ga sumu (X gets clear),1.6
+novelty,1132,koe (voice),X ga nigoru (X gets cloudy),1.6
+novelty,1132,sitto (envy),X ga uzumaku (X whirls),1.6
+novelty,1132,ikari (anger),X wo abiseru (Y showers X),1.6
+novelty,1132,kyouhu (fear),X ga ahureru (X overflows),1.6
+novelty,1132,kanasimi (sorrow),X ga uzumaku (X whirls),1.6
+novelty,1132,jounetu (passion),X ga koboreru (X spills out),1.6
+novelty,1132,ito (intention),X ga nizimu (X oozes),1.6
+novelty,1132,ai (love),X ga mitiru (X fills Y),1.6
+novelty,1132,zouo (hatred),X ga hotobasiru (X spurts),1.6
+novelty,1132,zouo (hatred),X ga mitiru (X fills Y),1.6
+novelty,1132,zouo (hatred),X ga nizimu (X oozes),1.6
+novelty,1132,kimoti (feeling),X ga hotobasiru (X spurts),1.6
+novelty,1132,abura (oil),X wo kumitoru (Y scoops up X),1.6
+novelty,1132,abura (oil),X ga huttou-suru (X boils),1.6
+novelty,1132,doro (mud),X ni sizumu (Y sinks into X),1.6
+novelty,1132,kuuki (air),X ga mitiru (X fills Y),1.6
+novelty,1153,huan (anxiety),X ni sizumu (Y sinks into X),1.5
+novelty,1153,human (complaint),X ga waku (X gushes out),1.5
+novelty,1153,ikari (anger),X wo kumitoru (Y scoops up X),1.5
+novelty,1153,ikari (anger),X ga mitiru (X fills Y),1.5
+novelty,1153,kyouhu (fear),X wo makitirasu (Y sprinkles X),1.5
+novelty,1153,kanasimi (sorrow),X ni tukaru (Y gets submerged in X),1.5
+novelty,1153,jouhou (information),X ga tamaru (X gets collected),1.5
+novelty,1153,jouhou (information),X ni oboreru (Y almost drowns in X),1.5
+novelty,1153,kanjou (emotion),X wo makitirasu (Y sprinkles X),1.5
+novelty,1153,kanjou (emotion),X ga nizimu (X oozes),1.5
+novelty,1153,zouo (hatred),X wo makitirasu (Y sprinkles X),1.5
+novelty,1153,abura (oil),X ni tukaru (Y gets submerged in X),1.5
+novelty,1153,doro (mud),X wo abiseru (Y showers X),1.5
+novelty,1153,kuuki (air),X ga ahureru (X overflows),1.5
+novelty,1153,zetubou (despair),X ga uzumaku (X whirls),1.5
+novelty,1153,oto (sound),X ga sumu (X gets clear),1.5
+novelty,1169,nioi (smell),X ga simiru (X soaks into Y),1.4
+novelty,1169,nioi (smell),X ga ahureru (X overflows),1.4
+novelty,1169,human (complaint),X ga uzumaku (X whirls),1.4
+novelty,1169,kairaku (pleasure),X ni hitaru (Y soaks in X),1.4
+novelty,1169,ai (love),X ni hitaru (Y soaks in X),1.4
+novelty,1169,abura (oil),X ga simiru (X soaks into Y),1.4
+novelty,1169,abura (oil),X ga nagareru (X flows),1.4
+novelty,1169,abura (oil),X ga tamaru (X gets collected),1.4
+novelty,1169,kuuki (air),X ga nagarederu (X flows out),1.4
+novelty,1169,kotoba (word),X ga nigoru (X gets cloudy),1.4
+novelty,1169,kinsen (money),X wo makitirasu (Y sprinkles X),1.4
+novelty,1169,kinsen (money),X ga tamaru (X gets collected),1.4
+novelty,1169,oto (sound),X ga simiru (X soaks into Y),1.4
+novelty,1182,huan (anxiety),X ga nizimu (X oozes),1.3
+novelty,1182,yuuki (bravery),X ga mitiru (X fills Y),1.3
+novelty,1182,koe (voice),X ga koboreru (X spills out),1.3
+novelty,1182,ikari (anger),X ga ahureru (X overflows),1.3
+novelty,1182,ai (love),X ga hotobasiru (X spurts),1.3
+novelty,1182,zouo (hatred),X ga waku (X gushes out),1.3
+novelty,1182,doro (mud),X ga nagareru (X flows),1.3
+novelty,1182,suna (sand),X ga ahureru (X overflows),1.3
+novelty,1182,kuuki (air),X ga tamaru (X gets collected),1.3
+novelty,1182,zetubou (despair),X ga ahureru (X overflows),1.3
+novelty,1182,kinsen (money),X wo maku (Y scatters X),1.3
+novelty,1182,oto (sound),X ga ahureru (X overflows),1.3
+novelty,1194,human (complaint),X ga koboreru (X spills out),1.2
+novelty,1194,ai (love),X ga koboreru (X spills out),1.2
+novelty,1194,kimoti (feeling),X ga yodomu (X gets stagnant),1.2
+novelty,1194,doro (mud),X ga moreru (X leaks),1.2
+novelty,1194,suna (sand),X ga moreru (X leaks),1.2
+novelty,1194,kotoba (word),X ga simiru (X soaks into Y),1.2
+novelty,1194,kotoba (word),X ga ahureru (X overflows),1.2
+novelty,1201,huan (anxiety),X wo kumitoru (Y scoops up X),1.1
+novelty,1201,huan (anxiety),X ga ahureru (X overflows),1.1
+novelty,1201,human (complaint),X wo kumitoru (Y scoops up X),1.1
+novelty,1201,ikari (anger),X ga tamaru (X gets collected),1.1
+novelty,1201,kyouhu (fear),X ga mitiru (X fills Y),1.1
+novelty,1201,jouhou (information),X ga uzumaku (X whirls),1.1
+novelty,1201,jouhou (information),X ga ahureru (X overflows),1.1
+novelty,1201,kanjou (emotion),X ni oboreru (Y almost drowns in X),1.1
+novelty,1201,zouo (hatred),X ga ahureru (X overflows),1.1
+novelty,1201,kimoti (feeling),X wo nomu (Y drinks X),1.1
+novelty,1201,mizu (water),X ga hotobasiru (X spurts),1.1
+novelty,1201,abura (oil),X ga nigoru (X gets cloudy),1.1
+novelty,1201,doro (mud),X wo kumitoru (Y scoops up X),1.1
+novelty,1201,doro (mud),X ga nagarederu (X flows out),1.1
+novelty,1201,doro (mud),X ga ahureru (X overflows),1.1
+novelty,1216,nioi (smell),X ga tamaru (X gets collected),1.0
+novelty,1216,human (complaint),X wo abiseru (Y showers X),1.0
+novelty,1216,human (complaint),X ga nizimu (X oozes),1.0
+novelty,1216,koe (voice),X ga nagareru (X flows),1.0
+novelty,1216,sitto (envy),X ga waku (X gushes out),1.0
+novelty,1216,ikari (anger),X ga hotobasiru (X spurts),1.0
+novelty,1216,kanasimi (sorrow),X ga waku (X gushes out),1.0
+novelty,1216,jounetu (passion),X ga hotobasiru (X spurts),1.0
+novelty,1216,kanjou (emotion),X ga koboreru (X spills out),1.0
+novelty,1216,tanosisa (enjoyment),X ni hitaru (Y soaks in X),1.0
+novelty,1216,mizu (water),X ni hitaru (Y soaks in X),1.0
+novelty,1216,mizu (water),X ga yodomu (X gets stagnant),1.0
+novelty,1216,abura (oil),X ni hitasu (Y dips Z in X),1.0
+novelty,1216,abura (oil),X ga sitataru (X drips),1.0
+novelty,1216,doro (mud),X ga koboreru (X spills out),1.0
+novelty,1216,suna (sand),X ga nagarederu (X flows out),1.0
+novelty,1216,kuuki (air),X ga nigoru (X gets cloudy),1.0
+novelty,1216,kotoba (word),X ga moreru (X leaks),1.0
+novelty,1216,kinsen (money),X wo kakeru (Y sprays X),1.0
+novelty,1235,huan (anxiety),X ga uzumaku (X whirls),0.9
+novelty,1235,yorokobi (delight),X ga waku (X gushes out),0.9
+novelty,1235,ikari (anger),X ga uzumaku (X whirls),0.9
+novelty,1235,jouhou (information),X wo maku (Y scatters X),0.9
+novelty,1235,kanjou (emotion),X ga hotobasiru (X spurts),0.9
+novelty,1235,kimoti (feeling),X ga nizimu (X oozes),0.9
+novelty,1235,mizu (water),X wo tarasu (Y drops X),0.9
+novelty,1235,mizu (water),X ga mitiru (X fills Y),0.9
+novelty,1235,mizu (water),X ga ahureru (X overflows),0.9
+novelty,1235,mizu (water),X ga nizimu (X oozes),0.9
+novelty,1235,abura (oil),X wo kakeru (Y sprays X),0.9
+novelty,1235,abura (oil),X wo tarasu (Y drops X),0.9
+novelty,1235,abura (oil),X ni uku (Y floats on X),0.9
+novelty,1235,suna (sand),X wo maku (Y scatters X),0.9
+novelty,1235,kuuki (air),X ga uzumaku (X whirls),0.9
+novelty,1235,kotoba (word),X wo siboridasu (Y squeezes X),0.9
+novelty,1235,kinsen (money),X ni oboreru (Y almost drowns in X),0.9
+novelty,1235,oto (sound),X ga nigoru (X gets cloudy),0.9
+novelty,1253,ari (ant),X ga waku (X gushes out),0.8
+novelty,1253,hikari (light),X ga moreru (X leaks),0.8
+novelty,1253,kibou (hope),X ga ahureru (X overflows),0.8
+novelty,1253,ikari (anger),X ga nizimu (X oozes),0.8
+novelty,1253,jouhou (information),X ga nagareru (X flows),0.8
+novelty,1253,jounetu (passion),X ga waku (X gushes out),0.8
+novelty,1253,kanjou (emotion),X ga ahureru (X overflows),0.8
+novelty,1253,mizu (water),X ga simiru (X soaks into Y),0.8
+novelty,1253,mizu (water),X ga uzumaku (X whirls),0.8
+novelty,1253,abura (oil),X wo siboridasu (Y squeezes X),0.8
+novelty,1253,suna (sand),X wo kakeru (Y sprays X),0.8
+novelty,1264,human (complaint),X wo tarasu (Y drops X),0.7
+novelty,1264,yuuki (bravery),X wo siboridasu (Y squeezes X),0.7
+novelty,1264,yorokobi (delight),X ga mitiru (X fills Y),0.7
+novelty,1264,koe (voice),X wo abiseru (Y showers X),0.7
+novelty,1264,kibou (hope),X ga mitiru (X fills Y),0.7
+novelty,1264,kyouhu (fear),X ga waku (X gushes out),0.7
+novelty,1264,jouhou (information),X wo kumitoru (Y scoops up X),0.7
+novelty,1264,kanjou (emotion),X ni hitaru (Y soaks in X),0.7
+novelty,1264,kanjou (emotion),X ga waku (X gushes out),0.7
+novelty,1264,zouo (hatred),X ga uzumaku (X whirls),0.7
+novelty,1264,kimoti (feeling),X ga ahureru (X overflows),0.7
+novelty,1264,mizu (water),X ni tukaru (Y gets submerged in X),0.7
+novelty,1264,abura (oil),X wo sosogu (Y pours X),0.7
+novelty,1264,doro (mud),X wo makitirasu (Y sprinkles X),0.7
+novelty,1264,kotoba (word),X wo kumitoru (Y scoops up X),0.7
+novelty,1279,nioi (smell),X ga moreru (X leaks),0.6
+novelty,1279,human (complaint),X ga ahureru (X overflows),0.6
+novelty,1279,sitto (envy),X ga ahureru (X overflows),0.6
+novelty,1279,kyouhu (fear),X ga uzumaku (X whirls),0.6
+novelty,1279,kanasimi (sorrow),X ni sizumu (Y sinks into X),0.6
+novelty,1279,kanasimi (sorrow),X ni hitaru (Y soaks in X),0.6
+novelty,1279,kanasimi (sorrow),X ga ahureru (X overflows),0.6
+novelty,1279,jouhou (information),X ga nagarederu (X flows out),0.6
+novelty,1279,ai (love),X wo sosogu (Y pours X),0.6
+novelty,1279,kanjou (emotion),X ga nagarederu (X flows out),0.6
+novelty,1279,mizu (water),X wo siboridasu (Y squeezes X),0.6
+novelty,1279,mizu (water),X ga sumu (X gets clear),0.6
+novelty,1279,abura (oil),X ga moreru (X leaks),0.6
+novelty,1279,kuuki (air),X ga yodomu (X gets stagnant),0.6
+novelty,1279,kotoba (word),X wo nomu (Y drinks X),0.6
+novelty,1279,oto (sound),X ga nagareru (X flows),0.6
+novelty,1295,nioi (smell),X wo makitirasu (Y sprinkles X),0.5
+novelty,1295,hikari (light),X ga koboreru (X spills out),0.5
+novelty,1295,hikari (light),X wo abiseru (Y showers X),0.5
+novelty,1295,koe (voice),X ga moreru (X leaks),0.5
+novelty,1295,kanasimi (sorrow),X wo kumitoru (Y scoops up X),0.5
+novelty,1295,ai (love),X ga ahureru (X overflows),0.5
+novelty,1295,kanjou (emotion),X ga uzumaku (X whirls),0.5
+novelty,1295,mizu (water),X wo susuru (Y sips X),0.5
+novelty,1295,mizu (water),X wo makitirasu (Y sprinkles X),0.5
+novelty,1295,mizu (water),X ni sizumu (Y sinks into X),0.5
+novelty,1295,mizu (water),X wo sosogu (Y pours X),0.5
+novelty,1295,mizu (water),X ga moreru (X leaks),0.5
+novelty,1295,abura (oil),X ga ahureru (X overflows),0.5
+novelty,1295,doro (mud),X wo kakeru (Y sprays X),0.5
+novelty,1295,doro (mud),X ga tamaru (X gets collected),0.5
+novelty,1295,suna (sand),X ga koboreru (X spills out),0.5
+novelty,1295,suna (sand),X ga tamaru (X gets collected),0.5
+novelty,1295,kuuki (air),X ga nagareru (X flows),0.5
+novelty,1295,kotoba (word),X wo abiseru (Y showers X),0.5
+novelty,1314,yuuki (bravery),X ga ahureru (X overflows),0.4
+novelty,1314,kairaku (pleasure),X ni oboreru (Y almost drowns in X),0.4
+novelty,1314,ikari (anger),X ga waku (X gushes out),0.4
+novelty,1314,jounetu (passion),X wo kakeru (Y sprays X),0.4
+novelty,1314,jounetu (passion),X ga ahureru (X overflows),0.4
+novelty,1314,mizu (water),X ga koboreru (X spills out),0.4
+novelty,1314,mizu (water),X wo abiseru (Y showers X),0.4
+novelty,1314,mizu (water),X ga tamaru (X gets collected),0.4
+novelty,1314,abura (oil),X ga nizimu (X oozes),0.4
+novelty,1314,kuuki (air),X ga moreru (X leaks),0.4
+novelty,1324,human (complaint),X wo makitirasu (Y sprinkles X),0.3
+novelty,1324,human (complaint),X ga moreru (X leaks),0.3
+novelty,1324,hikari (light),X ga ahureru (X overflows),0.3
+novelty,1324,yorokobi (delight),X ni hitaru (Y soaks in X),0.3
+novelty,1324,kibou (hope),X ga waku (X gushes out),0.3
+novelty,1324,ito (intention),X wo kumitoru (Y scoops up X),0.3
+novelty,1324,mizu (water),X wo maku (Y scatters X),0.3
+novelty,1324,mizu (water),X ni hitasu (Y dips Z in X),0.3
+novelty,1324,mizu (water),X ga nigoru (X gets cloudy),0.3
+novelty,1324,abura (oil),X ga koboreru (X spills out),0.3
+novelty,1324,abura (oil),X ga nagarederu (X flows out),0.3
+novelty,1324,kuuki (air),X ga sumu (X gets clear),0.3
+novelty,1336,koe (voice),X wo siboridasu (Y squeezes X),0.2
+novelty,1336,jouhou (information),X ga moreru (X leaks),0.2
+novelty,1336,mizu (water),X de susugu (Y rinses Z with X),0.2
+novelty,1336,mizu (water),X wo kumitoru (Y scoops up X),0.2
+novelty,1336,mizu (water),X ga nagarederu (X flows out),0.2
+novelty,1336,mizu (water),X ni oboreru (Y almost drowns in X),0.2
+novelty,1342,human (complaint),X ga tamaru (X gets collected),0.1
+novelty,1342,yuuki (bravery),X ga waku (X gushes out),0.1
+novelty,1342,koe (voice),X wo kakeru (Y sprays X),0.1
+novelty,1342,ai (love),X ni oboreru (Y almost drowns in X),0.1
+novelty,1342,kanjou (emotion),X wo kumitoru (Y scoops up X),0.1
+novelty,1342,jikan (time),X ga nagareru (X flows),0.1
+novelty,1342,kimoti (feeling),X wo kumitoru (Y scoops up X),0.1
+novelty,1342,mizu (water),X ni uku (Y floats on X),0.1
+novelty,1342,mizu (water),X ga sitataru (X drips),0.1
+novelty,1342,suna (sand),X wo makitirasu (Y sprinkles X),0.1
+novelty,1342,oto (sound),X ga moreru (X leaks),0.1
+novelty,1353,jounetu (passion),X wo sosogu (Y pours X),0.0
+novelty,1353,jikan (time),X wo kakeru (Y sprays X),0.0
+novelty,1353,mizu (water),X wo kakeru (Y sprays X),0.0
+novelty,1353,mizu (water),X ga huttou-suru (X boils),0.0
+novelty,1353,mizu (water),X ga nagareru (X flows),0.0
+novelty,1353,mizu (water),X ga waku (X gushes out),0.0
+novelty,1353,mizu (water),X wo nomu (Y drinks X),0.0
+novelty,1353,kotoba (word),X wo kakeru (Y sprays X),0.0
