@@ -29,11 +29,11 @@ cat ${1} \
     | sed -e 's/が溢れる/X ga ahureru (X overflows)/' \
     | sed -e 's/が流れ出る/X ga nagarederu (X flows out)/' \
     | sed -e 's/に浮く/X ni uku (Y floats on X)/' \
-    | sed -e 's/を撒き散らす/X wo makitirasu (Y sprinkles X)/' \
+    | sed -e 's/を撒き散らす/X wo makitirasu (Y scatters X)/' \
     | sed -e 's/が流れる/X ga nagareru (X flows)/' \
     | sed -e 's/が溜まる/X ga tamaru (X gets collected)/' \
     | sed -e 's/が漏れる/X ga moreru (X leaks)/' \
-    | sed -e 's/を撒く/X wo maku (Y scatters X)/' \
+    | sed -e 's/を撒く/X wo maku (Y sprinkles X)/' \
     | sed -e 's/をかける/X wo kakeru (Y sprays X)/' \
     | sed -e 's/を汲み取る/X wo kumitoru (Y scoops up X)/' \
     | sed -e 's/水/mizu (water)/' \

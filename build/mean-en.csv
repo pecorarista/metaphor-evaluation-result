@@ -1,5 +1,5 @@
 noun,verb,metric,mean
-roudou (labor),X wo maku (Y scatters X),comprehensibility,1.1000000000000000
+roudou (labor),X wo maku (Y sprinkles X),comprehensibility,1.1000000000000000
 iwa (rock),X ga huttou-suru (X boils),novelty,3.8000000000000000
 abura (oil),X ni sizumu (Y sinks into X),comprehensibility,2.8000000000000000
 ai (love),X ga ahureru (X overflows),metaphoricity,1.6000000000000000
@@ -7,12 +7,12 @@ keeki (cake),X wo abiseru (Y showers X),metaphoricity,0.80000000000000000000
 ansin (relief),X wo kumitoru (Y scoops up X),novelty,3.2000000000000000
 oto (sound),X wo siboridasu (Y squeezes X),comprehensibility,2.6000000000000000
 iwa (rock),X ga moreru (X leaks),metaphoricity,2.5000000000000000
-doro (mud),X wo makitirasu (Y sprinkles X),comprehensibility,3.7000000000000000
+doro (mud),X wo makitirasu (Y scatters X),comprehensibility,3.7000000000000000
 kairaku (pleasure),X ga nagareru (X flows),metaphoricity,2.5000000000000000
 yuuki (bravery),X ga waku (X gushes out),novelty,0.10000000000000000000
 abura (oil),X ga yodomu (X gets stagnant),comprehensibility,3.1000000000000000
 kanjou (emotion),X wo nomu (Y drinks X),comprehensibility,2.4000000000000000
-koe (voice),X wo maku (Y scatters X),comprehensibility,1.1000000000000000
+koe (voice),X wo maku (Y sprinkles X),comprehensibility,1.1000000000000000
 syutisin (shame),X ga nagareru (X flows),metaphoricity,1.5000000000000000
 suna (sand),X ga simiru (X soaks into Y),novelty,3.5000000000000000
 kanasimi (sorrow),X ga koboreru (X spills out),novelty,1.9000000000000000
@@ -25,7 +25,7 @@ rikai (understanding),X ga mitiru (X fills Y),novelty,3.1000000000000000
 jouhou (information),X ni oboreru (Y almost drowns in X),metaphoricity,3.0000000000000000
 yorokobi (delight),X ga moreru (X leaks),comprehensibility,1.7000000000000000
 kimoti (feeling),X ga huttou-suru (X boils),comprehensibility,3.0000000000000000
-human (complaint),X wo maku (Y scatters X),novelty,1.9000000000000000
+human (complaint),X wo maku (Y sprinkles X),novelty,1.9000000000000000
 syutisin (shame),X wo nomu (Y drinks X),novelty,2.7000000000000000
 tanosisa (enjoyment),X wo sosogu (Y pours X),comprehensibility,2.0000000000000000
 hikari (light),X wo abiseru (Y showers X),metaphoricity,0.90000000000000000000
@@ -39,7 +39,7 @@ kairaku (pleasure),X wo kumitoru (Y scoops up X),comprehensibility,1.80000000000
 yuuki (bravery),X wo kakeru (Y sprays X),novelty,3.1000000000000000
 jikan (time),X ga nigoru (X gets cloudy),comprehensibility,0.40000000000000000000
 kuuki (air),X ga huttou-suru (X boils),comprehensibility,1.3000000000000000
-nioi (smell),X wo makitirasu (Y sprinkles X),metaphoricity,0.80000000000000000000
+nioi (smell),X wo makitirasu (Y scatters X),metaphoricity,0.80000000000000000000
 human (complaint),X ga simiru (X soaks into Y),novelty,2.6000000000000000
 tanosisa (enjoyment),X wo tarasu (Y drops X),metaphoricity,2.4000000000000000
 zetubou (despair),X de susugu (Y rinses Z with X),comprehensibility,0.50000000000000000000
@@ -64,9 +64,9 @@ roudou (labor),X ga hotobasiru (X spurts),metaphoricity,1.1000000000000000
 ansin (relief),X wo nomu (Y drinks X),comprehensibility,0.40000000000000000000
 doro (mud),X ga sumu (X gets clear),comprehensibility,1.1000000000000000
 koe (voice),X ga simiru (X soaks into Y),comprehensibility,2.0000000000000000
-suna (sand),X wo maku (Y scatters X),novelty,0.90000000000000000000
-rikai (understanding),X wo maku (Y scatters X),novelty,3.7000000000000000
-ari (ant),X wo maku (Y scatters X),metaphoricity,0.70000000000000000000
+suna (sand),X wo maku (Y sprinkles X),novelty,0.90000000000000000000
+rikai (understanding),X wo maku (Y sprinkles X),novelty,3.7000000000000000
+ari (ant),X wo maku (Y sprinkles X),metaphoricity,0.70000000000000000000
 kotoba (word),X ga sumu (X gets clear),novelty,2.5000000000000000
 kotoba (word),X ni tukaru (Y gets submerged in X),metaphoricity,1.8000000000000000
 mizu (water),X ga uzumaku (X whirls),novelty,0.80000000000000000000
@@ -117,7 +117,7 @@ kairaku (pleasure),X wo sosogu (Y pours X),novelty,2.8000000000000000
 rikai (understanding),X ga simiru (X soaks into Y),novelty,3.8000000000000000
 yuuki (bravery),X ga ahureru (X overflows),comprehensibility,3.7000000000000000
 syutisin (shame),X wo sosogu (Y pours X),novelty,3.5000000000000000
-kotoba (word),X wo makitirasu (Y sprinkles X),novelty,2.3000000000000000
+kotoba (word),X wo makitirasu (Y scatters X),novelty,2.3000000000000000
 tanosisa (enjoyment),X wo nomu (Y drinks X),comprehensibility,0.90000000000000000000
 keeki (cake),X ga uzumaku (X whirls),metaphoricity,1.2000000000000000
 sitto (envy),X wo kumitoru (Y scoops up X),novelty,3.4000000000000000
@@ -176,7 +176,7 @@ hikari (light),X wo sosogu (Y pours X),metaphoricity,2.1000000000000000
 mizu (water),X ga nagarederu (X flows out),metaphoricity,0.20000000000000000000
 tanosisa (enjoyment),X wo abiseru (Y showers X),comprehensibility,1.7000000000000000
 kuuki (air),X wo susuru (Y sips X),comprehensibility,0.80000000000000000000
-zetubou (despair),X wo maku (Y scatters X),metaphoricity,2.1000000000000000
+zetubou (despair),X wo maku (Y sprinkles X),metaphoricity,2.1000000000000000
 zouo (hatred),X ni uku (Y floats on X),metaphoricity,2.4000000000000000
 ansin (relief),X ga tamaru (X gets collected),comprehensibility,1.5000000000000000
 jouhou (information),X ga nigoru (X gets cloudy),metaphoricity,2.7000000000000000
@@ -186,8 +186,8 @@ kairaku (pleasure),X ga uzumaku (X whirls),novelty,2.8000000000000000
 ikari (anger),X ga nizimu (X oozes),comprehensibility,3.1000000000000000
 keeki (cake),X wo sosogu (Y pours X),metaphoricity,0.40000000000000000000
 syutisin (shame),X ga uzumaku (X whirls),novelty,2.5000000000000000
-kibou (hope),X wo maku (Y scatters X),comprehensibility,1.8000000000000000
-jounetu (passion),X wo makitirasu (Y sprinkles X),novelty,2.6000000000000000
+kibou (hope),X wo maku (Y sprinkles X),comprehensibility,1.8000000000000000
+jounetu (passion),X wo makitirasu (Y scatters X),novelty,2.6000000000000000
 huan (anxiety),X wo susuru (Y sips X),metaphoricity,2.0000000000000000
 kyouhu (fear),X wo tarasu (Y drops X),novelty,3.4000000000000000
 oto (sound),X wo kumitoru (Y scoops up X),metaphoricity,3.2000000000000000
@@ -201,7 +201,7 @@ oto (sound),X ga nagarederu (X flows out),comprehensibility,3.3000000000000000
 kairaku (pleasure),X wo abiseru (Y showers X),novelty,3.0000000000000000
 jouhou (information),X ni sizumu (Y sinks into X),comprehensibility,1.8000000000000000
 hikari (light),X wo nomu (Y drinks X),metaphoricity,3.0000000000000000
-kimoti (feeling),X wo makitirasu (Y sprinkles X),comprehensibility,1.8000000000000000
+kimoti (feeling),X wo makitirasu (Y scatters X),comprehensibility,1.8000000000000000
 syutisin (shame),X wo abiseru (Y showers X),novelty,3.0000000000000000
 ikari (anger),X ni oboreru (Y almost drowns in X),novelty,2.7000000000000000
 jouhou (information),X ga yodomu (X gets stagnant),comprehensibility,2.2000000000000000
@@ -211,13 +211,13 @@ hikari (light),X ga nagareru (X flows),novelty,1.9000000000000000
 kanjou (emotion),X wo abiseru (Y showers X),comprehensibility,2.3000000000000000
 abura (oil),X ni oboreru (Y almost drowns in X),metaphoricity,3.0000000000000000
 neko (cat),X ga simiru (X soaks into Y),novelty,3.8000000000000000
-iwa (rock),X wo makitirasu (Y sprinkles X),novelty,1.8000000000000000
+iwa (rock),X wo makitirasu (Y scatters X),novelty,1.8000000000000000
 huan (anxiety),X ni tukaru (Y gets submerged in X),novelty,3.2000000000000000
 mizu (water),X wo kumitoru (Y scoops up X),comprehensibility,4.0000000000000000
 huan (anxiety),X ga sumu (X gets clear),metaphoricity,2.0000000000000000
 kyouhu (fear),X wo kumitoru (Y scoops up X),metaphoricity,1.4000000000000000
 jouhou (information),X wo kakeru (Y sprays X),comprehensibility,0.50000000000000000000
-zouo (hatred),X wo maku (Y scatters X),comprehensibility,2.6000000000000000
+zouo (hatred),X wo maku (Y sprinkles X),comprehensibility,2.6000000000000000
 tanosisa (enjoyment),X ga uzumaku (X whirls),comprehensibility,1.9000000000000000
 kinsen (money),X ga waku (X gushes out),comprehensibility,2.4000000000000000
 keeki (cake),X wo nomu (Y drinks X),metaphoricity,1.00000000000000000000
@@ -227,10 +227,10 @@ zetubou (despair),X ni uku (Y floats on X),comprehensibility,0.90000000000000000
 sitto (envy),X ga tamaru (X gets collected),comprehensibility,2.0000000000000000
 ai (love),X ga sitataru (X drips),novelty,2.6000000000000000
 sitto (envy),X ga uzumaku (X whirls),comprehensibility,2.9000000000000000
-neko (cat),X wo maku (Y scatters X),novelty,3.6000000000000000
+neko (cat),X wo maku (Y sprinkles X),novelty,3.6000000000000000
 kinsen (money),X ga yodomu (X gets stagnant),comprehensibility,1.1000000000000000
 ansin (relief),X wo abiseru (Y showers X),comprehensibility,1.1000000000000000
-huan (anxiety),X wo makitirasu (Y sprinkles X),metaphoricity,1.8000000000000000
+huan (anxiety),X wo makitirasu (Y scatters X),metaphoricity,1.8000000000000000
 iwa (rock),X ga sumu (X gets clear),novelty,3.4000000000000000
 ai (love),X ga nizimu (X oozes),comprehensibility,1.8000000000000000
 iwa (rock),X ni tukaru (Y gets submerged in X),metaphoricity,2.5000000000000000
@@ -247,7 +247,7 @@ kimoti (feeling),X ga sumu (X gets clear),comprehensibility,2.8000000000000000
 suimin (sleep),X ni sizumu (Y sinks into X),comprehensibility,0.80000000000000000000
 ito (intention),X ni sizumu (Y sinks into X),metaphoricity,1.7000000000000000
 nioi (smell),X ga moreru (X leaks),novelty,0.60000000000000000000
-kuuki (air),X wo makitirasu (Y sprinkles X),comprehensibility,2.9000000000000000
+kuuki (air),X wo makitirasu (Y scatters X),comprehensibility,2.9000000000000000
 nioi (smell),X ga huttou-suru (X boils),metaphoricity,2.5000000000000000
 kyouhu (fear),X ga nagareru (X flows),comprehensibility,1.00000000000000000000
 yorokobi (delight),X ni tukaru (Y gets submerged in X),comprehensibility,2.3000000000000000
@@ -275,7 +275,7 @@ kimoti (feeling),X wo siboridasu (Y squeezes X),metaphoricity,2.8000000000000000
 koe (voice),X ga nizimu (X oozes),novelty,2.2000000000000000
 kibou (hope),X wo kakeru (Y sprays X),metaphoricity,2.5000000000000000
 hikari (light),X ni hitaru (Y soaks in X),metaphoricity,2.1000000000000000
-sitto (envy),X wo makitirasu (Y sprinkles X),novelty,2.3000000000000000
+sitto (envy),X wo makitirasu (Y scatters X),novelty,2.3000000000000000
 ito (intention),X ga mitiru (X fills Y),comprehensibility,1.7000000000000000
 suimin (sleep),X ga mitiru (X fills Y),metaphoricity,1.9000000000000000
 kotoba (word),X wo kumitoru (Y scoops up X),novelty,0.70000000000000000000
@@ -318,7 +318,7 @@ kinsen (money),X ni uku (Y floats on X),comprehensibility,0.60000000000000000000
 koe (voice),X ga sitataru (X drips),comprehensibility,1.5000000000000000
 zetubou (despair),X ga waku (X gushes out),comprehensibility,1.4000000000000000
 kuuki (air),X wo siboridasu (Y squeezes X),metaphoricity,2.2000000000000000
-tanosisa (enjoyment),X wo makitirasu (Y sprinkles X),novelty,2.8000000000000000
+tanosisa (enjoyment),X wo makitirasu (Y scatters X),novelty,2.8000000000000000
 kotoba (word),X wo nomu (Y drinks X),comprehensibility,3.7000000000000000
 neko (cat),X ga nigoru (X gets cloudy),novelty,3.9000000000000000
 nioi (smell),X wo tarasu (Y drops X),novelty,3.1000000000000000
@@ -334,7 +334,7 @@ ari (ant),X ni oboreru (Y almost drowns in X),metaphoricity,1.6000000000000000
 suna (sand),X ni oboreru (Y almost drowns in X),novelty,2.5000000000000000
 rikai (understanding),X ga nizimu (X oozes),comprehensibility,1.1000000000000000
 zouo (hatred),X ga waku (X gushes out),metaphoricity,2.1000000000000000
-kinsen (money),X wo maku (Y scatters X),metaphoricity,0.80000000000000000000
+kinsen (money),X wo maku (Y sprinkles X),metaphoricity,0.80000000000000000000
 neko (cat),X ni hitasu (Y dips Z in X),comprehensibility,0.40000000000000000000
 ansin (relief),X ga sumu (X gets clear),novelty,2.9000000000000000
 ansin (relief),X ni tukaru (Y gets submerged in X),metaphoricity,2.3000000000000000
@@ -342,28 +342,28 @@ zetubou (despair),X ga ahureru (X overflows),novelty,1.3000000000000000
 doro (mud),X wo nomu (Y drinks X),novelty,1.7000000000000000
 keeki (cake),X ga moreru (X leaks),comprehensibility,1.00000000000000000000
 iwa (rock),X wo abiseru (Y showers X),comprehensibility,1.4000000000000000
-kanjou (emotion),X wo makitirasu (Y sprinkles X),novelty,1.5000000000000000
+kanjou (emotion),X wo makitirasu (Y scatters X),novelty,1.5000000000000000
 hikari (light),X ga moreru (X leaks),comprehensibility,3.7000000000000000
 sitto (envy),X wo susuru (Y sips X),novelty,3.8000000000000000
 jouhou (information),X ga hotobasiru (X spurts),comprehensibility,2.5000000000000000
 jounetu (passion),X ga uzumaku (X whirls),comprehensibility,2.7000000000000000
 kanasimi (sorrow),X ga uzumaku (X whirls),metaphoricity,2.2000000000000000
 jouhou (information),X ga simiru (X soaks into Y),metaphoricity,2.8000000000000000
-syutisin (shame),X wo makitirasu (Y sprinkles X),comprehensibility,1.2000000000000000
+syutisin (shame),X wo makitirasu (Y scatters X),comprehensibility,1.2000000000000000
 kotoba (word),X wo sosogu (Y pours X),comprehensibility,2.4000000000000000
 kimoti (feeling),X wo abiseru (Y showers X),novelty,2.9000000000000000
 yorokobi (delight),X wo abiseru (Y showers X),metaphoricity,2.5000000000000000
-suimin (sleep),X wo maku (Y scatters X),metaphoricity,1.5000000000000000
+suimin (sleep),X wo maku (Y sprinkles X),metaphoricity,1.5000000000000000
 nioi (smell),X wo kumitoru (Y scoops up X),metaphoricity,1.6000000000000000
-kairaku (pleasure),X wo makitirasu (Y sprinkles X),comprehensibility,1.7000000000000000
+kairaku (pleasure),X wo makitirasu (Y scatters X),comprehensibility,1.7000000000000000
 doro (mud),X ga nagareru (X flows),metaphoricity,0.70000000000000000000
-ito (intention),X wo maku (Y scatters X),comprehensibility,1.1000000000000000
+ito (intention),X wo maku (Y sprinkles X),comprehensibility,1.1000000000000000
 suimin (sleep),X ga hotobasiru (X spurts),comprehensibility,0.30000000000000000000
 kibou (hope),X ga nigoru (X gets cloudy),comprehensibility,0.80000000000000000000
 ito (intention),X ga hotobasiru (X spurts),metaphoricity,2.4000000000000000
 kanasimi (sorrow),X ga tamaru (X gets collected),metaphoricity,2.1000000000000000
 kairaku (pleasure),X ga sumu (X gets clear),comprehensibility,0.70000000000000000000
-jouhou (information),X wo maku (Y scatters X),metaphoricity,2.2000000000000000
+jouhou (information),X wo maku (Y sprinkles X),metaphoricity,2.2000000000000000
 zouo (hatred),X wo kakeru (Y sprays X),metaphoricity,2.2000000000000000
 jounetu (passion),X ga tamaru (X gets collected),comprehensibility,1.6000000000000000
 human (complaint),X ni oboreru (Y almost drowns in X),novelty,3.5000000000000000
@@ -392,7 +392,7 @@ zouo (hatred),X ni hitasu (Y dips Z in X),novelty,3.4000000000000000
 oto (sound),X ga koboreru (X spills out),comprehensibility,3.1000000000000000
 zouo (hatred),X ga yodomu (X gets stagnant),metaphoricity,2.6000000000000000
 jikan (time),X de susugu (Y rinses Z with X),metaphoricity,2.6000000000000000
-ansin (relief),X wo makitirasu (Y sprinkles X),novelty,3.3000000000000000
+ansin (relief),X wo makitirasu (Y scatters X),novelty,3.3000000000000000
 rikai (understanding),X ga sitataru (X drips),novelty,3.7000000000000000
 sitto (envy),X ni hitaru (Y soaks in X),comprehensibility,1.6000000000000000
 yorokobi (delight),X wo nomu (Y drinks X),metaphoricity,2.6000000000000000
@@ -429,7 +429,7 @@ roudou (labor),X ga waku (X gushes out),metaphoricity,2.2000000000000000
 ari (ant),X ga ahureru (X overflows),novelty,3.2000000000000000
 koe (voice),X ni sizumu (Y sinks into X),metaphoricity,3.1000000000000000
 kuuki (air),X ga nagareru (X flows),metaphoricity,0.40000000000000000000
-kyouhu (fear),X wo makitirasu (Y sprinkles X),metaphoricity,2.3000000000000000
+kyouhu (fear),X wo makitirasu (Y scatters X),metaphoricity,2.3000000000000000
 rikai (understanding),X ga ahureru (X overflows),metaphoricity,2.0000000000000000
 roudou (labor),X ga yodomu (X gets stagnant),metaphoricity,2.2000000000000000
 kotoba (word),X ga tamaru (X gets collected),comprehensibility,1.3000000000000000
@@ -446,15 +446,15 @@ roudou (labor),X ni sizumu (Y sinks into X),metaphoricity,2.6000000000000000
 jikan (time),X ga mitiru (X fills Y),comprehensibility,2.7000000000000000
 ansin (relief),X ga huttou-suru (X boils),novelty,3.6000000000000000
 keeki (cake),X ni tukaru (Y gets submerged in X),comprehensibility,1.1000000000000000
-abura (oil),X wo maku (Y scatters X),metaphoricity,1.3000000000000000
-mizu (water),X wo makitirasu (Y sprinkles X),comprehensibility,3.5000000000000000
+abura (oil),X wo maku (Y sprinkles X),metaphoricity,1.3000000000000000
+mizu (water),X wo makitirasu (Y scatters X),comprehensibility,3.5000000000000000
 hikari (light),X ni tukaru (Y gets submerged in X),comprehensibility,1.4000000000000000
 roudou (labor),X wo kakeru (Y sprays X),metaphoricity,1.6000000000000000
 kanasimi (sorrow),X ga nagarederu (X flows out),novelty,2.7000000000000000
 ai (love),X ga mitiru (X fills Y),novelty,1.6000000000000000
 human (complaint),X ni hitasu (Y dips Z in X),comprehensibility,1.2000000000000000
 huan (anxiety),X ga nagareru (X flows),comprehensibility,1.9000000000000000
-ikari (anger),X wo maku (Y scatters X),novelty,2.8000000000000000
+ikari (anger),X wo maku (Y sprinkles X),novelty,2.8000000000000000
 kuuki (air),X wo nomu (Y drinks X),novelty,2.8000000000000000
 tanosisa (enjoyment),X ni hitaru (Y soaks in X),comprehensibility,3.4000000000000000
 kimoti (feeling),X wo kumitoru (Y scoops up X),comprehensibility,3.7000000000000000
@@ -466,7 +466,7 @@ kanjou (emotion),X ni hitaru (Y soaks in X),comprehensibility,3.4000000000000000
 jikan (time),X ga hotobasiru (X spurts),metaphoricity,2.4000000000000000
 kibou (hope),X ni oboreru (Y almost drowns in X),comprehensibility,1.1000000000000000
 kinsen (money),X de susugu (Y rinses Z with X),comprehensibility,0.50000000000000000000
-oto (sound),X wo makitirasu (Y sprinkles X),metaphoricity,2.4000000000000000
+oto (sound),X wo makitirasu (Y scatters X),metaphoricity,2.4000000000000000
 yorokobi (delight),X ga nagarederu (X flows out),novelty,2.7000000000000000
 doro (mud),X wo siboridasu (Y squeezes X),metaphoricity,1.3000000000000000
 iwa (rock),X wo tarasu (Y drops X),metaphoricity,2.3000000000000000
@@ -490,7 +490,7 @@ neko (cat),X ga sitataru (X drips),novelty,3.6000000000000000
 yorokobi (delight),X wo tarasu (Y drops X),comprehensibility,1.3000000000000000
 sitto (envy),X ga huttou-suru (X boils),novelty,3.3000000000000000
 zouo (hatred),X ga nizimu (X oozes),novelty,1.6000000000000000
-ai (love),X wo maku (Y scatters X),novelty,2.8000000000000000
+ai (love),X wo maku (Y sprinkles X),novelty,2.8000000000000000
 syutisin (shame),X ga koboreru (X spills out),metaphoricity,3.0000000000000000
 yuuki (bravery),X ni uku (Y floats on X),novelty,3.5000000000000000
 tanosisa (enjoyment),X ga moreru (X leaks),metaphoricity,2.0000000000000000
@@ -524,7 +524,7 @@ kyouhu (fear),X wo susuru (Y sips X),metaphoricity,2.5000000000000000
 abura (oil),X ga mitiru (X fills Y),metaphoricity,1.3000000000000000
 iwa (rock),X wo sosogu (Y pours X),comprehensibility,0.40000000000000000000
 huan (anxiety),X wo tarasu (Y drops X),novelty,3.5000000000000000
-jikan (time),X wo maku (Y scatters X),comprehensibility,0.30000000000000000000
+jikan (time),X wo maku (Y sprinkles X),comprehensibility,0.30000000000000000000
 ari (ant),X wo susuru (Y sips X),comprehensibility,0.70000000000000000000
 mizu (water),X wo kakeru (Y sprays X),comprehensibility,4.0000000000000000
 oto (sound),X ga nigoru (X gets cloudy),comprehensibility,3.7000000000000000
@@ -536,11 +536,11 @@ zetubou (despair),X ga koboreru (X spills out),metaphoricity,3.5000000000000000
 jouhou (information),X wo kumitoru (Y scoops up X),comprehensibility,3.2000000000000000
 kinsen (money),X ga nagareru (X flows),metaphoricity,2.7000000000000000
 ai (love),X ga uzumaku (X whirls),metaphoricity,2.7000000000000000
-koe (voice),X wo makitirasu (Y sprinkles X),metaphoricity,2.0000000000000000
+koe (voice),X wo makitirasu (Y scatters X),metaphoricity,2.0000000000000000
 zouo (hatred),X ga moreru (X leaks),novelty,3.0000000000000000
 kyouhu (fear),X ni sizumu (Y sinks into X),metaphoricity,3.1000000000000000
 suna (sand),X ni tukaru (Y gets submerged in X),comprehensibility,2.6000000000000000
-doro (mud),X wo maku (Y scatters X),metaphoricity,2.0000000000000000
+doro (mud),X wo maku (Y sprinkles X),metaphoricity,2.0000000000000000
 ito (intention),X ga nagareru (X flows),comprehensibility,0.70000000000000000000
 sitto (envy),X ga nizimu (X oozes),metaphoricity,1.8000000000000000
 zouo (hatred),X ga huttou-suru (X boils),metaphoricity,2.7000000000000000
@@ -550,7 +550,7 @@ mizu (water),X ga yodomu (X gets stagnant),comprehensibility,3.3000000000000000
 kyouhu (fear),X ni hitasu (Y dips Z in X),novelty,3.3000000000000000
 kinsen (money),X wo nomu (Y drinks X),novelty,3.3000000000000000
 kyouhu (fear),X ga yodomu (X gets stagnant),metaphoricity,2.0000000000000000
-roudou (labor),X wo makitirasu (Y sprinkles X),metaphoricity,2.0000000000000000
+roudou (labor),X wo makitirasu (Y scatters X),metaphoricity,2.0000000000000000
 kibou (hope),X ga koboreru (X spills out),comprehensibility,1.7000000000000000
 mizu (water),X ni sizumu (Y sinks into X),comprehensibility,3.8000000000000000
 kotoba (word),X ni uku (Y floats on X),novelty,3.3000000000000000
@@ -575,7 +575,7 @@ ikari (anger),X wo abiseru (Y showers X),metaphoricity,2.2000000000000000
 jouhou (information),X wo nomu (Y drinks X),novelty,2.8000000000000000
 ito (intention),X wo kumitoru (Y scoops up X),metaphoricity,1.00000000000000000000
 suimin (sleep),X wo kumitoru (Y scoops up X),comprehensibility,0.80000000000000000000
-nioi (smell),X wo maku (Y scatters X),comprehensibility,2.8000000000000000
+nioi (smell),X wo maku (Y sprinkles X),comprehensibility,2.8000000000000000
 syutisin (shame),X ni oboreru (Y almost drowns in X),metaphoricity,1.6000000000000000
 zetubou (despair),X ni hitaru (Y soaks in X),novelty,1.8000000000000000
 hikari (light),X ni hitasu (Y dips Z in X),comprehensibility,1.2000000000000000
@@ -601,7 +601,7 @@ kimoti (feeling),X de susugu (Y rinses Z with X),comprehensibility,0.80000000000
 jouhou (information),X wo sosogu (Y pours X),novelty,2.9000000000000000
 keeki (cake),X ga nigoru (X gets cloudy),novelty,3.7000000000000000
 ito (intention),X wo tarasu (Y drops X),novelty,3.5000000000000000
-ari (ant),X wo makitirasu (Y sprinkles X),comprehensibility,1.5000000000000000
+ari (ant),X wo makitirasu (Y scatters X),comprehensibility,1.5000000000000000
 kinsen (money),X ga nagarederu (X flows out),metaphoricity,2.2000000000000000
 abura (oil),X ga uzumaku (X whirls),novelty,2.6000000000000000
 ai (love),X wo abiseru (Y showers X),metaphoricity,2.6000000000000000
@@ -675,13 +675,13 @@ kuuki (air),X ni uku (Y floats on X),comprehensibility,1.8000000000000000
 kairaku (pleasure),X ga ahureru (X overflows),novelty,2.2000000000000000
 sitto (envy),X wo kakeru (Y sprays X),novelty,3.5000000000000000
 oto (sound),X ni oboreru (Y almost drowns in X),comprehensibility,2.2000000000000000
-kibou (hope),X wo makitirasu (Y sprinkles X),metaphoricity,2.4000000000000000
+kibou (hope),X wo makitirasu (Y scatters X),metaphoricity,2.4000000000000000
 yuuki (bravery),X wo sosogu (Y pours X),comprehensibility,2.5000000000000000
 hikari (light),X ga sitataru (X drips),novelty,3.0000000000000000
 jouhou (information),X ga tamaru (X gets collected),novelty,1.5000000000000000
 syutisin (shame),X ga ahureru (X overflows),novelty,2.2000000000000000
 roudou (labor),X ga koboreru (X spills out),comprehensibility,0.60000000000000000000
-kanasimi (sorrow),X wo maku (Y scatters X),novelty,3.5000000000000000
+kanasimi (sorrow),X wo maku (Y sprinkles X),novelty,3.5000000000000000
 ai (love),X ga nagareru (X flows),novelty,3.6000000000000000
 koe (voice),X ga koboreru (X spills out),comprehensibility,3.2000000000000000
 suimin (sleep),X ga uzumaku (X whirls),novelty,3.6000000000000000
@@ -699,7 +699,7 @@ abura (oil),X ga nagarederu (X flows out),metaphoricity,0.50000000000000000000
 tanosisa (enjoyment),X ga waku (X gushes out),novelty,2.3000000000000000
 kinsen (money),X ga uzumaku (X whirls),novelty,3.0000000000000000
 sitto (envy),X ni hitasu (Y dips Z in X),metaphoricity,1.4000000000000000
-zetubou (despair),X wo makitirasu (Y sprinkles X),comprehensibility,1.6000000000000000
+zetubou (despair),X wo makitirasu (Y scatters X),comprehensibility,1.6000000000000000
 iwa (rock),X ni uku (Y floats on X),novelty,3.8000000000000000
 nioi (smell),X de susugu (Y rinses Z with X),metaphoricity,1.6000000000000000
 kuuki (air),X ga mitiru (X fills Y),metaphoricity,2.2000000000000000
@@ -713,7 +713,7 @@ huan (anxiety),X ga hotobasiru (X spurts),metaphoricity,2.8000000000000000
 ansin (relief),X ni hitasu (Y dips Z in X),metaphoricity,2.4000000000000000
 kinsen (money),X wo abiseru (Y showers X),novelty,2.6000000000000000
 koe (voice),X ga moreru (X leaks),novelty,0.50000000000000000000
-zouo (hatred),X wo makitirasu (Y sprinkles X),metaphoricity,1.8000000000000000
+zouo (hatred),X wo makitirasu (Y scatters X),metaphoricity,1.8000000000000000
 ansin (relief),X ga yodomu (X gets stagnant),novelty,3.1000000000000000
 tanosisa (enjoyment),X ga ahureru (X overflows),comprehensibility,3.5000000000000000
 abura (oil),X wo kumitoru (Y scoops up X),comprehensibility,2.8000000000000000
@@ -732,11 +732,11 @@ ai (love),X wo sosogu (Y pours X),metaphoricity,2.0000000000000000
 jounetu (passion),X ni uku (Y floats on X),novelty,2.9000000000000000
 kuuki (air),X ga hotobasiru (X spurts),comprehensibility,0.40000000000000000000
 syutisin (shame),X ga waku (X gushes out),comprehensibility,3.1000000000000000
-kimoti (feeling),X wo maku (Y scatters X),metaphoricity,1.4000000000000000
+kimoti (feeling),X wo maku (Y sprinkles X),metaphoricity,1.4000000000000000
 kuuki (air),X ga simiru (X soaks into Y),metaphoricity,3.1000000000000000
 human (complaint),X ga moreru (X leaks),comprehensibility,3.8000000000000000
 kairaku (pleasure),X ga waku (X gushes out),comprehensibility,2.6000000000000000
-yorokobi (delight),X wo maku (Y scatters X),novelty,2.7000000000000000
+yorokobi (delight),X wo maku (Y sprinkles X),novelty,2.7000000000000000
 suimin (sleep),X wo abiseru (Y showers X),novelty,3.2000000000000000
 oto (sound),X ga nizimu (X oozes),novelty,2.3000000000000000
 kanjou (emotion),X wo kakeru (Y sprays X),novelty,3.2000000000000000
@@ -752,7 +752,7 @@ hikari (light),X ni oboreru (Y almost drowns in X),novelty,2.6000000000000000
 rikai (understanding),X ga koboreru (X spills out),novelty,3.4000000000000000
 zetubou (despair),X wo susuru (Y sips X),comprehensibility,1.1000000000000000
 kimoti (feeling),X ga simiru (X soaks into Y),metaphoricity,2.1000000000000000
-kuuki (air),X wo maku (Y scatters X),metaphoricity,2.9000000000000000
+kuuki (air),X wo maku (Y sprinkles X),metaphoricity,2.9000000000000000
 ikari (anger),X wo nomu (Y drinks X),metaphoricity,2.3000000000000000
 jouhou (information),X wo abiseru (Y showers X),novelty,2.1000000000000000
 kotoba (word),X de susugu (Y rinses Z with X),novelty,4.0000000000000000
@@ -777,7 +777,7 @@ ai (love),X ga nagarederu (X flows out),novelty,2.9000000000000000
 ikari (anger),X ga nagareru (X flows),novelty,2.9000000000000000
 ansin (relief),X ga waku (X gushes out),novelty,2.6000000000000000
 jikan (time),X wo tarasu (Y drops X),novelty,3.9000000000000000
-huan (anxiety),X wo maku (Y scatters X),comprehensibility,2.7000000000000000
+huan (anxiety),X wo maku (Y sprinkles X),comprehensibility,2.7000000000000000
 kanjou (emotion),X ni sizumu (Y sinks into X),novelty,2.1000000000000000
 jounetu (passion),X ga yodomu (X gets stagnant),novelty,3.1000000000000000
 jounetu (passion),X ni hitasu (Y dips Z in X),metaphoricity,2.5000000000000000
@@ -838,18 +838,18 @@ kyouhu (fear),X de susugu (Y rinses Z with X),metaphoricity,1.9000000000000000
 nioi (smell),X ga nizimu (X oozes),novelty,3.1000000000000000
 abura (oil),X ni hitaru (Y soaks in X),novelty,2.7000000000000000
 yorokobi (delight),X ga ahureru (X overflows),metaphoricity,2.2000000000000000
-suimin (sleep),X wo makitirasu (Y sprinkles X),comprehensibility,0.70000000000000000000
+suimin (sleep),X wo makitirasu (Y scatters X),comprehensibility,0.70000000000000000000
 jouhou (information),X ga sumu (X gets clear),comprehensibility,0.90000000000000000000
-kairaku (pleasure),X wo maku (Y scatters X),metaphoricity,2.4000000000000000
+kairaku (pleasure),X wo maku (Y sprinkles X),metaphoricity,2.4000000000000000
 rikai (understanding),X wo tarasu (Y drops X),comprehensibility,0.20000000000000000000
-ito (intention),X wo makitirasu (Y sprinkles X),metaphoricity,1.4000000000000000
+ito (intention),X wo makitirasu (Y scatters X),metaphoricity,1.4000000000000000
 kuuki (air),X ni sizumu (Y sinks into X),comprehensibility,2.2000000000000000
 kimoti (feeling),X ga waku (X gushes out),comprehensibility,2.7000000000000000
 jounetu (passion),X ga ahureru (X overflows),comprehensibility,4.0000000000000000
 ai (love),X ga koboreru (X spills out),novelty,1.2000000000000000
 nioi (smell),X ni oboreru (Y almost drowns in X),comprehensibility,1.1000000000000000
 koe (voice),X ga nagareru (X flows),comprehensibility,2.9000000000000000
-syutisin (shame),X wo maku (Y scatters X),metaphoricity,1.9000000000000000
+syutisin (shame),X wo maku (Y sprinkles X),metaphoricity,1.9000000000000000
 roudou (labor),X ga nagareru (X flows),comprehensibility,0.50000000000000000000
 human (complaint),X wo nomu (Y drinks X),metaphoricity,2.2000000000000000
 kanasimi (sorrow),X ga ahureru (X overflows),metaphoricity,2.1000000000000000
@@ -858,7 +858,7 @@ huan (anxiety),X wo kakeru (Y sprays X),metaphoricity,1.7000000000000000
 iwa (rock),X ga waku (X gushes out),novelty,3.3000000000000000
 huan (anxiety),X ni sizumu (Y sinks into X),metaphoricity,2.1000000000000000
 jikan (time),X ga koboreru (X spills out),comprehensibility,1.5000000000000000
-kinsen (money),X wo makitirasu (Y sprinkles X),comprehensibility,3.2000000000000000
+kinsen (money),X wo makitirasu (Y scatters X),comprehensibility,3.2000000000000000
 ari (ant),X ga nagarederu (X flows out),metaphoricity,1.6000000000000000
 oto (sound),X de susugu (Y rinses Z with X),metaphoricity,1.9000000000000000
 huan (anxiety),X ni hitasu (Y dips Z in X),novelty,3.1000000000000000
@@ -893,7 +893,7 @@ ai (love),X ni hitaru (Y soaks in X),metaphoricity,2.4000000000000000
 kanasimi (sorrow),X ga nigoru (X gets cloudy),novelty,3.5000000000000000
 ari (ant),X wo sosogu (Y pours X),novelty,3.6000000000000000
 rikai (understanding),X wo sosogu (Y pours X),metaphoricity,2.4000000000000000
-jouhou (information),X wo makitirasu (Y sprinkles X),comprehensibility,2.9000000000000000
+jouhou (information),X wo makitirasu (Y scatters X),comprehensibility,2.9000000000000000
 ito (intention),X ni tukaru (Y gets submerged in X),novelty,3.4000000000000000
 ito (intention),X ga sumu (X gets clear),metaphoricity,1.7000000000000000
 syutisin (shame),X ga simiru (X soaks into Y),metaphoricity,2.1000000000000000
@@ -912,12 +912,12 @@ mizu (water),X ga simiru (X soaks into Y),metaphoricity,0.80000000000000000000
 huan (anxiety),X ni oboreru (Y almost drowns in X),comprehensibility,2.2000000000000000
 kyouhu (fear),X ga hotobasiru (X spurts),metaphoricity,1.5000000000000000
 abura (oil),X ga sumu (X gets clear),comprehensibility,3.2000000000000000
-keeki (cake),X wo maku (Y scatters X),novelty,3.2000000000000000
+keeki (cake),X wo maku (Y sprinkles X),novelty,3.2000000000000000
 nioi (smell),X wo kakeru (Y sprays X),metaphoricity,2.8000000000000000
 kotoba (word),X ga ahureru (X overflows),comprehensibility,2.8000000000000000
 kinsen (money),X ga huttou-suru (X boils),comprehensibility,0.60000000000000000000
 oto (sound),X ga mitiru (X fills Y),comprehensibility,1.7000000000000000
-yuuki (bravery),X wo makitirasu (Y sprinkles X),novelty,3.7000000000000000
+yuuki (bravery),X wo makitirasu (Y scatters X),novelty,3.7000000000000000
 doro (mud),X ga waku (X gushes out),comprehensibility,2.4000000000000000
 rikai (understanding),X ga tamaru (X gets collected),metaphoricity,2.6000000000000000
 kyouhu (fear),X ga simiru (X soaks into Y),comprehensibility,2.0000000000000000
@@ -933,7 +933,7 @@ nioi (smell),X ni sizumu (Y sinks into X),metaphoricity,1.8000000000000000
 kanasimi (sorrow),X ga sitataru (X drips),novelty,3.1000000000000000
 ito (intention),X ga moreru (X leaks),novelty,2.7000000000000000
 zetubou (despair),X wo sosogu (Y pours X),novelty,3.6000000000000000
-hikari (light),X wo maku (Y scatters X),novelty,3.7000000000000000
+hikari (light),X wo maku (Y sprinkles X),novelty,3.7000000000000000
 rikai (understanding),X wo siboridasu (Y squeezes X),novelty,3.0000000000000000
 ikari (anger),X ni tukaru (Y gets submerged in X),comprehensibility,1.2000000000000000
 nioi (smell),X ni hitasu (Y dips Z in X),novelty,2.6000000000000000
@@ -954,9 +954,9 @@ oto (sound),X ni uku (Y floats on X),metaphoricity,1.9000000000000000
 doro (mud),X ga yodomu (X gets stagnant),comprehensibility,1.6000000000000000
 zetubou (despair),X ga nagarederu (X flows out),metaphoricity,2.0000000000000000
 rikai (understanding),X ga uzumaku (X whirls),metaphoricity,1.7000000000000000
-abura (oil),X wo makitirasu (Y sprinkles X),comprehensibility,3.3000000000000000
+abura (oil),X wo makitirasu (Y scatters X),comprehensibility,3.3000000000000000
 ari (ant),X ga uzumaku (X whirls),novelty,1.9000000000000000
-mizu (water),X wo maku (Y scatters X),metaphoricity,0.50000000000000000000
+mizu (water),X wo maku (Y sprinkles X),metaphoricity,0.50000000000000000000
 keeki (cake),X ga simiru (X soaks into Y),novelty,3.4000000000000000
 doro (mud),X ni sizumu (Y sinks into X),comprehensibility,2.8000000000000000
 kibou (hope),X wo tarasu (Y drops X),novelty,3.7000000000000000
@@ -965,7 +965,7 @@ jikan (time),X wo susuru (Y sips X),metaphoricity,2.2000000000000000
 yuuki (bravery),X ga sumu (X gets clear),novelty,3.7000000000000000
 yuuki (bravery),X ni tukaru (Y gets submerged in X),metaphoricity,2.6000000000000000
 suna (sand),X wo abiseru (Y showers X),metaphoricity,2.1000000000000000
-kyouhu (fear),X wo maku (Y scatters X),comprehensibility,1.6000000000000000
+kyouhu (fear),X wo maku (Y sprinkles X),comprehensibility,1.6000000000000000
 neko (cat),X wo nomu (Y drinks X),metaphoricity,2.4000000000000000
 rikai (understanding),X wo abiseru (Y showers X),metaphoricity,2.4000000000000000
 huan (anxiety),X ga sitataru (X drips),comprehensibility,1.5000000000000000
@@ -998,7 +998,7 @@ kinsen (money),X ni hitaru (Y soaks in X),novelty,3.0000000000000000
 kuuki (air),X ga sitataru (X drips),metaphoricity,2.5000000000000000
 keeki (cake),X ga mitiru (X fills Y),novelty,3.7000000000000000
 yorokobi (delight),X ga nizimu (X oozes),comprehensibility,2.5000000000000000
-oto (sound),X wo maku (Y scatters X),comprehensibility,1.1000000000000000
+oto (sound),X wo maku (Y sprinkles X),comprehensibility,1.1000000000000000
 human (complaint),X ga tamaru (X gets collected),metaphoricity,0.90000000000000000000
 zouo (hatred),X wo tarasu (Y drops X),novelty,3.8000000000000000
 kotoba (word),X wo kakeru (Y sprays X),novelty,0.00000000000000000000
@@ -1009,7 +1009,7 @@ zetubou (despair),X ga nagareru (X flows),metaphoricity,2.4000000000000000
 neko (cat),X wo tarasu (Y drops X),comprehensibility,0.50000000000000000000
 nioi (smell),X ga nigoru (X gets cloudy),comprehensibility,2.2000000000000000
 suna (sand),X wo siboridasu (Y squeezes X),novelty,3.5000000000000000
-jikan (time),X wo makitirasu (Y sprinkles X),metaphoricity,2.4000000000000000
+jikan (time),X wo makitirasu (Y scatters X),metaphoricity,2.4000000000000000
 kinsen (money),X ga koboreru (X spills out),metaphoricity,2.2000000000000000
 yorokobi (delight),X ga sitataru (X drips),novelty,2.1000000000000000
 ansin (relief),X de susugu (Y rinses Z with X),novelty,3.6000000000000000
@@ -1115,7 +1115,7 @@ syutisin (shame),X ni tukaru (Y gets submerged in X),novelty,3.0000000000000000
 ito (intention),X ga simiru (X soaks into Y),metaphoricity,2.2000000000000000
 syutisin (shame),X ga sumu (X gets clear),metaphoricity,2.6000000000000000
 kotoba (word),X wo tarasu (Y drops X),comprehensibility,1.2000000000000000
-jouhou (information),X wo maku (Y scatters X),comprehensibility,3.7000000000000000
+jouhou (information),X wo maku (Y sprinkles X),comprehensibility,3.7000000000000000
 zouo (hatred),X wo kakeru (Y sprays X),comprehensibility,0.70000000000000000000
 kairaku (pleasure),X ga sumu (X gets clear),metaphoricity,2.1000000000000000
 jounetu (passion),X ga tamaru (X gets collected),metaphoricity,2.0000000000000000
@@ -1126,14 +1126,14 @@ hikari (light),X ga huttou-suru (X boils),novelty,3.5000000000000000
 neko (cat),X wo kakeru (Y sprays X),novelty,3.4000000000000000
 hikari (light),X ga moreru (X leaks),metaphoricity,1.8000000000000000
 doro (mud),X ga nagareru (X flows),comprehensibility,3.4000000000000000
-kairaku (pleasure),X wo makitirasu (Y sprinkles X),metaphoricity,1.8000000000000000
-ito (intention),X wo maku (Y scatters X),metaphoricity,1.4000000000000000
+kairaku (pleasure),X wo makitirasu (Y scatters X),metaphoricity,1.8000000000000000
+ito (intention),X wo maku (Y sprinkles X),metaphoricity,1.4000000000000000
 yorokobi (delight),X wo abiseru (Y showers X),comprehensibility,1.7000000000000000
-suimin (sleep),X wo maku (Y scatters X),comprehensibility,0.80000000000000000000
+suimin (sleep),X wo maku (Y sprinkles X),comprehensibility,0.80000000000000000000
 nioi (smell),X wo kumitoru (Y scoops up X),comprehensibility,2.4000000000000000
 jouhou (information),X ga simiru (X soaks into Y),comprehensibility,2.0000000000000000
 kibou (hope),X ga ahureru (X overflows),novelty,0.80000000000000000000
-syutisin (shame),X wo makitirasu (Y sprinkles X),metaphoricity,2.6000000000000000
+syutisin (shame),X wo makitirasu (Y scatters X),metaphoricity,2.6000000000000000
 kotoba (word),X wo sosogu (Y pours X),metaphoricity,1.8000000000000000
 kanasimi (sorrow),X ga uzumaku (X whirls),comprehensibility,3.6000000000000000
 neko (cat),X ni hitasu (Y dips Z in X),metaphoricity,1.3000000000000000
@@ -1141,7 +1141,7 @@ ari (ant),X ga nizimu (X oozes),novelty,3.3000000000000000
 rikai (understanding),X ga nizimu (X oozes),metaphoricity,3.4000000000000000
 neko (cat),X ga yodomu (X gets stagnant),novelty,3.7000000000000000
 zouo (hatred),X ga waku (X gushes out),comprehensibility,3.7000000000000000
-kinsen (money),X wo maku (Y scatters X),comprehensibility,3.3000000000000000
+kinsen (money),X wo maku (Y sprinkles X),comprehensibility,3.3000000000000000
 iwa (rock),X wo abiseru (Y showers X),metaphoricity,1.8000000000000000
 neko (cat),X ni sizumu (Y sinks into X),novelty,3.8000000000000000
 keeki (cake),X ga moreru (X leaks),metaphoricity,1.00000000000000000000
@@ -1170,22 +1170,22 @@ roudou (labor),X ga yodomu (X gets stagnant),comprehensibility,0.500000000000000
 yuuki (bravery),X ga simiru (X soaks into Y),novelty,3.0000000000000000
 kotoba (word),X ga tamaru (X gets collected),metaphoricity,2.5000000000000000
 kuuki (air),X ga nagareru (X flows),comprehensibility,3.9000000000000000
-kyouhu (fear),X wo makitirasu (Y sprinkles X),comprehensibility,2.9000000000000000
+kyouhu (fear),X wo makitirasu (Y scatters X),comprehensibility,2.9000000000000000
 rikai (understanding),X ga ahureru (X overflows),comprehensibility,1.9000000000000000
 huan (anxiety),X wo nomu (Y drinks X),novelty,3.4000000000000000
 suna (sand),X ga waku (X gushes out),novelty,3.2000000000000000
 koe (voice),X ni sizumu (Y sinks into X),comprehensibility,1.6000000000000000
-abura (oil),X wo maku (Y scatters X),comprehensibility,3.2000000000000000
+abura (oil),X wo maku (Y sprinkles X),comprehensibility,3.2000000000000000
 keeki (cake),X ni tukaru (Y gets submerged in X),metaphoricity,1.1000000000000000
 zetubou (despair),X ga nizimu (X oozes),novelty,3.0000000000000000
-mizu (water),X wo makitirasu (Y sprinkles X),metaphoricity,0.80000000000000000000
+mizu (water),X wo makitirasu (Y scatters X),metaphoricity,0.80000000000000000000
 keeki (cake),X ga sumu (X gets clear),novelty,3.6000000000000000
 roudou (labor),X ni sizumu (Y sinks into X),comprehensibility,1.5000000000000000
 jikan (time),X ga mitiru (X fills Y),metaphoricity,2.3000000000000000
 ansin (relief),X ga moreru (X leaks),comprehensibility,1.1000000000000000
 kanasimi (sorrow),X wo tarasu (Y drops X),metaphoricity,2.9000000000000000
 koe (voice),X ga yodomu (X gets stagnant),comprehensibility,2.6000000000000000
-yuuki (bravery),X wo maku (Y scatters X),novelty,3.6000000000000000
+yuuki (bravery),X wo maku (Y sprinkles X),novelty,3.6000000000000000
 jounetu (passion),X wo sosogu (Y pours X),metaphoricity,0.40000000000000000000
 ai (love),X ni uku (Y floats on X),novelty,3.1000000000000000
 kyouhu (fear),X ga sumu (X gets clear),comprehensibility,0.80000000000000000000
@@ -1207,9 +1207,9 @@ mizu (water),X ni tukaru (Y gets submerged in X),novelty,0.70000000000000000000
 huan (anxiety),X wo kumitoru (Y scoops up X),comprehensibility,3.4000000000000000
 mizu (water),X ga sumu (X gets clear),metaphoricity,0.60000000000000000000
 suna (sand),X ni hitasu (Y dips Z in X),metaphoricity,1.9000000000000000
-keeki (cake),X wo makitirasu (Y sprinkles X),novelty,2.1000000000000000
+keeki (cake),X wo makitirasu (Y scatters X),novelty,2.1000000000000000
 kibou (hope),X ga sitataru (X drips),metaphoricity,1.7000000000000000
-hikari (light),X wo makitirasu (Y sprinkles X),novelty,2.4000000000000000
+hikari (light),X wo makitirasu (Y scatters X),novelty,2.4000000000000000
 iwa (rock),X ga nagareru (X flows),novelty,2.4000000000000000
 yorokobi (delight),X wo nomu (Y drinks X),comprehensibility,0.60000000000000000000
 sitto (envy),X ni hitaru (Y soaks in X),metaphoricity,3.0000000000000000
@@ -1233,7 +1233,7 @@ kuuki (air),X ga nagarederu (X flows out),comprehensibility,3.4000000000000000
 rikai (understanding),X wo kakeru (Y sprays X),novelty,3.6000000000000000
 ari (ant),X wo kakeru (Y sprays X),metaphoricity,1.2000000000000000
 mizu (water),X wo susuru (Y sips X),metaphoricity,0.00000000000000000000
-jikan (time),X wo maku (Y scatters X),metaphoricity,2.6000000000000000
+jikan (time),X wo maku (Y sprinkles X),metaphoricity,2.6000000000000000
 kyouhu (fear),X wo susuru (Y sips X),comprehensibility,0.70000000000000000000
 abura (oil),X ga mitiru (X fills Y),comprehensibility,2.6000000000000000
 iwa (rock),X wo sosogu (Y pours X),metaphoricity,1.5000000000000000
@@ -1274,7 +1274,7 @@ kimoti (feeling),X wo tarasu (Y drops X),novelty,3.4000000000000000
 roudou (labor),X ga nigoru (X gets cloudy),metaphoricity,2.3000000000000000
 abura (oil),X ni uku (Y floats on X),metaphoricity,0.40000000000000000000
 keeki (cake),X wo susuru (Y sips X),novelty,2.9000000000000000
-oto (sound),X wo makitirasu (Y sprinkles X),comprehensibility,2.9000000000000000
+oto (sound),X wo makitirasu (Y scatters X),comprehensibility,2.9000000000000000
 kibou (hope),X ni oboreru (Y almost drowns in X),metaphoricity,2.6000000000000000
 kinsen (money),X de susugu (Y rinses Z with X),metaphoricity,3.1000000000000000
 yuuki (bravery),X ga mitiru (X fills Y),novelty,1.3000000000000000
@@ -1308,7 +1308,7 @@ kibou (hope),X de susugu (Y rinses Z with X),comprehensibility,0.300000000000000
 kanasimi (sorrow),X ni hitaru (Y soaks in X),comprehensibility,3.4000000000000000
 kinsen (money),X ni oboreru (Y almost drowns in X),comprehensibility,3.2000000000000000
 jikan (time),X ga nigoru (X gets cloudy),metaphoricity,3.0000000000000000
-nioi (smell),X wo makitirasu (Y sprinkles X),comprehensibility,3.5000000000000000
+nioi (smell),X wo makitirasu (Y scatters X),comprehensibility,3.5000000000000000
 kuuki (air),X ga huttou-suru (X boils),metaphoricity,2.0000000000000000
 kairaku (pleasure),X wo kumitoru (Y scoops up X),metaphoricity,1.4000000000000000
 sitto (envy),X wo sosogu (Y pours X),metaphoricity,2.9000000000000000
@@ -1347,14 +1347,14 @@ ai (love),X ga ahureru (X overflows),comprehensibility,3.7000000000000000
 abura (oil),X ni sizumu (Y sinks into X),metaphoricity,1.2000000000000000
 jounetu (passion),X ga koboreru (X spills out),novelty,1.6000000000000000
 suna (sand),X ga hotobasiru (X spurts),novelty,3.5000000000000000
-roudou (labor),X wo maku (Y scatters X),metaphoricity,1.6000000000000000
+roudou (labor),X wo maku (Y sprinkles X),metaphoricity,1.6000000000000000
 kanjou (emotion),X wo nomu (Y drinks X),metaphoricity,3.0000000000000000
 syutisin (shame),X ga nagareru (X flows),comprehensibility,0.40000000000000000000
-koe (voice),X wo maku (Y scatters X),metaphoricity,2.6000000000000000
+koe (voice),X wo maku (Y sprinkles X),metaphoricity,2.6000000000000000
 abura (oil),X ga yodomu (X gets stagnant),metaphoricity,1.4000000000000000
 sitto (envy),X ga nagarederu (X flows out),novelty,3.8000000000000000
 kairaku (pleasure),X ga nagareru (X flows),comprehensibility,1.4000000000000000
-doro (mud),X wo makitirasu (Y sprinkles X),metaphoricity,0.70000000000000000000
+doro (mud),X wo makitirasu (Y scatters X),metaphoricity,0.70000000000000000000
 abura (oil),X ni hitasu (Y dips Z in X),novelty,1.00000000000000000000
 roudou (labor),X ni uku (Y floats on X),comprehensibility,0.30000000000000000000
 abura (oil),X ga nigoru (X gets cloudy),comprehensibility,3.4000000000000000
@@ -1410,7 +1410,7 @@ oto (sound),X wo abiseru (Y showers X),novelty,2.3000000000000000
 ai (love),X ni hitasu (Y dips Z in X),metaphoricity,2.5000000000000000
 ai (love),X ga yodomu (X gets stagnant),novelty,3.0000000000000000
 syutisin (shame),X wo tarasu (Y drops X),novelty,3.5000000000000000
-ari (ant),X wo maku (Y scatters X),comprehensibility,2.0000000000000000
+ari (ant),X wo maku (Y sprinkles X),comprehensibility,2.0000000000000000
 kotoba (word),X ni tukaru (Y gets submerged in X),comprehensibility,1.4000000000000000
 kairaku (pleasure),X wo tarasu (Y drops X),novelty,3.5000000000000000
 kinsen (money),X ga nizimu (X oozes),novelty,3.0000000000000000
@@ -1425,7 +1425,7 @@ keeki (cake),X ga tamaru (X gets collected),comprehensibility,1.1000000000000000
 kanjou (emotion),X ga nagarederu (X flows out),novelty,0.60000000000000000000
 suna (sand),X ni uku (Y floats on X),novelty,3.7000000000000000
 keeki (cake),X wo sosogu (Y pours X),comprehensibility,0.00000000000000000000
-kanasimi (sorrow),X wo makitirasu (Y sprinkles X),novelty,2.2000000000000000
+kanasimi (sorrow),X wo makitirasu (Y scatters X),novelty,2.2000000000000000
 doro (mud),X ga koboreru (X spills out),comprehensibility,3.1000000000000000
 ikari (anger),X ga nizimu (X oozes),metaphoricity,2.4000000000000000
 jouhou (information),X ga nigoru (X gets cloudy),comprehensibility,2.0000000000000000
@@ -1435,13 +1435,13 @@ suna (sand),X de susugu (Y rinses Z with X),novelty,2.9000000000000000
 ansin (relief),X wo siboridasu (Y squeezes X),novelty,3.6000000000000000
 huan (anxiety),X wo susuru (Y sips X),comprehensibility,1.00000000000000000000
 ito (intention),X ga ahureru (X overflows),novelty,2.9000000000000000
-kibou (hope),X wo maku (Y scatters X),metaphoricity,1.9000000000000000
+kibou (hope),X wo maku (Y sprinkles X),metaphoricity,1.9000000000000000
 kyouhu (fear),X ga nagarederu (X flows out),metaphoricity,3.5000000000000000
 kanjou (emotion),X ga uzumaku (X whirls),metaphoricity,2.1000000000000000
 kotoba (word),X ga moreru (X leaks),comprehensibility,3.1000000000000000
 ansin (relief),X ga tamaru (X gets collected),metaphoricity,2.3000000000000000
 zouo (hatred),X ni uku (Y floats on X),comprehensibility,0.50000000000000000000
-zetubou (despair),X wo maku (Y scatters X),comprehensibility,1.1000000000000000
+zetubou (despair),X wo maku (Y sprinkles X),comprehensibility,1.1000000000000000
 tanosisa (enjoyment),X wo abiseru (Y showers X),metaphoricity,2.4000000000000000
 kuuki (air),X wo susuru (Y sips X),metaphoricity,1.8000000000000000
 nioi (smell),X ni hitaru (Y soaks in X),novelty,1.9000000000000000
@@ -1487,7 +1487,7 @@ kinsen (money),X wo kakeru (Y sprays X),metaphoricity,0.50000000000000000000
 yorokobi (delight),X ga sumu (X gets clear),novelty,3.2000000000000000
 tanosisa (enjoyment),X wo siboridasu (Y squeezes X),novelty,3.2000000000000000
 nioi (smell),X ga huttou-suru (X boils),comprehensibility,1.3000000000000000
-kuuki (air),X wo makitirasu (Y sprinkles X),metaphoricity,2.7000000000000000
+kuuki (air),X wo makitirasu (Y scatters X),metaphoricity,2.7000000000000000
 kyouhu (fear),X ga nagareru (X flows),metaphoricity,2.8000000000000000
 ito (intention),X ni sizumu (Y sinks into X),comprehensibility,1.4000000000000000
 kimoti (feeling),X ga sumu (X gets clear),metaphoricity,2.3000000000000000
@@ -1504,7 +1504,7 @@ zouo (hatred),X ga hotobasiru (X spurts),comprehensibility,3.4000000000000000
 tanosisa (enjoyment),X ga tamaru (X gets collected),metaphoricity,2.1000000000000000
 iwa (rock),X ni tukaru (Y gets submerged in X),comprehensibility,1.1000000000000000
 ai (love),X ga nizimu (X oozes),metaphoricity,2.9000000000000000
-huan (anxiety),X wo makitirasu (Y sprinkles X),comprehensibility,3.2000000000000000
+huan (anxiety),X wo makitirasu (Y scatters X),comprehensibility,3.2000000000000000
 ansin (relief),X wo abiseru (Y showers X),metaphoricity,3.3000000000000000
 keeki (cake),X wo kumitoru (Y scoops up X),novelty,3.3000000000000000
 kinsen (money),X ni hitasu (Y dips Z in X),novelty,3.6000000000000000
@@ -1529,12 +1529,12 @@ doro (mud),X ga moreru (X leaks),novelty,1.2000000000000000
 sitto (envy),X ga tamaru (X gets collected),metaphoricity,2.0000000000000000
 keeki (cake),X wo nomu (Y drinks X),comprehensibility,1.4000000000000000
 jouhou (information),X wo kakeru (Y sprays X),metaphoricity,1.4000000000000000
-zouo (hatred),X wo maku (Y scatters X),metaphoricity,2.0000000000000000
+zouo (hatred),X wo maku (Y sprinkles X),metaphoricity,2.0000000000000000
 tanosisa (enjoyment),X ga uzumaku (X whirls),metaphoricity,2.8000000000000000
 kinsen (money),X ga waku (X gushes out),metaphoricity,2.7000000000000000
 doro (mud),X ga huttou-suru (X boils),metaphoricity,1.7000000000000000
 kyouhu (fear),X wo kumitoru (Y scoops up X),comprehensibility,2.0000000000000000
-kimoti (feeling),X wo makitirasu (Y sprinkles X),metaphoricity,2.8000000000000000
+kimoti (feeling),X wo makitirasu (Y scatters X),metaphoricity,2.8000000000000000
 hikari (light),X wo nomu (Y drinks X),comprehensibility,0.50000000000000000000
 jouhou (information),X ni sizumu (Y sinks into X),metaphoricity,2.5000000000000000
 kuuki (air),X ga sumu (X gets clear),metaphoricity,1.1000000000000000
@@ -1545,7 +1545,7 @@ kuuki (air),X ni tukaru (Y gets submerged in X),novelty,2.9000000000000000
 ito (intention),X ga waku (X gushes out),comprehensibility,1.8000000000000000
 rikai (understanding),X de susugu (Y rinses Z with X),novelty,3.7000000000000000
 jikan (time),X ga sitataru (X drips),metaphoricity,2.0000000000000000
-yorokobi (delight),X wo makitirasu (Y sprinkles X),novelty,3.2000000000000000
+yorokobi (delight),X wo makitirasu (Y scatters X),novelty,3.2000000000000000
 jouhou (information),X ni hitasu (Y dips Z in X),novelty,3.1000000000000000
 kotoba (word),X ga koboreru (X spills out),novelty,1.9000000000000000
 kibou (hope),X ni uku (Y floats on X),comprehensibility,1.1000000000000000
@@ -1576,7 +1576,7 @@ iwa (rock),X ga ahureru (X overflows),metaphoricity,3.0000000000000000
 neko (cat),X ga tamaru (X gets collected),comprehensibility,2.4000000000000000
 doro (mud),X ga sitataru (X drips),comprehensibility,1.9000000000000000
 zouo (hatred),X ga uzumaku (X whirls),novelty,0.70000000000000000000
-tanosisa (enjoyment),X wo maku (Y scatters X),novelty,3.3000000000000000
+tanosisa (enjoyment),X wo maku (Y sprinkles X),novelty,3.3000000000000000
 jouhou (information),X wo susuru (Y sips X),metaphoricity,2.3000000000000000
 ai (love),X ga moreru (X leaks),metaphoricity,2.7000000000000000
 koe (voice),X ga nagarederu (X flows out),metaphoricity,2.5000000000000000
@@ -1587,7 +1587,7 @@ kotoba (word),X ni oboreru (Y almost drowns in X),novelty,1.8000000000000000
 syutisin (shame),X ga mitiru (X fills Y),comprehensibility,1.9000000000000000
 neko (cat),X ga uzumaku (X whirls),comprehensibility,1.7000000000000000
 kairaku (pleasure),X ga mitiru (X fills Y),comprehensibility,2.9000000000000000
-sitto (envy),X wo maku (Y scatters X),novelty,3.9000000000000000
+sitto (envy),X wo maku (Y sprinkles X),novelty,3.9000000000000000
 doro (mud),X ga nizimu (X oozes),novelty,1.8000000000000000
 rikai (understanding),X wo nomu (Y drinks X),comprehensibility,0.70000000000000000000
 suimin (sleep),X wo susuru (Y sips X),metaphoricity,1.6000000000000000
@@ -1616,7 +1616,7 @@ kimoti (feeling),X ni sizumu (Y sinks into X),metaphoricity,2.1000000000000000
 suimin (sleep),X ga sumu (X gets clear),metaphoricity,2.4000000000000000
 kuuki (air),X ga waku (X gushes out),metaphoricity,3.3000000000000000
 suimin (sleep),X ni tukaru (Y gets submerged in X),novelty,3.0000000000000000
-jouhou (information),X wo makitirasu (Y sprinkles X),metaphoricity,2.4000000000000000
+jouhou (information),X wo makitirasu (Y scatters X),metaphoricity,2.4000000000000000
 ito (intention),X ga sumu (X gets clear),comprehensibility,1.4000000000000000
 syutisin (shame),X ga simiru (X soaks into Y),comprehensibility,1.5000000000000000
 kibou (hope),X ga tamaru (X gets collected),novelty,2.7000000000000000
@@ -1638,7 +1638,7 @@ ikari (anger),X ga huttou-suru (X boils),novelty,1.9000000000000000
 roudou (labor),X wo kumitoru (Y scoops up X),comprehensibility,1.2000000000000000
 abura (oil),X ga moreru (X leaks),novelty,0.60000000000000000000
 kibou (hope),X wo siboridasu (Y squeezes X),metaphoricity,2.1000000000000000
-ansin (relief),X wo maku (Y scatters X),novelty,3.0000000000000000
+ansin (relief),X wo maku (Y sprinkles X),novelty,3.0000000000000000
 huan (anxiety),X ga waku (X gushes out),comprehensibility,3.3000000000000000
 suna (sand),X wo nomu (Y drinks X),comprehensibility,1.4000000000000000
 neko (cat),X wo abiseru (Y showers X),comprehensibility,0.40000000000000000000
@@ -1656,7 +1656,7 @@ kimoti (feeling),X wo kakeru (Y sprays X),metaphoricity,1.9000000000000000
 kotoba (word),X ga sitataru (X drips),novelty,2.9000000000000000
 koe (voice),X wo nomu (Y drinks X),novelty,2.6000000000000000
 huan (anxiety),X ni sizumu (Y sinks into X),comprehensibility,2.5000000000000000
-kanjou (emotion),X wo maku (Y scatters X),novelty,2.8000000000000000
+kanjou (emotion),X wo maku (Y sprinkles X),novelty,2.8000000000000000
 ansin (relief),X ga simiru (X soaks into Y),novelty,3.5000000000000000
 yuuki (bravery),X ga moreru (X leaks),comprehensibility,0.80000000000000000000
 roudou (labor),X wo nomu (Y drinks X),novelty,3.9000000000000000
@@ -1666,22 +1666,22 @@ zouo (hatred),X wo abiseru (Y showers X),novelty,2.4000000000000000
 ari (ant),X ga nagarederu (X flows out),comprehensibility,1.6000000000000000
 oto (sound),X de susugu (Y rinses Z with X),comprehensibility,1.00000000000000000000
 jikan (time),X ga koboreru (X spills out),metaphoricity,2.8000000000000000
-kinsen (money),X wo makitirasu (Y sprinkles X),metaphoricity,1.00000000000000000000
+kinsen (money),X wo makitirasu (Y scatters X),metaphoricity,1.00000000000000000000
 suna (sand),X wo kumitoru (Y scoops up X),novelty,2.2000000000000000
 jounetu (passion),X ga ahureru (X overflows),metaphoricity,1.9000000000000000
-syutisin (shame),X wo maku (Y scatters X),comprehensibility,0.80000000000000000000
+syutisin (shame),X wo maku (Y sprinkles X),comprehensibility,0.80000000000000000000
 nioi (smell),X ni oboreru (Y almost drowns in X),metaphoricity,1.6000000000000000
 koe (voice),X ga nagareru (X flows),metaphoricity,1.7000000000000000
 kuuki (air),X ni sizumu (Y sinks into X),metaphoricity,3.1000000000000000
 kimoti (feeling),X ga waku (X gushes out),metaphoricity,2.0000000000000000
-kairaku (pleasure),X wo maku (Y scatters X),comprehensibility,0.90000000000000000000
+kairaku (pleasure),X wo maku (Y sprinkles X),comprehensibility,0.90000000000000000000
 jouhou (information),X ga sumu (X gets clear),metaphoricity,2.7000000000000000
 yorokobi (delight),X ga waku (X gushes out),novelty,0.90000000000000000000
 sitto (envy),X ga mitiru (X fills Y),novelty,2.6000000000000000
-ito (intention),X wo makitirasu (Y sprinkles X),comprehensibility,1.00000000000000000000
+ito (intention),X wo makitirasu (Y scatters X),comprehensibility,1.00000000000000000000
 rikai (understanding),X wo tarasu (Y drops X),metaphoricity,2.4000000000000000
 jouhou (information),X ni tukaru (Y gets submerged in X),novelty,2.2000000000000000
-suimin (sleep),X wo makitirasu (Y sprinkles X),metaphoricity,2.2000000000000000
+suimin (sleep),X wo makitirasu (Y scatters X),metaphoricity,2.2000000000000000
 ari (ant),X wo tarasu (Y drops X),novelty,3.0000000000000000
 kuuki (air),X ni hitasu (Y dips Z in X),novelty,3.4000000000000000
 kuuki (air),X ga yodomu (X gets stagnant),metaphoricity,2.4000000000000000
@@ -1690,17 +1690,17 @@ human (complaint),X wo nomu (Y drinks X),comprehensibility,3.3000000000000000
 roudou (labor),X ga nagareru (X flows),metaphoricity,1.9000000000000000
 kanasimi (sorrow),X ga ahureru (X overflows),comprehensibility,4.0000000000000000
 kibou (hope),X ga uzumaku (X whirls),novelty,1.7000000000000000
-abura (oil),X wo makitirasu (Y sprinkles X),metaphoricity,0.70000000000000000000
+abura (oil),X wo makitirasu (Y scatters X),metaphoricity,0.70000000000000000000
 iwa (rock),X ni oboreru (Y almost drowns in X),novelty,3.4000000000000000
 doro (mud),X ni hitasu (Y dips Z in X),novelty,2.7000000000000000
-mizu (water),X wo maku (Y scatters X),comprehensibility,4.0000000000000000
+mizu (water),X wo maku (Y sprinkles X),comprehensibility,4.0000000000000000
 zetubou (despair),X ga nagarederu (X flows out),comprehensibility,1.3000000000000000
 doro (mud),X ga yodomu (X gets stagnant),metaphoricity,2.3000000000000000
 rikai (understanding),X ga uzumaku (X whirls),comprehensibility,1.1000000000000000
 kotoba (word),X ga nigoru (X gets cloudy),novelty,1.4000000000000000
 suna (sand),X wo abiseru (Y showers X),comprehensibility,3.1000000000000000
 neko (cat),X wo nomu (Y drinks X),comprehensibility,0.90000000000000000000
-kyouhu (fear),X wo maku (Y scatters X),metaphoricity,2.1000000000000000
+kyouhu (fear),X wo maku (Y sprinkles X),metaphoricity,2.1000000000000000
 zouo (hatred),X wo kumitoru (Y scoops up X),comprehensibility,2.8000000000000000
 jikan (time),X wo susuru (Y sips X),comprehensibility,0.30000000000000000000
 yuuki (bravery),X ni tukaru (Y gets submerged in X),comprehensibility,1.1000000000000000
@@ -1717,7 +1717,7 @@ jouhou (information),X ga moreru (X leaks),novelty,0.20000000000000000000
 jounetu (passion),X ga nizimu (X oozes),comprehensibility,1.9000000000000000
 oto (sound),X ni uku (Y floats on X),comprehensibility,1.00000000000000000000
 kanasimi (sorrow),X ga nizimu (X oozes),metaphoricity,2.4000000000000000
-ikari (anger),X wo makitirasu (Y sprinkles X),novelty,2.1000000000000000
+ikari (anger),X wo makitirasu (Y scatters X),novelty,2.1000000000000000
 zetubou (despair),X wo tarasu (Y drops X),novelty,3.7000000000000000
 nioi (smell),X ni sizumu (Y sinks into X),comprehensibility,1.3000000000000000
 human (complaint),X wo abiseru (Y showers X),comprehensibility,3.7000000000000000
@@ -1756,7 +1756,7 @@ kibou (hope),X ga nagareru (X flows),metaphoricity,3.0000000000000000
 keeki (cake),X ni uku (Y floats on X),novelty,3.7000000000000000
 roudou (labor),X ga uzumaku (X whirls),novelty,3.5000000000000000
 iwa (rock),X ga sitataru (X drips),novelty,3.6000000000000000
-ai (love),X wo makitirasu (Y sprinkles X),novelty,2.7000000000000000
+ai (love),X wo makitirasu (Y scatters X),novelty,2.7000000000000000
 koe (voice),X ga uzumaku (X whirls),novelty,1.8000000000000000
 suimin (sleep),X ga koboreru (X spills out),comprehensibility,0.90000000000000000000
 ito (intention),X ga koboreru (X spills out),metaphoricity,1.8000000000000000
@@ -1766,7 +1766,7 @@ oto (sound),X ga hotobasiru (X spurts),comprehensibility,2.4000000000000000
 human (complaint),X ga uzumaku (X whirls),comprehensibility,3.5000000000000000
 neko (cat),X wo tarasu (Y drops X),metaphoricity,1.7000000000000000
 nioi (smell),X ga nigoru (X gets cloudy),metaphoricity,2.4000000000000000
-jikan (time),X wo makitirasu (Y sprinkles X),comprehensibility,0.80000000000000000000
+jikan (time),X wo makitirasu (Y scatters X),comprehensibility,0.80000000000000000000
 kinsen (money),X ga koboreru (X spills out),comprehensibility,2.7000000000000000
 mizu (water),X ga mitiru (X fills Y),comprehensibility,3.8000000000000000
 zetubou (despair),X ga nagareru (X flows),comprehensibility,1.1000000000000000
@@ -1785,7 +1785,7 @@ kimoti (feeling),X ga nizimu (X oozes),novelty,0.90000000000000000000
 roudou (labor),X wo siboridasu (Y squeezes X),metaphoricity,2.3000000000000000
 human (complaint),X ga tamaru (X gets collected),comprehensibility,4.0000000000000000
 yorokobi (delight),X ga nizimu (X oozes),metaphoricity,1.7000000000000000
-oto (sound),X wo maku (Y scatters X),metaphoricity,1.8000000000000000
+oto (sound),X wo maku (Y sprinkles X),metaphoricity,1.8000000000000000
 jounetu (passion),X ni oboreru (Y almost drowns in X),novelty,2.2000000000000000
 nioi (smell),X ga ahureru (X overflows),novelty,1.4000000000000000
 syutisin (shame),X de susugu (Y rinses Z with X),metaphoricity,3.0000000000000000
@@ -1819,7 +1819,7 @@ suimin (sleep),X wo kumitoru (Y scoops up X),metaphoricity,1.8000000000000000
 kotoba (word),X ga mitiru (X fills Y),novelty,2.6000000000000000
 oto (sound),X ga ahureru (X overflows),novelty,1.3000000000000000
 syutisin (shame),X ni oboreru (Y almost drowns in X),comprehensibility,2.1000000000000000
-nioi (smell),X wo maku (Y scatters X),metaphoricity,0.90000000000000000000
+nioi (smell),X wo maku (Y sprinkles X),metaphoricity,0.90000000000000000000
 ito (intention),X wo kumitoru (Y scoops up X),comprehensibility,3.5000000000000000
 doro (mud),X ga simiru (X soaks into Y),comprehensibility,2.3000000000000000
 koe (voice),X ga sumu (X gets clear),comprehensibility,2.9000000000000000
@@ -1827,7 +1827,7 @@ jouhou (information),X ga nagareru (X flows),comprehensibility,3.900000000000000
 jikan (time),X wo siboridasu (Y squeezes X),metaphoricity,2.2000000000000000
 keeki (cake),X ni hitasu (Y dips Z in X),metaphoricity,1.2000000000000000
 kinsen (money),X wo kumitoru (Y scoops up X),metaphoricity,2.1000000000000000
-suna (sand),X wo makitirasu (Y sprinkles X),novelty,0.10000000000000000000
+suna (sand),X wo makitirasu (Y scatters X),novelty,0.10000000000000000000
 kyouhu (fear),X ga waku (X gushes out),comprehensibility,2.9000000000000000
 keeki (cake),X ga yodomu (X gets stagnant),novelty,3.5000000000000000
 sitto (envy),X ga sitataru (X drips),novelty,2.7000000000000000
@@ -1846,7 +1846,7 @@ hikari (light),X wo kakeru (Y sprays X),novelty,3.2000000000000000
 suimin (sleep),X ga nagareru (X flows),comprehensibility,0.30000000000000000000
 yuuki (bravery),X wo abiseru (Y showers X),metaphoricity,1.6000000000000000
 mizu (water),X ga yodomu (X gets stagnant),metaphoricity,1.00000000000000000000
-doro (mud),X wo maku (Y scatters X),comprehensibility,2.5000000000000000
+doro (mud),X wo maku (Y sprinkles X),comprehensibility,2.5000000000000000
 suna (sand),X ni tukaru (Y gets submerged in X),metaphoricity,2.0000000000000000
 tanosisa (enjoyment),X ga sitataru (X drips),novelty,3.6000000000000000
 sitto (envy),X ga nizimu (X oozes),comprehensibility,3.1000000000000000
@@ -1856,11 +1856,11 @@ mizu (water),X ni hitasu (Y dips Z in X),novelty,0.30000000000000000000
 suna (sand),X ga sumu (X gets clear),novelty,3.9000000000000000
 kyouhu (fear),X ni sizumu (Y sinks into X),comprehensibility,2.0000000000000000
 ai (love),X ga uzumaku (X whirls),comprehensibility,2.9000000000000000
-koe (voice),X wo makitirasu (Y sprinkles X),comprehensibility,2.9000000000000000
+koe (voice),X wo makitirasu (Y scatters X),comprehensibility,2.9000000000000000
 kibou (hope),X ga koboreru (X spills out),metaphoricity,2.1000000000000000
 ansin (relief),X ni oboreru (Y almost drowns in X),novelty,2.5000000000000000
 mizu (water),X ni sizumu (Y sinks into X),metaphoricity,0.50000000000000000000
-roudou (labor),X wo makitirasu (Y sprinkles X),comprehensibility,0.40000000000000000000
+roudou (labor),X wo makitirasu (Y scatters X),comprehensibility,0.40000000000000000000
 keeki (cake),X ga waku (X gushes out),novelty,3.3000000000000000
 kyouhu (fear),X ga yodomu (X gets stagnant),comprehensibility,0.90000000000000000000
 nioi (smell),X ga hotobasiru (X spurts),comprehensibility,1.6000000000000000
@@ -1876,7 +1876,7 @@ jikan (time),X ga uzumaku (X whirls),novelty,2.8000000000000000
 kyouhu (fear),X wo kakeru (Y sprays X),comprehensibility,0.50000000000000000000
 zetubou (despair),X ga koboreru (X spills out),comprehensibility,1.1000000000000000
 nioi (smell),X ga simiru (X soaks into Y),metaphoricity,2.2000000000000000
-human (complaint),X wo makitirasu (Y sprinkles X),novelty,0.30000000000000000000
+human (complaint),X wo makitirasu (Y scatters X),novelty,0.30000000000000000000
 kibou (hope),X ga huttou-suru (X boils),comprehensibility,1.2000000000000000
 oto (sound),X ni sizumu (Y sinks into X),comprehensibility,1.5000000000000000
 jouhou (information),X ga nagarederu (X flows out),comprehensibility,3.6000000000000000
@@ -1908,7 +1908,7 @@ rikai (understanding),X ni tukaru (Y gets submerged in X),metaphoricity,2.500000
 jouhou (information),X wo tarasu (Y drops X),novelty,3.3000000000000000
 rikai (understanding),X ga sumu (X gets clear),novelty,3.8000000000000000
 ari (ant),X ga sumu (X gets clear),metaphoricity,1.7000000000000000
-kotoba (word),X wo maku (Y scatters X),novelty,2.5000000000000000
+kotoba (word),X wo maku (Y sprinkles X),novelty,2.5000000000000000
 nioi (smell),X ga mitiru (X fills Y),metaphoricity,0.70000000000000000000
 kuuki (air),X de susugu (Y rinses Z with X),metaphoricity,1.9000000000000000
 ari (ant),X ni tukaru (Y gets submerged in X),novelty,3.6000000000000000
@@ -1916,12 +1916,12 @@ kanjou (emotion),X ga nizimu (X oozes),comprehensibility,3.1000000000000000
 human (complaint),X wo susuru (Y sips X),novelty,3.4000000000000000
 tanosisa (enjoyment),X ni oboreru (Y almost drowns in X),novelty,2.6000000000000000
 kinsen (money),X ga nagarederu (X flows out),comprehensibility,2.8000000000000000
-ari (ant),X wo makitirasu (Y sprinkles X),metaphoricity,0.60000000000000000000
+ari (ant),X wo makitirasu (Y scatters X),metaphoricity,0.60000000000000000000
 suimin (sleep),X wo tarasu (Y drops X),novelty,3.6000000000000000
 yorokobi (delight),X de susugu (Y rinses Z with X),novelty,3.9000000000000000
 ansin (relief),X ga sitataru (X drips),novelty,3.3000000000000000
 kyouhu (fear),X ga ahureru (X overflows),novelty,1.6000000000000000
-rikai (understanding),X wo makitirasu (Y sprinkles X),novelty,3.4000000000000000
+rikai (understanding),X wo makitirasu (Y scatters X),novelty,3.4000000000000000
 kotoba (word),X ga simiru (X soaks into Y),novelty,1.2000000000000000
 yuuki (bravery),X ga tamaru (X gets collected),metaphoricity,2.3000000000000000
 kimoti (feeling),X de susugu (Y rinses Z with X),metaphoricity,2.6000000000000000
@@ -1940,7 +1940,7 @@ zouo (hatred),X ni hitaru (Y soaks in X),novelty,2.7000000000000000
 yuuki (bravery),X wo siboridasu (Y squeezes X),novelty,0.70000000000000000000
 sitto (envy),X ni hitasu (Y dips Z in X),comprehensibility,0.70000000000000000000
 mizu (water),X ga nizimu (X oozes),novelty,0.90000000000000000000
-zetubou (despair),X wo makitirasu (Y sprinkles X),metaphoricity,3.5000000000000000
+zetubou (despair),X wo makitirasu (Y scatters X),metaphoricity,3.5000000000000000
 ikari (anger),X wo tarasu (Y drops X),metaphoricity,2.3000000000000000
 jouhou (information),X wo siboridasu (Y squeezes X),comprehensibility,3.0000000000000000
 abura (oil),X ga nagarederu (X flows out),comprehensibility,3.9000000000000000
@@ -1951,9 +1951,9 @@ nioi (smell),X de susugu (Y rinses Z with X),comprehensibility,0.700000000000000
 kuuki (air),X ga mitiru (X fills Y),comprehensibility,2.3000000000000000
 ansin (relief),X ga nigoru (X gets cloudy),novelty,3.5000000000000000
 roudou (labor),X ga koboreru (X spills out),metaphoricity,1.7000000000000000
-kibou (hope),X wo makitirasu (Y sprinkles X),comprehensibility,2.2000000000000000
+kibou (hope),X wo makitirasu (Y scatters X),comprehensibility,2.2000000000000000
 oto (sound),X ni oboreru (Y almost drowns in X),metaphoricity,2.1000000000000000
-jounetu (passion),X wo maku (Y scatters X),novelty,3.2000000000000000
+jounetu (passion),X wo maku (Y sprinkles X),novelty,3.2000000000000000
 yuuki (bravery),X wo sosogu (Y pours X),metaphoricity,1.6000000000000000
 neko (cat),X wo susuru (Y sips X),novelty,3.7000000000000000
 jikan (time),X wo nomu (Y drinks X),novelty,3.6000000000000000
@@ -2009,8 +2009,8 @@ tanosisa (enjoyment),X ga nigoru (X gets cloudy),novelty,3.4000000000000000
 zouo (hatred),X ga sumu (X gets clear),comprehensibility,1.00000000000000000000
 kairaku (pleasure),X wo kakeru (Y sprays X),metaphoricity,2.1000000000000000
 suna (sand),X ga huttou-suru (X boils),novelty,3.6000000000000000
-huan (anxiety),X wo maku (Y scatters X),metaphoricity,1.8000000000000000
-neko (cat),X wo makitirasu (Y sprinkles X),novelty,3.9000000000000000
+huan (anxiety),X wo maku (Y sprinkles X),metaphoricity,1.8000000000000000
+neko (cat),X wo makitirasu (Y scatters X),novelty,3.9000000000000000
 iwa (rock),X ga simiru (X soaks into Y),novelty,3.2000000000000000
 kibou (hope),X wo susuru (Y sips X),comprehensibility,0.60000000000000000000
 kairaku (pleasure),X ga yodomu (X gets stagnant),metaphoricity,2.3000000000000000
@@ -2027,7 +2027,7 @@ syutisin (shame),X ni hitasu (Y dips Z in X),novelty,3.5000000000000000
 kairaku (pleasure),X ni sizumu (Y sinks into X),metaphoricity,3.1000000000000000
 syutisin (shame),X ni sizumu (Y sinks into X),metaphoricity,2.6000000000000000
 kimoti (feeling),X ga simiru (X soaks into Y),comprehensibility,2.5000000000000000
-kuuki (air),X wo maku (Y scatters X),comprehensibility,1.2000000000000000
+kuuki (air),X wo maku (Y sprinkles X),comprehensibility,1.2000000000000000
 zetubou (despair),X wo susuru (Y sips X),metaphoricity,2.5000000000000000
 ikari (anger),X wo nomu (Y drinks X),comprehensibility,2.4000000000000000
 kuuki (air),X ga hotobasiru (X spurts),metaphoricity,2.7000000000000000
@@ -2039,16 +2039,16 @@ ito (intention),X wo abiseru (Y showers X),novelty,3.5000000000000000
 yuuki (bravery),X ga nagareru (X flows),novelty,3.7000000000000000
 human (complaint),X ga moreru (X leaks),metaphoricity,1.00000000000000000000
 kairaku (pleasure),X ga waku (X gushes out),metaphoricity,2.9000000000000000
-kimoti (feeling),X wo maku (Y scatters X),comprehensibility,0.70000000000000000000
+kimoti (feeling),X wo maku (Y sprinkles X),comprehensibility,0.70000000000000000000
 kuuki (air),X ga simiru (X soaks into Y),comprehensibility,2.5000000000000000
 human (complaint),X ga huttou-suru (X boils),novelty,2.4000000000000000
 syutisin (shame),X ga waku (X gushes out),metaphoricity,1.5000000000000000
-zouo (hatred),X wo makitirasu (Y sprinkles X),comprehensibility,3.0000000000000000
+zouo (hatred),X wo makitirasu (Y scatters X),comprehensibility,3.0000000000000000
 ansin (relief),X ni hitasu (Y dips Z in X),comprehensibility,1.2000000000000000
 koe (voice),X ga huttou-suru (X boils),comprehensibility,1.2000000000000000
 huan (anxiety),X ga hotobasiru (X spurts),comprehensibility,3.1000000000000000
 kyouhu (fear),X ni oboreru (Y almost drowns in X),metaphoricity,3.2000000000000000
-iwa (rock),X wo maku (Y scatters X),novelty,3.6000000000000000
+iwa (rock),X wo maku (Y sprinkles X),novelty,3.6000000000000000
 roudou (labor),X ga huttou-suru (X boils),comprehensibility,0.60000000000000000000
 mizu (water),X ni oboreru (Y almost drowns in X),comprehensibility,3.9000000000000000
 jikan (time),X wo sosogu (Y pours X),novelty,2.0000000000000000
@@ -2084,7 +2084,7 @@ ari (ant),X wo nomu (Y drinks X),comprehensibility,1.4000000000000000
 huan (anxiety),X ga ahureru (X overflows),metaphoricity,1.7000000000000000
 suimin (sleep),X wo susuru (Y sips X),novelty,3.6000000000000000
 ikari (anger),X ga koboreru (X spills out),comprehensibility,2.2000000000000000
-sitto (envy),X wo maku (Y scatters X),metaphoricity,1.3000000000000000
+sitto (envy),X wo maku (Y sprinkles X),metaphoricity,1.3000000000000000
 doro (mud),X ga nizimu (X oozes),metaphoricity,1.7000000000000000
 kotoba (word),X ni oboreru (Y almost drowns in X),metaphoricity,2.5000000000000000
 ansin (relief),X ni uku (Y floats on X),comprehensibility,0.70000000000000000000
@@ -2097,7 +2097,7 @@ human (complaint),X wo tarasu (Y drops X),novelty,0.70000000000000000000
 ai (love),X ga moreru (X leaks),novelty,2.6000000000000000
 zetubou (despair),X wo abiseru (Y showers X),comprehensibility,1.7000000000000000
 zouo (hatred),X ga uzumaku (X whirls),metaphoricity,1.7000000000000000
-tanosisa (enjoyment),X wo maku (Y scatters X),metaphoricity,2.8000000000000000
+tanosisa (enjoyment),X wo maku (Y sprinkles X),metaphoricity,2.8000000000000000
 jouhou (information),X wo susuru (Y sips X),novelty,3.5000000000000000
 sitto (envy),X ga hotobasiru (X spurts),comprehensibility,2.4000000000000000
 iwa (rock),X ga ahureru (X overflows),novelty,3.5000000000000000
@@ -2129,7 +2129,7 @@ roudou (labor),X ga nagareru (X flows),novelty,3.6000000000000000
 kuuki (air),X ga yodomu (X gets stagnant),novelty,0.60000000000000000000
 kuuki (air),X ni hitasu (Y dips Z in X),metaphoricity,3.1000000000000000
 ari (ant),X wo tarasu (Y drops X),metaphoricity,0.40000000000000000000
-suimin (sleep),X wo makitirasu (Y sprinkles X),novelty,3.4000000000000000
+suimin (sleep),X wo makitirasu (Y scatters X),novelty,3.4000000000000000
 yorokobi (delight),X ga waku (X gushes out),metaphoricity,2.0000000000000000
 sitto (envy),X ga mitiru (X fills Y),metaphoricity,1.5000000000000000
 jouhou (information),X ga sumu (X gets clear),novelty,3.7000000000000000
@@ -2145,7 +2145,7 @@ huan (anxiety),X ni hitasu (Y dips Z in X),comprehensibility,1.9000000000000000
 yuuki (bravery),X ga huttou-suru (X boils),comprehensibility,1.1000000000000000
 suna (sand),X wo kumitoru (Y scoops up X),metaphoricity,1.00000000000000000000
 jikan (time),X ga koboreru (X spills out),novelty,2.9000000000000000
-kinsen (money),X wo makitirasu (Y sprinkles X),novelty,1.4000000000000000
+kinsen (money),X wo makitirasu (Y scatters X),novelty,1.4000000000000000
 rikai (understanding),X ga nagarederu (X flows out),comprehensibility,1.2000000000000000
 kuuki (air),X wo kakeru (Y sprays X),novelty,3.7000000000000000
 zetubou (despair),X ga uzumaku (X whirls),comprehensibility,2.9000000000000000
@@ -2157,7 +2157,7 @@ roudou (labor),X wo nomu (Y drinks X),metaphoricity,1.4000000000000000
 ansin (relief),X ga simiru (X soaks into Y),metaphoricity,2.2000000000000000
 iwa (rock),X ga waku (X gushes out),comprehensibility,0.80000000000000000000
 koe (voice),X wo nomu (Y drinks X),metaphoricity,2.2000000000000000
-kanjou (emotion),X wo maku (Y scatters X),metaphoricity,2.1000000000000000
+kanjou (emotion),X wo maku (Y sprinkles X),metaphoricity,2.1000000000000000
 kotoba (word),X ga sitataru (X drips),metaphoricity,2.2000000000000000
 kimoti (feeling),X wo kakeru (Y sprays X),novelty,3.1000000000000000
 iwa (rock),X ga yodomu (X gets stagnant),comprehensibility,0.50000000000000000000
@@ -2169,7 +2169,7 @@ kinsen (money),X ga sumu (X gets clear),novelty,3.8000000000000000
 kanjou (emotion),X ga simiru (X soaks into Y),metaphoricity,1.8000000000000000
 abura (oil),X ga huttou-suru (X boils),novelty,1.6000000000000000
 iwa (rock),X ni sizumu (Y sinks into X),comprehensibility,1.00000000000000000000
-ansin (relief),X wo maku (Y scatters X),metaphoricity,3.2000000000000000
+ansin (relief),X wo maku (Y sprinkles X),metaphoricity,3.2000000000000000
 kibou (hope),X wo siboridasu (Y squeezes X),novelty,3.0000000000000000
 zetubou (despair),X ga tamaru (X gets collected),comprehensibility,1.7000000000000000
 abura (oil),X ga moreru (X leaks),metaphoricity,0.30000000000000000000
@@ -2190,14 +2190,14 @@ ari (ant),X wo sosogu (Y pours X),comprehensibility,0.70000000000000000000
 yorokobi (delight),X ni sizumu (Y sinks into X),metaphoricity,1.9000000000000000
 human (complaint),X wo kumitoru (Y scoops up X),metaphoricity,1.5000000000000000
 ito (intention),X ni tukaru (Y gets submerged in X),comprehensibility,1.1000000000000000
-jouhou (information),X wo makitirasu (Y sprinkles X),novelty,2.3000000000000000
+jouhou (information),X wo makitirasu (Y scatters X),novelty,2.3000000000000000
 suna (sand),X ga nagareru (X flows),comprehensibility,3.3000000000000000
 kibou (hope),X ga tamaru (X gets collected),metaphoricity,2.8000000000000000
 kimoti (feeling),X ni sizumu (Y sinks into X),novelty,2.7000000000000000
 suimin (sleep),X ga sumu (X gets clear),novelty,3.8000000000000000
 suimin (sleep),X ni tukaru (Y gets submerged in X),metaphoricity,2.7000000000000000
 kuuki (air),X ga waku (X gushes out),novelty,2.9000000000000000
-yuuki (bravery),X wo makitirasu (Y sprinkles X),comprehensibility,1.4000000000000000
+yuuki (bravery),X wo makitirasu (Y scatters X),comprehensibility,1.4000000000000000
 kotoba (word),X ga ahureru (X overflows),novelty,1.2000000000000000
 kinsen (money),X ga huttou-suru (X boils),novelty,3.6000000000000000
 oto (sound),X ga mitiru (X fills Y),novelty,2.6000000000000000
@@ -2211,13 +2211,13 @@ mizu (water),X ga hotobasiru (X spurts),novelty,1.1000000000000000
 roudou (labor),X wo abiseru (Y showers X),metaphoricity,2.3000000000000000
 huan (anxiety),X ni oboreru (Y almost drowns in X),novelty,2.7000000000000000
 abura (oil),X ga sumu (X gets clear),novelty,1.9000000000000000
-keeki (cake),X wo maku (Y scatters X),comprehensibility,1.1000000000000000
+keeki (cake),X wo maku (Y sprinkles X),comprehensibility,1.1000000000000000
 zouo (hatred),X wo nomu (Y drinks X),metaphoricity,2.6000000000000000
 abura (oil),X ni tukaru (Y gets submerged in X),metaphoricity,1.4000000000000000
 neko (cat),X wo kumitoru (Y scoops up X),metaphoricity,1.6000000000000000
 zetubou (despair),X wo sosogu (Y pours X),comprehensibility,1.1000000000000000
 jounetu (passion),X ga sitataru (X drips),metaphoricity,2.6000000000000000
-hikari (light),X wo maku (Y scatters X),comprehensibility,0.80000000000000000000
+hikari (light),X wo maku (Y sprinkles X),comprehensibility,0.80000000000000000000
 rikai (understanding),X wo siboridasu (Y squeezes X),comprehensibility,1.8000000000000000
 ikari (anger),X ga sumu (X gets clear),metaphoricity,2.2000000000000000
 nioi (smell),X ni hitasu (Y dips Z in X),comprehensibility,1.2000000000000000
@@ -2231,7 +2231,7 @@ ito (intention),X ga moreru (X leaks),comprehensibility,2.4000000000000000
 hikari (light),X ga simiru (X soaks into Y),comprehensibility,1.5000000000000000
 zetubou (despair),X wo tarasu (Y drops X),metaphoricity,2.3000000000000000
 neko (cat),X ga nagareru (X flows),comprehensibility,0.50000000000000000000
-ikari (anger),X wo makitirasu (Y sprinkles X),metaphoricity,2.2000000000000000
+ikari (anger),X wo makitirasu (Y scatters X),metaphoricity,2.2000000000000000
 tanosisa (enjoyment),X de susugu (Y rinses Z with X),comprehensibility,0.40000000000000000000
 kanasimi (sorrow),X ga nizimu (X oozes),novelty,2.4000000000000000
 jouhou (information),X ga moreru (X leaks),metaphoricity,1.8000000000000000
@@ -2245,13 +2245,13 @@ doro (mud),X ni sizumu (Y sinks into X),novelty,1.6000000000000000
 keeki (cake),X ga hotobasiru (X spurts),metaphoricity,1.5000000000000000
 kibou (hope),X wo tarasu (Y drops X),comprehensibility,0.80000000000000000000
 yuuki (bravery),X ga sumu (X gets clear),comprehensibility,0.60000000000000000000
-kyouhu (fear),X wo maku (Y scatters X),novelty,2.7000000000000000
+kyouhu (fear),X wo maku (Y sprinkles X),novelty,2.7000000000000000
 doro (mud),X ga yodomu (X gets stagnant),novelty,2.8000000000000000
 kotoba (word),X ga nigoru (X gets cloudy),metaphoricity,2.8000000000000000
 ari (ant),X ga uzumaku (X whirls),comprehensibility,2.2000000000000000
 iwa (rock),X ni oboreru (Y almost drowns in X),metaphoricity,1.7000000000000000
 doro (mud),X ni hitasu (Y dips Z in X),metaphoricity,1.3000000000000000
-abura (oil),X wo makitirasu (Y sprinkles X),novelty,1.7000000000000000
+abura (oil),X wo makitirasu (Y scatters X),novelty,1.7000000000000000
 keeki (cake),X ga simiru (X soaks into Y),comprehensibility,0.30000000000000000000
 human (complaint),X wo siboridasu (Y squeezes X),comprehensibility,2.2000000000000000
 hikari (light),X ga mitiru (X fills Y),comprehensibility,2.7000000000000000
@@ -2273,7 +2273,7 @@ syutisin (shame),X de susugu (Y rinses Z with X),novelty,3.7000000000000000
 zouo (hatred),X wo tarasu (Y drops X),comprehensibility,1.1000000000000000
 jounetu (passion),X ni oboreru (Y almost drowns in X),metaphoricity,1.7000000000000000
 yorokobi (delight),X ga nizimu (X oozes),novelty,2.5000000000000000
-oto (sound),X wo maku (Y scatters X),novelty,3.4000000000000000
+oto (sound),X wo maku (Y sprinkles X),novelty,3.4000000000000000
 nioi (smell),X ga ahureru (X overflows),metaphoricity,1.3000000000000000
 kotoba (word),X wo kakeru (Y sprays X),comprehensibility,4.0000000000000000
 roudou (labor),X wo siboridasu (Y squeezes X),novelty,3.0000000000000000
@@ -2301,7 +2301,7 @@ jouhou (information),X ni hitaru (Y soaks in X),comprehensibility,2.400000000000
 ito (intention),X ga koboreru (X spills out),novelty,3.6000000000000000
 huan (anxiety),X ga nizimu (X oozes),comprehensibility,3.1000000000000000
 neko (cat),X ga nagarederu (X flows out),comprehensibility,0.50000000000000000000
-ai (love),X wo makitirasu (Y sprinkles X),metaphoricity,2.5000000000000000
+ai (love),X wo makitirasu (Y scatters X),metaphoricity,2.5000000000000000
 koe (voice),X ga uzumaku (X whirls),metaphoricity,2.7000000000000000
 roudou (labor),X ga uzumaku (X whirls),metaphoricity,2.3000000000000000
 iwa (rock),X ga sitataru (X drips),metaphoricity,3.1000000000000000
@@ -2311,7 +2311,7 @@ zetubou (despair),X wo nomu (Y drinks X),comprehensibility,0.8000000000000000000
 ikari (anger),X wo susuru (Y sips X),metaphoricity,3.0000000000000000
 doro (mud),X ga ahureru (X overflows),comprehensibility,2.7000000000000000
 kotoba (word),X ga waku (X gushes out),comprehensibility,3.3000000000000000
-human (complaint),X wo makitirasu (Y sprinkles X),metaphoricity,1.1000000000000000
+human (complaint),X wo makitirasu (Y scatters X),metaphoricity,1.1000000000000000
 nioi (smell),X ga simiru (X soaks into Y),novelty,1.4000000000000000
 jouhou (information),X wo kumitoru (Y scoops up X),novelty,0.70000000000000000000
 jikan (time),X ga uzumaku (X whirls),metaphoricity,2.6000000000000000
@@ -2351,7 +2351,7 @@ neko (cat),X ga huttou-suru (X boils),metaphoricity,2.1000000000000000
 kanjou (emotion),X ni oboreru (Y almost drowns in X),metaphoricity,3.8000000000000000
 keeki (cake),X ga yodomu (X gets stagnant),metaphoricity,0.80000000000000000000
 jikan (time),X wo siboridasu (Y squeezes X),novelty,1.9000000000000000
-suna (sand),X wo makitirasu (Y sprinkles X),metaphoricity,0.50000000000000000000
+suna (sand),X wo makitirasu (Y scatters X),metaphoricity,0.50000000000000000000
 keeki (cake),X ni hitasu (Y dips Z in X),novelty,3.4000000000000000
 kinsen (money),X wo kumitoru (Y scoops up X),novelty,3.0000000000000000
 jounetu (passion),X de susugu (Y rinses Z with X),comprehensibility,0.60000000000000000000
@@ -2360,7 +2360,7 @@ kotoba (word),X ga mitiru (X fills Y),metaphoricity,2.6000000000000000
 oto (sound),X ga ahureru (X overflows),metaphoricity,2.7000000000000000
 suimin (sleep),X wo kumitoru (Y scoops up X),novelty,3.5000000000000000
 zetubou (despair),X ni hitaru (Y soaks in X),comprehensibility,2.7000000000000000
-nioi (smell),X wo maku (Y scatters X),novelty,1.7000000000000000
+nioi (smell),X wo maku (Y sprinkles X),novelty,1.7000000000000000
 ai (love),X wo siboridasu (Y squeezes X),comprehensibility,1.9000000000000000
 hikari (light),X ni hitasu (Y dips Z in X),novelty,3.6000000000000000
 human (complaint),X ni tukaru (Y gets submerged in X),novelty,2.8000000000000000
@@ -2388,15 +2388,15 @@ yorokobi (delight),X de susugu (Y rinses Z with X),metaphoricity,2.1000000000000
 ansin (relief),X ga sitataru (X drips),metaphoricity,2.3000000000000000
 ito (intention),X wo tarasu (Y drops X),comprehensibility,0.70000000000000000000
 kyouhu (fear),X ga ahureru (X overflows),metaphoricity,2.3000000000000000
-rikai (understanding),X wo makitirasu (Y sprinkles X),metaphoricity,2.6000000000000000
+rikai (understanding),X wo makitirasu (Y scatters X),metaphoricity,2.6000000000000000
 abura (oil),X ga uzumaku (X whirls),comprehensibility,1.9000000000000000
 suimin (sleep),X wo tarasu (Y drops X),metaphoricity,1.7000000000000000
-ari (ant),X wo makitirasu (Y sprinkles X),novelty,3.6000000000000000
+ari (ant),X wo makitirasu (Y scatters X),novelty,3.6000000000000000
 mizu (water),X ga ahureru (X overflows),comprehensibility,3.6000000000000000
 kotoba (word),X ga hotobasiru (X spurts),comprehensibility,2.5000000000000000
 human (complaint),X wo susuru (Y sips X),metaphoricity,2.2000000000000000
 tanosisa (enjoyment),X ni oboreru (Y almost drowns in X),metaphoricity,2.9000000000000000
-kotoba (word),X wo maku (Y scatters X),metaphoricity,2.2000000000000000
+kotoba (word),X wo maku (Y sprinkles X),metaphoricity,2.2000000000000000
 ari (ant),X ga sumu (X gets clear),novelty,3.5000000000000000
 ari (ant),X ni tukaru (Y gets submerged in X),metaphoricity,0.70000000000000000000
 nioi (smell),X ga mitiru (X fills Y),novelty,2.4000000000000000
@@ -2456,7 +2456,7 @@ kibou (hope),X ni tukaru (Y gets submerged in X),comprehensibility,1.40000000000
 kanasimi (sorrow),X ga hotobasiru (X spurts),metaphoricity,2.4000000000000000
 doro (mud),X de susugu (Y rinses Z with X),novelty,2.2000000000000000
 jounetu (passion),X ga simiru (X soaks into Y),metaphoricity,2.0000000000000000
-kanasimi (sorrow),X wo maku (Y scatters X),comprehensibility,0.40000000000000000000
+kanasimi (sorrow),X wo maku (Y sprinkles X),comprehensibility,0.40000000000000000000
 ai (love),X ga nagareru (X flows),comprehensibility,1.00000000000000000000
 yorokobi (delight),X ni uku (Y floats on X),metaphoricity,2.2000000000000000
 koe (voice),X ga koboreru (X spills out),novelty,1.3000000000000000
@@ -2470,7 +2470,7 @@ kairaku (pleasure),X ga ahureru (X overflows),comprehensibility,3.20000000000000
 jikan (time),X wo nomu (Y drinks X),metaphoricity,2.2000000000000000
 sitto (envy),X wo kakeru (Y sprays X),comprehensibility,0.70000000000000000000
 neko (cat),X wo susuru (Y sips X),metaphoricity,1.5000000000000000
-jounetu (passion),X wo maku (Y scatters X),metaphoricity,2.4000000000000000
+jounetu (passion),X wo maku (Y sprinkles X),metaphoricity,2.4000000000000000
 oto (sound),X ni oboreru (Y almost drowns in X),novelty,2.4000000000000000
 hikari (light),X ga sitataru (X drips),comprehensibility,2.0000000000000000
 jouhou (information),X ga tamaru (X gets collected),comprehensibility,2.9000000000000000
@@ -2490,7 +2490,7 @@ tanosisa (enjoyment),X ga waku (X gushes out),comprehensibility,2.90000000000000
 kinsen (money),X ga uzumaku (X whirls),comprehensibility,1.9000000000000000
 jikan (time),X ga nagareru (X flows),novelty,0.10000000000000000000
 mizu (water),X ga nizimu (X oozes),metaphoricity,0.40000000000000000000
-zetubou (despair),X wo makitirasu (Y sprinkles X),novelty,2.9000000000000000
+zetubou (despair),X wo makitirasu (Y scatters X),novelty,2.9000000000000000
 roudou (labor),X ga moreru (X leaks),comprehensibility,0.60000000000000000000
 tanosisa (enjoyment),X ga ahureru (X overflows),novelty,2.0000000000000000
 abura (oil),X wo kumitoru (Y scoops up X),novelty,1.6000000000000000
@@ -2502,7 +2502,7 @@ kanjou (emotion),X ga waku (X gushes out),comprehensibility,3.5000000000000000
 jikan (time),X wo sosogu (Y pours X),metaphoricity,2.8000000000000000
 huan (anxiety),X ga simiru (X soaks into Y),novelty,3.1000000000000000
 ansin (relief),X ni sizumu (Y sinks into X),comprehensibility,1.3000000000000000
-iwa (rock),X wo maku (Y scatters X),metaphoricity,1.6000000000000000
+iwa (rock),X wo maku (Y sprinkles X),metaphoricity,1.6000000000000000
 kyouhu (fear),X ni oboreru (Y almost drowns in X),novelty,2.1000000000000000
 kinsen (money),X wo abiseru (Y showers X),comprehensibility,2.1000000000000000
 koe (voice),X ga moreru (X leaks),comprehensibility,3.7000000000000000
@@ -2510,7 +2510,7 @@ ansin (relief),X ga yodomu (X gets stagnant),comprehensibility,1.500000000000000
 syutisin (shame),X ga waku (X gushes out),novelty,2.4000000000000000
 human (complaint),X ga huttou-suru (X boils),metaphoricity,2.4000000000000000
 yuuki (bravery),X ga nagareru (X flows),metaphoricity,2.5000000000000000
-yorokobi (delight),X wo maku (Y scatters X),comprehensibility,1.9000000000000000
+yorokobi (delight),X wo maku (Y sprinkles X),comprehensibility,1.9000000000000000
 suimin (sleep),X wo abiseru (Y showers X),comprehensibility,0.70000000000000000000
 oto (sound),X ga nizimu (X oozes),comprehensibility,2.2000000000000000
 human (complaint),X ga moreru (X leaks),novelty,0.30000000000000000000
@@ -2544,12 +2544,12 @@ keeki (cake),X ni oboreru (Y almost drowns in X),comprehensibility,1.90000000000
 kanasimi (sorrow),X ga mitiru (X fills Y),comprehensibility,2.9000000000000000
 ai (love),X ga nagarederu (X flows out),comprehensibility,2.1000000000000000
 ikari (anger),X ga nagareru (X flows),comprehensibility,1.4000000000000000
-neko (cat),X wo makitirasu (Y sprinkles X),metaphoricity,2.1000000000000000
+neko (cat),X wo makitirasu (Y scatters X),metaphoricity,2.1000000000000000
 iwa (rock),X ga simiru (X soaks into Y),metaphoricity,2.7000000000000000
 ansin (relief),X ga waku (X gushes out),comprehensibility,2.2000000000000000
 jikan (time),X wo tarasu (Y drops X),comprehensibility,0.20000000000000000000
 kanjou (emotion),X ni sizumu (Y sinks into X),comprehensibility,2.1000000000000000
-huan (anxiety),X wo maku (Y scatters X),novelty,2.0000000000000000
+huan (anxiety),X wo maku (Y sprinkles X),novelty,2.0000000000000000
 yuuki (bravery),X wo kumitoru (Y scoops up X),comprehensibility,2.0000000000000000
 suna (sand),X ga huttou-suru (X boils),metaphoricity,2.3000000000000000
 kairaku (pleasure),X wo kakeru (Y sprays X),novelty,3.7000000000000000
@@ -2564,7 +2564,7 @@ kanjou (emotion),X ga yodomu (X gets stagnant),comprehensibility,3.0000000000000
 suna (sand),X ga moreru (X leaks),novelty,1.2000000000000000
 koe (voice),X ga nizimu (X oozes),comprehensibility,2.0000000000000000
 nioi (smell),X wo sosogu (Y pours X),metaphoricity,2.5000000000000000
-sitto (envy),X wo makitirasu (Y sprinkles X),comprehensibility,2.6000000000000000
+sitto (envy),X wo makitirasu (Y scatters X),comprehensibility,2.6000000000000000
 zetubou (despair),X ni hitasu (Y dips Z in X),metaphoricity,2.5000000000000000
 ito (intention),X ga mitiru (X fills Y),novelty,2.7000000000000000
 kotoba (word),X wo kumitoru (Y scoops up X),comprehensibility,3.9000000000000000
@@ -2618,7 +2618,7 @@ huan (anxiety),X ga tamaru (X gets collected),metaphoricity,1.6000000000000000
 kinsen (money),X ni uku (Y floats on X),novelty,3.6000000000000000
 koe (voice),X ga sitataru (X drips),novelty,3.3000000000000000
 zetubou (despair),X ga waku (X gushes out),novelty,3.1000000000000000
-tanosisa (enjoyment),X wo makitirasu (Y sprinkles X),comprehensibility,1.6000000000000000
+tanosisa (enjoyment),X wo makitirasu (Y scatters X),comprehensibility,1.6000000000000000
 ikari (anger),X de susugu (Y rinses Z with X),metaphoricity,2.1000000000000000
 kotoba (word),X wo nomu (Y drinks X),novelty,0.60000000000000000000
 ansin (relief),X ga sumu (X gets clear),comprehensibility,0.40000000000000000000
@@ -2628,7 +2628,7 @@ keeki (cake),X ga huttou-suru (X boils),metaphoricity,1.4000000000000000
 doro (mud),X wo nomu (Y drinks X),comprehensibility,3.2000000000000000
 neko (cat),X ni sizumu (Y sinks into X),metaphoricity,1.6000000000000000
 keeki (cake),X ga moreru (X leaks),novelty,3.2000000000000000
-kanjou (emotion),X wo makitirasu (Y sprinkles X),comprehensibility,3.4000000000000000
+kanjou (emotion),X wo makitirasu (Y scatters X),comprehensibility,3.4000000000000000
 iwa (rock),X wo abiseru (Y showers X),novelty,3.5000000000000000
 suna (sand),X ni oboreru (Y almost drowns in X),comprehensibility,2.5000000000000000
 neko (cat),X ga yodomu (X gets stagnant),metaphoricity,1.8000000000000000
@@ -2637,10 +2637,10 @@ neko (cat),X ni hitasu (Y dips Z in X),novelty,3.8000000000000000
 ari (ant),X ga nizimu (X oozes),metaphoricity,1.9000000000000000
 kibou (hope),X ga ahureru (X overflows),metaphoricity,1.4000000000000000
 kimoti (feeling),X wo abiseru (Y showers X),comprehensibility,1.8000000000000000
-syutisin (shame),X wo makitirasu (Y sprinkles X),novelty,3.6000000000000000
+syutisin (shame),X wo makitirasu (Y scatters X),novelty,3.6000000000000000
 kotoba (word),X wo sosogu (Y pours X),novelty,2.6000000000000000
-kairaku (pleasure),X wo makitirasu (Y sprinkles X),novelty,3.1000000000000000
-ito (intention),X wo maku (Y scatters X),novelty,3.6000000000000000
+kairaku (pleasure),X wo makitirasu (Y scatters X),novelty,3.1000000000000000
+ito (intention),X wo maku (Y sprinkles X),novelty,3.6000000000000000
 neko (cat),X wo kakeru (Y sprays X),metaphoricity,2.1000000000000000
 sitto (envy),X wo susuru (Y sips X),comprehensibility,0.20000000000000000000
 hikari (light),X ga moreru (X leaks),novelty,0.80000000000000000000
@@ -2667,7 +2667,7 @@ mizu (water),X ga moreru (X leaks),metaphoricity,0.70000000000000000000
 zouo (hatred),X ni hitasu (Y dips Z in X),comprehensibility,1.2000000000000000
 roudou (labor),X ni oboreru (Y almost drowns in X),novelty,2.4000000000000000
 mizu (water),X ga huttou-suru (X boils),novelty,0.00000000000000000000
-ansin (relief),X wo makitirasu (Y sprinkles X),comprehensibility,1.00000000000000000000
+ansin (relief),X wo makitirasu (Y scatters X),comprehensibility,1.00000000000000000000
 huan (anxiety),X wo abiseru (Y showers X),metaphoricity,2.4000000000000000
 oto (sound),X ga koboreru (X spills out),novelty,1.9000000000000000
 rikai (understanding),X ga sitataru (X drips),comprehensibility,0.70000000000000000000
@@ -2692,11 +2692,11 @@ ikari (anger),X ga simiru (X soaks into Y),comprehensibility,1.2000000000000000
 iwa (rock),X ga nagareru (X flows),metaphoricity,1.2000000000000000
 kimoti (feeling),X wo nomu (Y drinks X),comprehensibility,3.2000000000000000
 kibou (hope),X ga sitataru (X drips),novelty,3.5000000000000000
-hikari (light),X wo makitirasu (Y sprinkles X),metaphoricity,2.9000000000000000
+hikari (light),X wo makitirasu (Y scatters X),metaphoricity,2.9000000000000000
 rikai (understanding),X ga nigoru (X gets cloudy),comprehensibility,0.70000000000000000000
 mizu (water),X ni tukaru (Y gets submerged in X),metaphoricity,0.60000000000000000000
 kotoba (word),X ga uzumaku (X whirls),novelty,2.3000000000000000
-keeki (cake),X wo makitirasu (Y sprinkles X),metaphoricity,0.60000000000000000000
+keeki (cake),X wo makitirasu (Y scatters X),metaphoricity,0.60000000000000000000
 mizu (water),X ga sumu (X gets clear),novelty,0.60000000000000000000
 suna (sand),X ni hitasu (Y dips Z in X),novelty,3.3000000000000000
 suna (sand),X ga yodomu (X gets stagnant),metaphoricity,2.0000000000000000
@@ -2707,7 +2707,7 @@ abura (oil),X ga hotobasiru (X spurts),novelty,2.4000000000000000
 suna (sand),X ni sizumu (Y sinks into X),metaphoricity,1.1000000000000000
 kyouhu (fear),X ni tukaru (Y gets submerged in X),comprehensibility,2.1000000000000000
 doro (mud),X wo abiseru (Y showers X),comprehensibility,3.0000000000000000
-yuuki (bravery),X wo maku (Y scatters X),metaphoricity,2.1000000000000000
+yuuki (bravery),X wo maku (Y sprinkles X),metaphoricity,2.1000000000000000
 yorokobi (delight),X ga nagareru (X flows),comprehensibility,0.80000000000000000000
 ai (love),X ni uku (Y floats on X),metaphoricity,3.1000000000000000
 jounetu (passion),X wo sosogu (Y pours X),novelty,0.00000000000000000000
@@ -2720,7 +2720,7 @@ jikan (time),X ga mitiru (X fills Y),novelty,1.8000000000000000
 zetubou (despair),X ga nizimu (X oozes),metaphoricity,1.7000000000000000
 keeki (cake),X ni tukaru (Y gets submerged in X),novelty,3.7000000000000000
 keeki (cake),X ga sumu (X gets clear),metaphoricity,1.3000000000000000
-mizu (water),X wo makitirasu (Y sprinkles X),novelty,0.50000000000000000000
+mizu (water),X wo makitirasu (Y scatters X),novelty,0.50000000000000000000
 ari (ant),X ga ahureru (X overflows),comprehensibility,1.6000000000000000
 huan (anxiety),X wo nomu (Y drinks X),metaphoricity,2.3000000000000000
 suna (sand),X ga waku (X gushes out),metaphoricity,1.9000000000000000
@@ -2744,7 +2744,7 @@ ai (love),X ga mitiru (X fills Y),comprehensibility,3.4000000000000000
 human (complaint),X ni hitasu (Y dips Z in X),novelty,3.0000000000000000
 kotoba (word),X wo siboridasu (Y squeezes X),metaphoricity,2.1000000000000000
 huan (anxiety),X ga nagareru (X flows),novelty,2.9000000000000000
-ikari (anger),X wo maku (Y scatters X),comprehensibility,1.2000000000000000
+ikari (anger),X wo maku (Y sprinkles X),comprehensibility,1.2000000000000000
 sitto (envy),X ga koboreru (X spills out),metaphoricity,2.0000000000000000
 kuuki (air),X wo nomu (Y drinks X),comprehensibility,1.4000000000000000
 nioi (smell),X ga uzumaku (X whirls),metaphoricity,1.6000000000000000
@@ -2788,7 +2788,7 @@ rikai (understanding),X ni sizumu (Y sinks into X),metaphoricity,1.9000000000000
 jounetu (passion),X ga nagareru (X flows),metaphoricity,2.3000000000000000
 ari (ant),X ni sizumu (Y sinks into X),novelty,3.3000000000000000
 koe (voice),X ga ahureru (X overflows),metaphoricity,1.8000000000000000
-ai (love),X wo maku (Y scatters X),comprehensibility,2.3000000000000000
+ai (love),X wo maku (Y sprinkles X),comprehensibility,2.3000000000000000
 yuuki (bravery),X ni uku (Y floats on X),comprehensibility,1.1000000000000000
 roudou (labor),X ga ahureru (X overflows),metaphoricity,2.7000000000000000
 kanasimi (sorrow),X ga nagareru (X flows),comprehensibility,1.2000000000000000
@@ -2807,7 +2807,7 @@ rikai (understanding),X ni hitasu (Y dips Z in X),novelty,3.5000000000000000
 jounetu (passion),X wo nomu (Y drinks X),novelty,3.0000000000000000
 huan (anxiety),X wo tarasu (Y drops X),comprehensibility,1.00000000000000000000
 iwa (rock),X wo sosogu (Y pours X),novelty,3.7000000000000000
-jikan (time),X wo maku (Y scatters X),novelty,3.9000000000000000
+jikan (time),X wo maku (Y sprinkles X),novelty,3.9000000000000000
 ari (ant),X wo kakeru (Y sprays X),novelty,2.9000000000000000
 mizu (water),X wo susuru (Y sips X),novelty,0.50000000000000000000
 ansin (relief),X ni hitaru (Y soaks in X),novelty,2.0000000000000000
@@ -2816,15 +2816,15 @@ rikai (understanding),X wo kakeru (Y sprays X),metaphoricity,2.2000000000000000
 kanjou (emotion),X ga koboreru (X spills out),metaphoricity,1.9000000000000000
 nioi (smell),X ga tamaru (X gets collected),metaphoricity,0.70000000000000000000
 abura (oil),X ni hitasu (Y dips Z in X),metaphoricity,0.70000000000000000000
-doro (mud),X wo makitirasu (Y sprinkles X),novelty,0.70000000000000000000
+doro (mud),X wo makitirasu (Y scatters X),novelty,0.70000000000000000000
 yuuki (bravery),X ga waku (X gushes out),comprehensibility,3.9000000000000000
 abura (oil),X ga yodomu (X gets stagnant),novelty,2.2000000000000000
 sitto (envy),X ga nagarederu (X flows out),metaphoricity,2.4000000000000000
 kanjou (emotion),X wo nomu (Y drinks X),novelty,2.0000000000000000
 suna (sand),X ga simiru (X soaks into Y),comprehensibility,1.4000000000000000
-koe (voice),X wo maku (Y scatters X),novelty,3.1000000000000000
+koe (voice),X wo maku (Y sprinkles X),novelty,3.1000000000000000
 kanasimi (sorrow),X ga koboreru (X spills out),comprehensibility,2.6000000000000000
-roudou (labor),X wo maku (Y scatters X),novelty,3.1000000000000000
+roudou (labor),X wo maku (Y sprinkles X),novelty,3.1000000000000000
 iwa (rock),X ga huttou-suru (X boils),comprehensibility,0.40000000000000000000
 jounetu (passion),X ga koboreru (X spills out),metaphoricity,2.8000000000000000
 abura (oil),X ni sizumu (Y sinks into X),novelty,3.1000000000000000
@@ -2845,7 +2845,7 @@ yorokobi (delight),X ga huttou-suru (X boils),metaphoricity,2.3000000000000000
 ikari (anger),X ga yodomu (X gets stagnant),metaphoricity,2.3000000000000000
 kimoti (feeling),X ga moreru (X leaks),metaphoricity,2.6000000000000000
 rikai (understanding),X ga mitiru (X fills Y),comprehensibility,2.0000000000000000
-human (complaint),X wo maku (Y scatters X),comprehensibility,2.6000000000000000
+human (complaint),X wo maku (Y sprinkles X),comprehensibility,2.6000000000000000
 oto (sound),X ga tamaru (X gets collected),metaphoricity,2.2000000000000000
 yorokobi (delight),X ga moreru (X leaks),novelty,3.4000000000000000
 kimoti (feeling),X ga huttou-suru (X boils),novelty,2.8000000000000000
@@ -2869,7 +2869,7 @@ yuuki (bravery),X ni sizumu (Y sinks into X),comprehensibility,0.900000000000000
 ansin (relief),X wo nomu (Y drinks X),novelty,3.6000000000000000
 kyouhu (fear),X wo abiseru (Y showers X),metaphoricity,2.5000000000000000
 doro (mud),X ga sumu (X gets clear),novelty,3.1000000000000000
-suna (sand),X wo maku (Y scatters X),comprehensibility,3.3000000000000000
+suna (sand),X wo maku (Y sprinkles X),comprehensibility,3.3000000000000000
 doro (mud),X ni tukaru (Y gets submerged in X),metaphoricity,1.1000000000000000
 koe (voice),X ga simiru (X soaks into Y),novelty,2.4000000000000000
 tanosisa (enjoyment),X ga nagarederu (X flows out),metaphoricity,1.9000000000000000
@@ -2893,7 +2893,7 @@ kyouhu (fear),X ga uzumaku (X whirls),metaphoricity,2.2000000000000000
 sitto (envy),X wo nomu (Y drinks X),novelty,3.8000000000000000
 kairaku (pleasure),X wo tarasu (Y drops X),metaphoricity,2.3000000000000000
 kinsen (money),X ga nizimu (X oozes),metaphoricity,2.5000000000000000
-rikai (understanding),X wo maku (Y scatters X),comprehensibility,0.80000000000000000000
+rikai (understanding),X wo maku (Y sprinkles X),comprehensibility,0.80000000000000000000
 kotoba (word),X ga sumu (X gets clear),comprehensibility,1.5000000000000000
 mizu (water),X ga uzumaku (X whirls),comprehensibility,3.6000000000000000
 ai (love),X ga yodomu (X gets stagnant),metaphoricity,2.5000000000000000
@@ -2939,7 +2939,7 @@ kairaku (pleasure),X wo sosogu (Y pours X),comprehensibility,1.9000000000000000
 kyouhu (fear),X ga tamaru (X gets collected),metaphoricity,2.8000000000000000
 rikai (understanding),X ga simiru (X soaks into Y),comprehensibility,0.90000000000000000000
 syutisin (shame),X wo sosogu (Y pours X),comprehensibility,0.80000000000000000000
-kotoba (word),X wo makitirasu (Y sprinkles X),comprehensibility,2.0000000000000000
+kotoba (word),X wo makitirasu (Y scatters X),comprehensibility,2.0000000000000000
 yuuki (bravery),X ga ahureru (X overflows),novelty,0.40000000000000000000
 tanosisa (enjoyment),X wo nomu (Y drinks X),novelty,3.8000000000000000
 sitto (envy),X wo kumitoru (Y scoops up X),comprehensibility,1.5000000000000000
@@ -2985,8 +2985,8 @@ kanjou (emotion),X ga uzumaku (X whirls),novelty,0.50000000000000000000
 kyouhu (fear),X ga nagarederu (X flows out),novelty,3.3000000000000000
 kotoba (word),X ga huttou-suru (X boils),comprehensibility,0.40000000000000000000
 kinsen (money),X ga ahureru (X overflows),comprehensibility,3.0000000000000000
-jounetu (passion),X wo makitirasu (Y sprinkles X),comprehensibility,2.2000000000000000
-kibou (hope),X wo maku (Y scatters X),novelty,2.5000000000000000
+jounetu (passion),X wo makitirasu (Y scatters X),comprehensibility,2.2000000000000000
+kibou (hope),X wo maku (Y sprinkles X),novelty,2.5000000000000000
 kyouhu (fear),X wo tarasu (Y drops X),comprehensibility,1.00000000000000000000
 ito (intention),X ga ahureru (X overflows),metaphoricity,1.4000000000000000
 suimin (sleep),X ga ahureru (X overflows),comprehensibility,1.1000000000000000
@@ -2996,7 +2996,7 @@ mizu (water),X wo tarasu (Y drops X),metaphoricity,0.20000000000000000000
 neko (cat),X ga mitiru (X fills Y),comprehensibility,1.00000000000000000000
 kairaku (pleasure),X ga uzumaku (X whirls),comprehensibility,1.9000000000000000
 ikari (anger),X ga nizimu (X oozes),novelty,0.80000000000000000000
-kanasimi (sorrow),X wo makitirasu (Y sprinkles X),metaphoricity,2.2000000000000000
+kanasimi (sorrow),X wo makitirasu (Y scatters X),metaphoricity,2.2000000000000000
 syutisin (shame),X ga uzumaku (X whirls),comprehensibility,2.1000000000000000
 ikari (anger),X ni oboreru (Y almost drowns in X),comprehensibility,1.8000000000000000
 jouhou (information),X ga yodomu (X gets stagnant),novelty,2.7000000000000000
@@ -3005,7 +3005,7 @@ jouhou (information),X ni hitasu (Y dips Z in X),metaphoricity,2.500000000000000
 kotoba (word),X ga koboreru (X spills out),metaphoricity,2.9000000000000000
 keeki (cake),X ga nagareru (X flows),comprehensibility,1.2000000000000000
 rikai (understanding),X de susugu (Y rinses Z with X),metaphoricity,2.3000000000000000
-yorokobi (delight),X wo makitirasu (Y sprinkles X),metaphoricity,2.4000000000000000
+yorokobi (delight),X wo makitirasu (Y scatters X),metaphoricity,2.4000000000000000
 jikan (time),X ga sitataru (X drips),novelty,3.9000000000000000
 kuuki (air),X ga sumu (X gets clear),novelty,0.30000000000000000000
 kairaku (pleasure),X wo abiseru (Y showers X),comprehensibility,2.1000000000000000
@@ -3015,10 +3015,10 @@ suimin (sleep),X ga waku (X gushes out),novelty,3.1000000000000000
 oto (sound),X ga nagarederu (X flows out),novelty,1.7000000000000000
 jouhou (information),X ni sizumu (Y sinks into X),novelty,2.6000000000000000
 syutisin (shame),X wo abiseru (Y showers X),comprehensibility,1.4000000000000000
-kimoti (feeling),X wo makitirasu (Y sprinkles X),novelty,2.9000000000000000
+kimoti (feeling),X wo makitirasu (Y scatters X),novelty,2.9000000000000000
 oto (sound),X wo tarasu (Y drops X),comprehensibility,1.00000000000000000000
 jouhou (information),X wo kakeru (Y sprays X),novelty,3.5000000000000000
-zouo (hatred),X wo maku (Y scatters X),novelty,2.1000000000000000
+zouo (hatred),X wo maku (Y sprinkles X),novelty,2.1000000000000000
 tanosisa (enjoyment),X ga uzumaku (X whirls),novelty,3.0000000000000000
 kinsen (money),X ga waku (X gushes out),novelty,2.1000000000000000
 doro (mud),X ga huttou-suru (X boils),novelty,3.3000000000000000
@@ -3029,7 +3029,7 @@ sitto (envy),X ga tamaru (X gets collected),novelty,2.6000000000000000
 ai (love),X ga sitataru (X drips),comprehensibility,1.5000000000000000
 hikari (light),X ga nagareru (X flows),comprehensibility,2.6000000000000000
 neko (cat),X ga simiru (X soaks into Y),comprehensibility,0.80000000000000000000
-iwa (rock),X wo makitirasu (Y sprinkles X),comprehensibility,2.8000000000000000
+iwa (rock),X wo makitirasu (Y scatters X),comprehensibility,2.8000000000000000
 kanjou (emotion),X wo abiseru (Y showers X),novelty,2.3000000000000000
 huan (anxiety),X ni tukaru (Y gets submerged in X),comprehensibility,2.0000000000000000
 mizu (water),X wo kumitoru (Y scoops up X),novelty,0.20000000000000000000
@@ -3041,7 +3041,7 @@ kibou (hope),X ga mitiru (X fills Y),novelty,0.70000000000000000000
 oto (sound),X wo sosogu (Y pours X),metaphoricity,2.5000000000000000
 mizu (water),X wo nomu (Y drinks X),comprehensibility,4.0000000000000000
 suimin (sleep),X wo kakeru (Y sprays X),novelty,3.6000000000000000
-neko (cat),X wo maku (Y scatters X),comprehensibility,0.60000000000000000000
+neko (cat),X wo maku (Y sprinkles X),comprehensibility,0.60000000000000000000
 kyouhu (fear),X wo nomu (Y drinks X),metaphoricity,1.3000000000000000
 sitto (envy),X ga uzumaku (X whirls),novelty,1.6000000000000000
 kinsen (money),X ga yodomu (X gets stagnant),novelty,3.4000000000000000
@@ -3062,7 +3062,7 @@ kimoti (feeling),X ga sumu (X gets clear),novelty,2.7000000000000000
 suimin (sleep),X ni sizumu (Y sinks into X),novelty,3.8000000000000000
 kimoti (feeling),X ni tukaru (Y gets submerged in X),metaphoricity,1.8000000000000000
 nioi (smell),X ga moreru (X leaks),comprehensibility,3.5000000000000000
-kuuki (air),X wo makitirasu (Y sprinkles X),novelty,1.7000000000000000
+kuuki (air),X wo makitirasu (Y scatters X),novelty,1.7000000000000000
 kyouhu (fear),X ga nagareru (X flows),novelty,3.3000000000000000
 yorokobi (delight),X ni tukaru (Y gets submerged in X),novelty,2.0000000000000000
 yorokobi (delight),X ga sumu (X gets clear),metaphoricity,2.7000000000000000
@@ -3100,19 +3100,19 @@ doro (mud),X ga simiru (X soaks into Y),novelty,2.9000000000000000
 koe (voice),X ga sumu (X gets clear),novelty,1.6000000000000000
 jounetu (passion),X de susugu (Y rinses Z with X),metaphoricity,2.5000000000000000
 jouhou (information),X ga nagareru (X flows),novelty,0.80000000000000000000
-suna (sand),X wo makitirasu (Y sprinkles X),comprehensibility,3.9000000000000000
+suna (sand),X wo makitirasu (Y scatters X),comprehensibility,3.9000000000000000
 kyouhu (fear),X ga waku (X gushes out),novelty,0.70000000000000000000
 keeki (cake),X ga yodomu (X gets stagnant),comprehensibility,0.30000000000000000000
 ansin (relief),X ni oboreru (Y almost drowns in X),comprehensibility,2.0000000000000000
 kotoba (word),X ni uku (Y floats on X),metaphoricity,1.8000000000000000
-roudou (labor),X wo makitirasu (Y sprinkles X),novelty,3.6000000000000000
+roudou (labor),X wo makitirasu (Y scatters X),novelty,3.6000000000000000
 keeki (cake),X ga waku (X gushes out),comprehensibility,0.50000000000000000000
 kinsen (money),X wo nomu (Y drinks X),metaphoricity,3.0000000000000000
 kyouhu (fear),X ga yodomu (X gets stagnant),novelty,3.6000000000000000
 kyouhu (fear),X ni hitasu (Y dips Z in X),metaphoricity,2.4000000000000000
 suimin (sleep),X ga nagareru (X flows),novelty,3.9000000000000000
 tanosisa (enjoyment),X ga sitataru (X drips),comprehensibility,1.8000000000000000
-doro (mud),X wo maku (Y scatters X),novelty,2.1000000000000000
+doro (mud),X wo maku (Y sprinkles X),novelty,2.1000000000000000
 mizu (water),X ni hitasu (Y dips Z in X),comprehensibility,3.7000000000000000
 suna (sand),X ga sumu (X gets clear),comprehensibility,1.2000000000000000
 sitto (envy),X ga nizimu (X oozes),novelty,1.8000000000000000
@@ -3120,12 +3120,12 @@ zouo (hatred),X ga huttou-suru (X boils),novelty,2.9000000000000000
 zouo (hatred),X ga moreru (X leaks),metaphoricity,1.8000000000000000
 kyouhu (fear),X ni sizumu (Y sinks into X),novelty,1.9000000000000000
 ai (love),X ga uzumaku (X whirls),novelty,2.0000000000000000
-koe (voice),X wo makitirasu (Y sprinkles X),novelty,2.0000000000000000
+koe (voice),X wo makitirasu (Y scatters X),novelty,2.0000000000000000
 jikan (time),X ga uzumaku (X whirls),comprehensibility,1.2000000000000000
 kinsen (money),X ga nagareru (X flows),novelty,2.3000000000000000
 kyouhu (fear),X wo kakeru (Y sprays X),novelty,3.7000000000000000
 zetubou (despair),X ga koboreru (X spills out),novelty,3.3000000000000000
-human (complaint),X wo makitirasu (Y sprinkles X),comprehensibility,3.9000000000000000
+human (complaint),X wo makitirasu (Y scatters X),comprehensibility,3.9000000000000000
 nioi (smell),X ga hotobasiru (X spurts),novelty,2.5000000000000000
 hikari (light),X ga waku (X gushes out),comprehensibility,2.0000000000000000
 rikai (understanding),X wo susuru (Y sips X),comprehensibility,0.10000000000000000000
@@ -3156,7 +3156,7 @@ mizu (water),X ga nigoru (X gets cloudy),novelty,0.30000000000000000000
 oto (sound),X wo kakeru (Y sprays X),novelty,2.2000000000000000
 rikai (understanding),X ga sumu (X gets clear),comprehensibility,0.50000000000000000000
 ikari (anger),X wo siboridasu (Y squeezes X),metaphoricity,2.4000000000000000
-kotoba (word),X wo maku (Y scatters X),comprehensibility,2.1000000000000000
+kotoba (word),X wo maku (Y sprinkles X),comprehensibility,2.1000000000000000
 ari (ant),X ni tukaru (Y gets submerged in X),comprehensibility,1.4000000000000000
 keeki (cake),X ga ahureru (X overflows),novelty,3.4000000000000000
 ansin (relief),X ga nizimu (X oozes),novelty,2.4000000000000000
@@ -3170,7 +3170,7 @@ yorokobi (delight),X de susugu (Y rinses Z with X),comprehensibility,0.200000000
 ansin (relief),X ga sitataru (X drips),comprehensibility,1.00000000000000000000
 keeki (cake),X ga nigoru (X gets cloudy),metaphoricity,0.90000000000000000000
 kyouhu (fear),X ga ahureru (X overflows),comprehensibility,2.8000000000000000
-rikai (understanding),X wo makitirasu (Y sprinkles X),comprehensibility,0.50000000000000000000
+rikai (understanding),X wo makitirasu (Y scatters X),comprehensibility,0.50000000000000000000
 ito (intention),X wo tarasu (Y drops X),metaphoricity,2.3000000000000000
 kotoba (word),X ga simiru (X soaks into Y),comprehensibility,3.0000000000000000
 jouhou (information),X wo sosogu (Y pours X),metaphoricity,2.4000000000000000
@@ -3217,9 +3217,9 @@ suimin (sleep),X ga uzumaku (X whirls),metaphoricity,2.2000000000000000
 ikari (anger),X ga nagarederu (X flows out),metaphoricity,2.6000000000000000
 yorokobi (delight),X ni uku (Y floats on X),comprehensibility,1.5000000000000000
 ai (love),X ga nagareru (X flows),metaphoricity,2.9000000000000000
-kanasimi (sorrow),X wo maku (Y scatters X),metaphoricity,2.0000000000000000
-jounetu (passion),X wo maku (Y scatters X),comprehensibility,2.0000000000000000
-kibou (hope),X wo makitirasu (Y sprinkles X),novelty,2.6000000000000000
+kanasimi (sorrow),X wo maku (Y sprinkles X),metaphoricity,2.0000000000000000
+jounetu (passion),X wo maku (Y sprinkles X),comprehensibility,2.0000000000000000
+kibou (hope),X wo makitirasu (Y scatters X),novelty,2.6000000000000000
 hikari (light),X ga sitataru (X drips),metaphoricity,2.1000000000000000
 jouhou (information),X ga tamaru (X gets collected),metaphoricity,1.9000000000000000
 syutisin (shame),X ga ahureru (X overflows),metaphoricity,2.6000000000000000
@@ -3267,7 +3267,7 @@ ikari (anger),X wo sosogu (Y pours X),novelty,2.6000000000000000
 zetubou (despair),X ni tukaru (Y gets submerged in X),comprehensibility,2.3000000000000000
 suimin (sleep),X wo siboridasu (Y squeezes X),novelty,3.5000000000000000
 kanjou (emotion),X ni sizumu (Y sinks into X),metaphoricity,2.2000000000000000
-neko (cat),X wo makitirasu (Y sprinkles X),comprehensibility,0.40000000000000000000
+neko (cat),X wo makitirasu (Y scatters X),comprehensibility,0.40000000000000000000
 iwa (rock),X ga simiru (X soaks into Y),comprehensibility,1.00000000000000000000
 ikari (anger),X ga nagareru (X flows),metaphoricity,2.5000000000000000
 ansin (relief),X ga waku (X gushes out),metaphoricity,1.9000000000000000
@@ -3288,7 +3288,7 @@ zouo (hatred),X ni tukaru (Y gets submerged in X),metaphoricity,2.60000000000000
 abura (oil),X wo nomu (Y drinks X),metaphoricity,1.2000000000000000
 yorokobi (delight),X ga simiru (X soaks into Y),metaphoricity,2.8000000000000000
 kimoti (feeling),X ga simiru (X soaks into Y),novelty,1.8000000000000000
-kuuki (air),X wo maku (Y scatters X),novelty,3.3000000000000000
+kuuki (air),X wo maku (Y sprinkles X),novelty,3.3000000000000000
 jouhou (information),X wo abiseru (Y showers X),metaphoricity,2.6000000000000000
 kotoba (word),X de susugu (Y rinses Z with X),metaphoricity,2.3000000000000000
 ikari (anger),X wo nomu (Y drinks X),novelty,2.5000000000000000
@@ -3303,11 +3303,11 @@ kanjou (emotion),X wo kakeru (Y sprays X),metaphoricity,2.2000000000000000
 kanasimi (sorrow),X ni uku (Y floats on X),comprehensibility,1.1000000000000000
 ito (intention),X wo abiseru (Y showers X),comprehensibility,1.5000000000000000
 yuuki (bravery),X ga nagareru (X flows),comprehensibility,0.50000000000000000000
-yorokobi (delight),X wo maku (Y scatters X),metaphoricity,2.3000000000000000
+yorokobi (delight),X wo maku (Y sprinkles X),metaphoricity,2.3000000000000000
 suimin (sleep),X wo abiseru (Y showers X),metaphoricity,1.5000000000000000
 oto (sound),X ga nizimu (X oozes),metaphoricity,2.6000000000000000
 human (complaint),X ga huttou-suru (X boils),comprehensibility,2.1000000000000000
-kimoti (feeling),X wo maku (Y scatters X),novelty,3.6000000000000000
+kimoti (feeling),X wo maku (Y sprinkles X),novelty,3.6000000000000000
 kuuki (air),X ga simiru (X soaks into Y),novelty,2.4000000000000000
 ari (ant),X ni hitaru (Y soaks in X),metaphoricity,1.9000000000000000
 jounetu (passion),X ni uku (Y floats on X),metaphoricity,2.4000000000000000
@@ -3315,7 +3315,7 @@ ai (love),X wo sosogu (Y pours X),novelty,0.60000000000000000000
 ikari (anger),X wo kumitoru (Y scoops up X),comprehensibility,3.1000000000000000
 ansin (relief),X wo kakeru (Y sprays X),metaphoricity,2.0000000000000000
 rikai (understanding),X ni hitaru (Y soaks in X),novelty,3.2000000000000000
-iwa (rock),X wo maku (Y scatters X),comprehensibility,1.4000000000000000
+iwa (rock),X wo maku (Y sprinkles X),comprehensibility,1.4000000000000000
 ansin (relief),X ni sizumu (Y sinks into X),metaphoricity,2.3000000000000000
 roudou (labor),X ga huttou-suru (X boils),novelty,3.5000000000000000
 mizu (water),X ni oboreru (Y almost drowns in X),novelty,0.20000000000000000000
@@ -3325,7 +3325,7 @@ neko (cat),X ga sumu (X gets clear),comprehensibility,0.10000000000000000000
 roudou (labor),X ga moreru (X leaks),metaphoricity,1.8000000000000000
 sitto (envy),X ga nigoru (X gets cloudy),comprehensibility,0.40000000000000000000
 ansin (relief),X ga yodomu (X gets stagnant),metaphoricity,2.8000000000000000
-zouo (hatred),X wo makitirasu (Y sprinkles X),novelty,1.5000000000000000
+zouo (hatred),X wo makitirasu (Y scatters X),novelty,1.5000000000000000
 kinsen (money),X wo abiseru (Y showers X),metaphoricity,1.9000000000000000
 ansin (relief),X ni hitasu (Y dips Z in X),novelty,3.2000000000000000
 koe (voice),X ga moreru (X leaks),metaphoricity,0.80000000000000000000
@@ -3351,7 +3351,7 @@ ai (love),X ga huttou-suru (X boils),comprehensibility,2.0000000000000000
 sitto (envy),X ga hotobasiru (X spurts),metaphoricity,1.4000000000000000
 neko (cat),X ga tamaru (X gets collected),novelty,2.6000000000000000
 zouo (hatred),X ga uzumaku (X whirls),comprehensibility,3.5000000000000000
-tanosisa (enjoyment),X wo maku (Y scatters X),comprehensibility,1.7000000000000000
+tanosisa (enjoyment),X wo maku (Y sprinkles X),comprehensibility,1.7000000000000000
 zetubou (despair),X wo abiseru (Y showers X),metaphoricity,1.9000000000000000
 doro (mud),X ga sitataru (X drips),novelty,2.4000000000000000
 human (complaint),X wo sosogu (Y pours X),novelty,3.0000000000000000
@@ -3374,7 +3374,7 @@ zouo (hatred),X ga tamaru (X gets collected),comprehensibility,2.900000000000000
 kotoba (word),X ni oboreru (Y almost drowns in X),comprehensibility,2.7000000000000000
 ansin (relief),X ni uku (Y floats on X),metaphoricity,2.9000000000000000
 syutisin (shame),X ga mitiru (X fills Y),novelty,2.8000000000000000
-sitto (envy),X wo maku (Y scatters X),comprehensibility,1.4000000000000000
+sitto (envy),X wo maku (Y sprinkles X),comprehensibility,1.4000000000000000
 ikari (anger),X ga koboreru (X spills out),metaphoricity,3.1000000000000000
 neko (cat),X ga uzumaku (X whirls),novelty,3.0000000000000000
 kairaku (pleasure),X ga mitiru (X fills Y),novelty,1.8000000000000000
@@ -3429,7 +3429,7 @@ abura (oil),X ga moreru (X leaks),comprehensibility,3.9000000000000000
 zetubou (despair),X ga tamaru (X gets collected),metaphoricity,3.1000000000000000
 roudou (labor),X wo kumitoru (Y scoops up X),novelty,3.8000000000000000
 sitto (envy),X ni uku (Y floats on X),metaphoricity,2.1000000000000000
-ansin (relief),X wo maku (Y scatters X),comprehensibility,2.0000000000000000
+ansin (relief),X wo maku (Y sprinkles X),comprehensibility,2.0000000000000000
 iwa (rock),X ni sizumu (Y sinks into X),metaphoricity,2.6000000000000000
 huan (anxiety),X ga waku (X gushes out),novelty,2.1000000000000000
 suna (sand),X wo nomu (Y drinks X),novelty,3.2000000000000000
@@ -3451,7 +3451,7 @@ ari (ant),X ga nagarederu (X flows out),novelty,2.6000000000000000
 oto (sound),X de susugu (Y rinses Z with X),novelty,3.3000000000000000
 kotoba (word),X ga sitataru (X drips),comprehensibility,1.00000000000000000000
 koe (voice),X wo nomu (Y drinks X),comprehensibility,1.7000000000000000
-kanjou (emotion),X wo maku (Y scatters X),comprehensibility,1.5000000000000000
+kanjou (emotion),X wo maku (Y sprinkles X),comprehensibility,1.5000000000000000
 huan (anxiety),X ni sizumu (Y sinks into X),novelty,1.5000000000000000
 ansin (relief),X ga simiru (X soaks into Y),comprehensibility,1.1000000000000000
 iwa (rock),X ga waku (X gushes out),metaphoricity,2.1000000000000000
@@ -3461,12 +3461,12 @@ human (complaint),X wo nomu (Y drinks X),novelty,2.6000000000000000
 kanasimi (sorrow),X ga ahureru (X overflows),novelty,0.60000000000000000000
 kibou (hope),X ga uzumaku (X whirls),comprehensibility,2.5000000000000000
 ai (love),X ga koboreru (X spills out),metaphoricity,2.6000000000000000
-syutisin (shame),X wo maku (Y scatters X),novelty,3.3000000000000000
+syutisin (shame),X wo maku (Y sprinkles X),novelty,3.3000000000000000
 yorokobi (delight),X ga waku (X gushes out),comprehensibility,3.5000000000000000
 sitto (envy),X ga mitiru (X fills Y),comprehensibility,2.2000000000000000
-kairaku (pleasure),X wo maku (Y scatters X),novelty,3.5000000000000000
+kairaku (pleasure),X wo maku (Y sprinkles X),novelty,3.5000000000000000
 jouhou (information),X ni tukaru (Y gets submerged in X),comprehensibility,2.6000000000000000
-ito (intention),X wo makitirasu (Y sprinkles X),novelty,3.5000000000000000
+ito (intention),X wo makitirasu (Y scatters X),novelty,3.5000000000000000
 ari (ant),X wo tarasu (Y drops X),comprehensibility,1.4000000000000000
 suna (sand),X wo abiseru (Y showers X),novelty,1.8000000000000000
 neko (cat),X wo nomu (Y drinks X),novelty,3.4000000000000000
@@ -3480,12 +3480,12 @@ keeki (cake),X ga simiru (X soaks into Y),metaphoricity,1.5000000000000000
 iwa (rock),X ni oboreru (Y almost drowns in X),comprehensibility,0.60000000000000000000
 doro (mud),X ni hitasu (Y dips Z in X),comprehensibility,3.2000000000000000
 ari (ant),X ga uzumaku (X whirls),metaphoricity,1.8000000000000000
-mizu (water),X wo maku (Y scatters X),novelty,0.30000000000000000000
+mizu (water),X wo maku (Y sprinkles X),novelty,0.30000000000000000000
 zetubou (despair),X ga nagarederu (X flows out),novelty,3.4000000000000000
 kotoba (word),X ga nigoru (X gets cloudy),comprehensibility,3.2000000000000000
 rikai (understanding),X ga uzumaku (X whirls),novelty,3.1000000000000000
 oto (sound),X ni uku (Y floats on X),novelty,3.4000000000000000
-ikari (anger),X wo makitirasu (Y sprinkles X),comprehensibility,3.1000000000000000
+ikari (anger),X wo makitirasu (Y scatters X),comprehensibility,3.1000000000000000
 neko (cat),X ga nagareru (X flows),metaphoricity,1.8000000000000000
 tanosisa (enjoyment),X de susugu (Y rinses Z with X),metaphoricity,2.3000000000000000
 zetubou (despair),X wo tarasu (Y drops X),comprehensibility,0.60000000000000000000
@@ -3503,7 +3503,7 @@ ikari (anger),X ga sumu (X gets clear),comprehensibility,0.70000000000000000000
 rikai (understanding),X wo siboridasu (Y squeezes X),metaphoricity,2.2000000000000000
 nioi (smell),X ni hitasu (Y dips Z in X),metaphoricity,2.1000000000000000
 jounetu (passion),X ga sitataru (X drips),comprehensibility,0.80000000000000000000
-hikari (light),X wo maku (Y scatters X),metaphoricity,1.4000000000000000
+hikari (light),X wo maku (Y sprinkles X),metaphoricity,1.4000000000000000
 zetubou (despair),X wo sosogu (Y pours X),metaphoricity,1.8000000000000000
 kanasimi (sorrow),X ga sitataru (X drips),metaphoricity,2.5000000000000000
 ito (intention),X ga moreru (X leaks),metaphoricity,1.2000000000000000
@@ -3517,17 +3517,17 @@ ari (ant),X ga tamaru (X gets collected),metaphoricity,1.00000000000000000000
 koe (voice),X wo abiseru (Y showers X),comprehensibility,3.6000000000000000
 rikai (understanding),X ga tamaru (X gets collected),novelty,3.2000000000000000
 kinsen (money),X ga moreru (X leaks),comprehensibility,1.3000000000000000
-yuuki (bravery),X wo makitirasu (Y sprinkles X),metaphoricity,2.4000000000000000
+yuuki (bravery),X wo makitirasu (Y scatters X),metaphoricity,2.4000000000000000
 kibou (hope),X wo sosogu (Y pours X),comprehensibility,2.3000000000000000
 nioi (smell),X wo kakeru (Y sprays X),novelty,3.2000000000000000
 neko (cat),X wo kumitoru (Y scoops up X),comprehensibility,0.40000000000000000000
 zouo (hatred),X wo nomu (Y drinks X),comprehensibility,1.00000000000000000000
 abura (oil),X ni tukaru (Y gets submerged in X),comprehensibility,3.1000000000000000
-keeki (cake),X wo maku (Y scatters X),metaphoricity,0.50000000000000000000
+keeki (cake),X wo maku (Y sprinkles X),metaphoricity,0.50000000000000000000
 kyouhu (fear),X ga hotobasiru (X spurts),novelty,2.7000000000000000
 roudou (labor),X wo abiseru (Y showers X),comprehensibility,0.60000000000000000000
 mizu (water),X ga simiru (X soaks into Y),novelty,0.80000000000000000000
-ai (love),X wo makitirasu (Y sprinkles X),comprehensibility,2.9000000000000000
+ai (love),X wo makitirasu (Y scatters X),comprehensibility,2.9000000000000000
 koe (voice),X ga uzumaku (X whirls),comprehensibility,2.2000000000000000
 huan (anxiety),X ga nizimu (X oozes),metaphoricity,2.2000000000000000
 suimin (sleep),X ga koboreru (X spills out),novelty,3.3000000000000000
@@ -3551,7 +3551,7 @@ human (complaint),X ga uzumaku (X whirls),novelty,1.4000000000000000
 suna (sand),X wo siboridasu (Y squeezes X),metaphoricity,1.5000000000000000
 yorokobi (delight),X ga sitataru (X drips),metaphoricity,2.7000000000000000
 ansin (relief),X de susugu (Y rinses Z with X),metaphoricity,2.4000000000000000
-jikan (time),X wo makitirasu (Y sprinkles X),novelty,3.5000000000000000
+jikan (time),X wo makitirasu (Y scatters X),novelty,3.5000000000000000
 kinsen (money),X ga koboreru (X spills out),novelty,2.4000000000000000
 mizu (water),X ga mitiru (X fills Y),novelty,0.90000000000000000000
 zetubou (despair),X ga nagareru (X flows),novelty,3.3000000000000000
@@ -3590,7 +3590,7 @@ koe (voice),X ga tamaru (X gets collected),comprehensibility,1.3000000000000000
 rikai (understanding),X wo abiseru (Y showers X),novelty,3.3000000000000000
 kyouhu (fear),X wo abiseru (Y showers X),comprehensibility,1.9000000000000000
 doro (mud),X ni tukaru (Y gets submerged in X),comprehensibility,2.9000000000000000
-suna (sand),X wo maku (Y scatters X),metaphoricity,0.60000000000000000000
+suna (sand),X wo maku (Y sprinkles X),metaphoricity,0.60000000000000000000
 roudou (labor),X ga hotobasiru (X spurts),novelty,3.0000000000000000
 yuuki (bravery),X ni sizumu (Y sinks into X),metaphoricity,2.4000000000000000
 ai (love),X ga nigoru (X gets cloudy),metaphoricity,2.6000000000000000
@@ -3613,7 +3613,7 @@ tanosisa (enjoyment),X wo tarasu (Y drops X),novelty,3.9000000000000000
 human (complaint),X ga hotobasiru (X spurts),comprehensibility,2.1000000000000000
 ikari (anger),X ga waku (X gushes out),comprehensibility,3.6000000000000000
 human (complaint),X ga simiru (X soaks into Y),metaphoricity,1.7000000000000000
-nioi (smell),X wo makitirasu (Y sprinkles X),novelty,0.50000000000000000000
+nioi (smell),X wo makitirasu (Y scatters X),novelty,0.50000000000000000000
 yuuki (bravery),X wo kakeru (Y sprays X),metaphoricity,1.5000000000000000
 kuuki (air),X ga moreru (X leaks),comprehensibility,3.7000000000000000
 suimin (sleep),X ni oboreru (Y almost drowns in X),novelty,2.9000000000000000
@@ -3625,7 +3625,7 @@ syutisin (shame),X wo nomu (Y drinks X),metaphoricity,2.0000000000000000
 kanjou (emotion),X ga nagareru (X flows),comprehensibility,2.1000000000000000
 jouhou (information),X ni oboreru (Y almost drowns in X),novelty,1.5000000000000000
 oto (sound),X ga tamaru (X gets collected),comprehensibility,1.1000000000000000
-human (complaint),X wo maku (Y scatters X),metaphoricity,1.5000000000000000
+human (complaint),X wo maku (Y sprinkles X),metaphoricity,1.5000000000000000
 yorokobi (delight),X ga huttou-suru (X boils),comprehensibility,2.2000000000000000
 ikari (anger),X ga yodomu (X gets stagnant),comprehensibility,0.90000000000000000000
 kimoti (feeling),X ga moreru (X leaks),comprehensibility,2.3000000000000000
@@ -3663,7 +3663,7 @@ sitto (envy),X wo kumitoru (Y scoops up X),metaphoricity,2.4000000000000000
 roudou (labor),X ni uku (Y floats on X),novelty,3.9000000000000000
 abura (oil),X ga nigoru (X gets cloudy),novelty,1.1000000000000000
 syutisin (shame),X wo sosogu (Y pours X),metaphoricity,2.0000000000000000
-kotoba (word),X wo makitirasu (Y sprinkles X),metaphoricity,2.4000000000000000
+kotoba (word),X wo makitirasu (Y scatters X),metaphoricity,2.4000000000000000
 keeki (cake),X ga uzumaku (X whirls),novelty,3.4000000000000000
 kyouhu (fear),X ga tamaru (X gets collected),comprehensibility,2.2000000000000000
 rikai (understanding),X ga simiru (X soaks into Y),metaphoricity,1.7000000000000000
@@ -3718,12 +3718,12 @@ human (complaint),X ga mitiru (X fills Y),metaphoricity,1.7000000000000000
 ai (love),X ga yodomu (X gets stagnant),comprehensibility,1.7000000000000000
 syutisin (shame),X wo tarasu (Y drops X),comprehensibility,1.2000000000000000
 kotoba (word),X ga sumu (X gets clear),metaphoricity,2.2000000000000000
-ari (ant),X wo maku (Y scatters X),novelty,2.4000000000000000
+ari (ant),X wo maku (Y sprinkles X),novelty,2.4000000000000000
 mizu (water),X ga uzumaku (X whirls),metaphoricity,0.80000000000000000000
 kotoba (word),X ni tukaru (Y gets submerged in X),novelty,2.5000000000000000
 kairaku (pleasure),X wo tarasu (Y drops X),comprehensibility,0.60000000000000000000
 kinsen (money),X ga nizimu (X oozes),comprehensibility,1.3000000000000000
-rikai (understanding),X wo maku (Y scatters X),metaphoricity,1.8000000000000000
+rikai (understanding),X wo maku (Y sprinkles X),metaphoricity,1.8000000000000000
 suna (sand),X de susugu (Y rinses Z with X),comprehensibility,1.8000000000000000
 suimin (sleep),X ga ahureru (X overflows),metaphoricity,2.7000000000000000
 oto (sound),X wo kumitoru (Y scoops up X),novelty,2.9000000000000000
@@ -3731,10 +3731,10 @@ ansin (relief),X wo siboridasu (Y squeezes X),comprehensibility,1.20000000000000
 huan (anxiety),X wo susuru (Y sips X),novelty,3.4000000000000000
 ito (intention),X ga ahureru (X overflows),comprehensibility,2.0000000000000000
 kyouhu (fear),X wo tarasu (Y drops X),metaphoricity,2.2000000000000000
-jounetu (passion),X wo makitirasu (Y sprinkles X),metaphoricity,2.0000000000000000
+jounetu (passion),X wo makitirasu (Y scatters X),metaphoricity,2.0000000000000000
 keeki (cake),X wo sosogu (Y pours X),novelty,3.6000000000000000
 syutisin (shame),X ga uzumaku (X whirls),metaphoricity,1.7000000000000000
-kanasimi (sorrow),X wo makitirasu (Y sprinkles X),comprehensibility,2.5000000000000000
+kanasimi (sorrow),X wo makitirasu (Y scatters X),comprehensibility,2.5000000000000000
 neko (cat),X ga mitiru (X fills Y),metaphoricity,2.8000000000000000
 kairaku (pleasure),X ga uzumaku (X whirls),metaphoricity,3.3000000000000000
 doro (mud),X ga koboreru (X spills out),novelty,1.00000000000000000000
@@ -3743,7 +3743,7 @@ jouhou (information),X ga nigoru (X gets cloudy),novelty,2.9000000000000000
 zouo (hatred),X ni uku (Y floats on X),novelty,3.8000000000000000
 nioi (smell),X ni hitaru (Y soaks in X),comprehensibility,2.6000000000000000
 abura (oil),X ga nizimu (X oozes),comprehensibility,3.7000000000000000
-zetubou (despair),X wo maku (Y scatters X),novelty,3.3000000000000000
+zetubou (despair),X wo maku (Y sprinkles X),novelty,3.3000000000000000
 yuuki (bravery),X ga sitataru (X drips),comprehensibility,1.2000000000000000
 hikari (light),X wo sosogu (Y pours X),novelty,1.6000000000000000
 mizu (water),X ga nagarederu (X flows out),novelty,0.20000000000000000000
@@ -3803,9 +3803,9 @@ iwa (rock),X ga sumu (X gets clear),metaphoricity,2.9000000000000000
 iwa (rock),X ni tukaru (Y gets submerged in X),novelty,3.6000000000000000
 keeki (cake),X wo kumitoru (Y scoops up X),comprehensibility,0.20000000000000000000
 kinsen (money),X ni hitasu (Y dips Z in X),comprehensibility,1.4000000000000000
-huan (anxiety),X wo makitirasu (Y sprinkles X),novelty,2.1000000000000000
+huan (anxiety),X wo makitirasu (Y scatters X),novelty,2.1000000000000000
 kyouhu (fear),X wo nomu (Y drinks X),comprehensibility,0.60000000000000000000
-neko (cat),X wo maku (Y scatters X),metaphoricity,1.3000000000000000
+neko (cat),X wo maku (Y sprinkles X),metaphoricity,1.3000000000000000
 ai (love),X ga sitataru (X drips),metaphoricity,3.0000000000000000
 neko (cat),X ga hotobasiru (X spurts),comprehensibility,0.40000000000000000000
 doro (mud),X ga moreru (X leaks),comprehensibility,2.8000000000000000
@@ -3815,7 +3815,7 @@ kyouhu (fear),X wo kumitoru (Y scoops up X),novelty,2.2000000000000000
 huan (anxiety),X ni tukaru (Y gets submerged in X),metaphoricity,2.6000000000000000
 huan (anxiety),X ga sumu (X gets clear),novelty,3.1000000000000000
 neko (cat),X ga simiru (X soaks into Y),metaphoricity,1.4000000000000000
-iwa (rock),X wo makitirasu (Y sprinkles X),metaphoricity,1.7000000000000000
+iwa (rock),X wo makitirasu (Y scatters X),metaphoricity,1.7000000000000000
 abura (oil),X ni oboreru (Y almost drowns in X),novelty,2.9000000000000000
 hikari (light),X ga nagareru (X flows),metaphoricity,1.6000000000000000
 jouhou (information),X ni hitasu (Y dips Z in X),comprehensibility,1.5000000000000000
@@ -3830,7 +3830,7 @@ kuuki (air),X ni tukaru (Y gets submerged in X),comprehensibility,1.900000000000
 kairaku (pleasure),X wo abiseru (Y showers X),metaphoricity,2.1000000000000000
 rikai (understanding),X de susugu (Y rinses Z with X),comprehensibility,0.40000000000000000000
 ito (intention),X ga waku (X gushes out),novelty,2.3000000000000000
-yorokobi (delight),X wo makitirasu (Y sprinkles X),comprehensibility,2.3000000000000000
+yorokobi (delight),X wo makitirasu (Y scatters X),comprehensibility,2.3000000000000000
 ari (ant),X ni oboreru (Y almost drowns in X),novelty,2.6000000000000000
 hikari (light),X ga koboreru (X spills out),metaphoricity,3.0000000000000000
 rikai (understanding),X ni oboreru (Y almost drowns in X),metaphoricity,2.2000000000000000
@@ -3840,7 +3840,7 @@ sitto (envy),X ni tukaru (Y gets submerged in X),novelty,3.2000000000000000
 zouo (hatred),X ga ahureru (X overflows),comprehensibility,3.4000000000000000
 neko (cat),X ga nigoru (X gets cloudy),metaphoricity,1.7000000000000000
 nioi (smell),X wo tarasu (Y drops X),metaphoricity,1.9000000000000000
-tanosisa (enjoyment),X wo makitirasu (Y sprinkles X),metaphoricity,2.4000000000000000
+tanosisa (enjoyment),X wo makitirasu (Y scatters X),metaphoricity,2.4000000000000000
 ikari (anger),X de susugu (Y rinses Z with X),comprehensibility,0.40000000000000000000
 kuuki (air),X wo siboridasu (Y squeezes X),novelty,2.1000000000000000
 huan (anxiety),X ga tamaru (X gets collected),comprehensibility,3.2000000000000000
@@ -3876,7 +3876,7 @@ kotoba (word),X wo kumitoru (Y scoops up X),metaphoricity,2.2000000000000000
 suimin (sleep),X ga mitiru (X fills Y),novelty,3.3000000000000000
 huan (anxiety),X ga uzumaku (X whirls),comprehensibility,3.5000000000000000
 doro (mud),X ga nagarederu (X flows out),novelty,1.1000000000000000
-sitto (envy),X wo makitirasu (Y sprinkles X),metaphoricity,1.8000000000000000
+sitto (envy),X wo makitirasu (Y scatters X),metaphoricity,1.8000000000000000
 zetubou (despair),X ni hitasu (Y dips Z in X),comprehensibility,0.70000000000000000000
 kibou (hope),X wo kakeru (Y sprays X),novelty,2.8000000000000000
 hikari (light),X ni hitaru (Y soaks in X),novelty,2.5000000000000000
@@ -3890,7 +3890,7 @@ tanosisa (enjoyment),X ga sumu (X gets clear),metaphoricity,2.0000000000000000
 suna (sand),X ga sitataru (X drips),metaphoricity,2.3000000000000000
 tanosisa (enjoyment),X ni tukaru (Y gets submerged in X),novelty,2.8000000000000000
 huan (anxiety),X wo abiseru (Y showers X),comprehensibility,1.6000000000000000
-ansin (relief),X wo makitirasu (Y sprinkles X),metaphoricity,2.3000000000000000
+ansin (relief),X wo makitirasu (Y scatters X),metaphoricity,2.3000000000000000
 zouo (hatred),X ga yodomu (X gets stagnant),novelty,3.6000000000000000
 jikan (time),X de susugu (Y rinses Z with X),novelty,3.8000000000000000
 neko (cat),X ga waku (X gushes out),comprehensibility,2.1000000000000000
@@ -3911,7 +3911,7 @@ kyouhu (fear),X ga huttou-suru (X boils),novelty,3.3000000000000000
 suimin (sleep),X ga simiru (X soaks into Y),novelty,3.5000000000000000
 syutisin (shame),X ni tukaru (Y gets submerged in X),comprehensibility,1.4000000000000000
 kotoba (word),X wo tarasu (Y drops X),novelty,3.0000000000000000
-jouhou (information),X wo maku (Y scatters X),novelty,0.90000000000000000000
+jouhou (information),X wo maku (Y sprinkles X),novelty,0.90000000000000000000
 zouo (hatred),X wo kakeru (Y sprays X),novelty,3.6000000000000000
 kairaku (pleasure),X ni tukaru (Y gets submerged in X),comprehensibility,2.0000000000000000
 human (complaint),X ni oboreru (Y almost drowns in X),metaphoricity,3.0000000000000000
@@ -3923,7 +3923,7 @@ ito (intention),X ga hotobasiru (X spurts),novelty,2.9000000000000000
 ai (love),X de susugu (Y rinses Z with X),comprehensibility,0.20000000000000000000
 doro (mud),X ga nagareru (X flows),novelty,1.3000000000000000
 yorokobi (delight),X wo abiseru (Y showers X),novelty,2.3000000000000000
-suimin (sleep),X wo maku (Y scatters X),novelty,3.2000000000000000
+suimin (sleep),X wo maku (Y sprinkles X),novelty,3.2000000000000000
 nioi (smell),X wo kumitoru (Y scoops up X),novelty,2.2000000000000000
 kibou (hope),X ga ahureru (X overflows),comprehensibility,3.3000000000000000
 jouhou (information),X ga simiru (X soaks into Y),novelty,3.4000000000000000
@@ -3932,7 +3932,7 @@ kanasimi (sorrow),X ga uzumaku (X whirls),novelty,1.6000000000000000
 hikari (light),X ga huttou-suru (X boils),comprehensibility,0.90000000000000000000
 neko (cat),X wo kakeru (Y sprays X),comprehensibility,0.40000000000000000000
 sitto (envy),X wo susuru (Y sips X),metaphoricity,1.5000000000000000
-kanjou (emotion),X wo makitirasu (Y sprinkles X),metaphoricity,2.9000000000000000
+kanjou (emotion),X wo makitirasu (Y scatters X),metaphoricity,2.9000000000000000
 neko (cat),X ni sizumu (Y sinks into X),comprehensibility,0.30000000000000000000
 keeki (cake),X ga huttou-suru (X boils),comprehensibility,0.30000000000000000000
 doro (mud),X wo nomu (Y drinks X),metaphoricity,2.3000000000000000
@@ -3943,7 +3943,7 @@ ansin (relief),X ni tukaru (Y gets submerged in X),novelty,2.9000000000000000
 ari (ant),X ga nizimu (X oozes),comprehensibility,1.00000000000000000000
 neko (cat),X ga yodomu (X gets stagnant),comprehensibility,0.30000000000000000000
 zouo (hatred),X ga waku (X gushes out),novelty,1.3000000000000000
-kinsen (money),X wo maku (Y scatters X),novelty,1.3000000000000000
+kinsen (money),X wo maku (Y sprinkles X),novelty,1.3000000000000000
 suna (sand),X ni oboreru (Y almost drowns in X),metaphoricity,1.4000000000000000
 jounetu (passion),X ga nagarederu (X flows out),comprehensibility,2.4000000000000000
 koe (voice),X wo kakeru (Y sprays X),novelty,0.10000000000000000000
@@ -3952,7 +3952,7 @@ nioi (smell),X wo abiseru (Y showers X),comprehensibility,2.6000000000000000
 yorokobi (delight),X wo kumitoru (Y scoops up X),comprehensibility,2.8000000000000000
 human (complaint),X ni sizumu (Y sinks into X),comprehensibility,2.3000000000000000
 sitto (envy),X ga koboreru (X spills out),comprehensibility,2.5000000000000000
-ikari (anger),X wo maku (Y scatters X),metaphoricity,2.1000000000000000
+ikari (anger),X wo maku (Y sprinkles X),metaphoricity,2.1000000000000000
 kuuki (air),X wo nomu (Y drinks X),metaphoricity,1.9000000000000000
 kotoba (word),X wo siboridasu (Y squeezes X),comprehensibility,3.7000000000000000
 kanasimi (sorrow),X ga nagarederu (X flows out),metaphoricity,3.0000000000000000
@@ -3961,7 +3961,7 @@ roudou (labor),X wo kakeru (Y sprays X),novelty,3.5000000000000000
 human (complaint),X ga yodomu (X gets stagnant),comprehensibility,1.2000000000000000
 hikari (light),X ga sumu (X gets clear),comprehensibility,2.3000000000000000
 zetubou (despair),X ga nizimu (X oozes),comprehensibility,2.2000000000000000
-abura (oil),X wo maku (Y scatters X),novelty,1.7000000000000000
+abura (oil),X wo maku (Y sprinkles X),novelty,1.7000000000000000
 keeki (cake),X ga sumu (X gets clear),comprehensibility,0.10000000000000000000
 roudou (labor),X ni sizumu (Y sinks into X),novelty,3.2000000000000000
 ansin (relief),X ga huttou-suru (X boils),metaphoricity,1.00000000000000000000
@@ -3976,7 +3976,7 @@ human (complaint),X wo kakeru (Y sprays X),comprehensibility,0.90000000000000000
 yuuki (bravery),X ga simiru (X soaks into Y),comprehensibility,1.7000000000000000
 roudou (labor),X ga yodomu (X gets stagnant),novelty,2.9000000000000000
 kuuki (air),X ga nagareru (X flows),novelty,0.50000000000000000000
-kyouhu (fear),X wo makitirasu (Y sprinkles X),novelty,1.5000000000000000
+kyouhu (fear),X wo makitirasu (Y scatters X),novelty,1.5000000000000000
 rikai (understanding),X ga ahureru (X overflows),novelty,3.1000000000000000
 huan (anxiety),X wo nomu (Y drinks X),comprehensibility,1.2000000000000000
 suna (sand),X ga waku (X gushes out),comprehensibility,1.3000000000000000
@@ -3993,9 +3993,9 @@ kanjou (emotion),X ga moreru (X leaks),novelty,2.7000000000000000
 oto (sound),X wo susuru (Y sips X),novelty,3.9000000000000000
 mizu (water),X ni tukaru (Y gets submerged in X),comprehensibility,3.3000000000000000
 rikai (understanding),X ga nigoru (X gets cloudy),metaphoricity,2.6000000000000000
-keeki (cake),X wo makitirasu (Y sprinkles X),comprehensibility,2.9000000000000000
+keeki (cake),X wo makitirasu (Y scatters X),comprehensibility,2.9000000000000000
 huan (anxiety),X wo kumitoru (Y scoops up X),novelty,1.1000000000000000
-yuuki (bravery),X wo maku (Y scatters X),comprehensibility,1.4000000000000000
+yuuki (bravery),X wo maku (Y sprinkles X),comprehensibility,1.4000000000000000
 ai (love),X ni uku (Y floats on X),comprehensibility,0.70000000000000000000
 yorokobi (delight),X ga nagareru (X flows),metaphoricity,2.2000000000000000
 kyouhu (fear),X ni tukaru (Y gets submerged in X),metaphoricity,2.3000000000000000
@@ -4012,7 +4012,7 @@ human (complaint),X ga waku (X gushes out),comprehensibility,3.2000000000000000
 kairaku (pleasure),X ga moreru (X leaks),comprehensibility,1.00000000000000000000
 ikari (anger),X ga hotobasiru (X spurts),comprehensibility,3.5000000000000000
 jikan (time),X ni uku (Y floats on X),novelty,3.8000000000000000
-hikari (light),X wo makitirasu (Y sprinkles X),comprehensibility,2.6000000000000000
+hikari (light),X wo makitirasu (Y scatters X),comprehensibility,2.6000000000000000
 iwa (rock),X ga nagareru (X flows),comprehensibility,2.2000000000000000
 ikari (anger),X ga simiru (X soaks into Y),metaphoricity,2.2000000000000000
 kimoti (feeling),X wo nomu (Y drinks X),metaphoricity,2.2000000000000000
@@ -4044,7 +4044,7 @@ tanosisa (enjoyment),X ga huttou-suru (X boils),metaphoricity,2.5000000000000000
 roudou (labor),X ga ahureru (X overflows),comprehensibility,1.2000000000000000
 tanosisa (enjoyment),X ga moreru (X leaks),novelty,3.6000000000000000
 kanasimi (sorrow),X ga nagareru (X flows),metaphoricity,3.1000000000000000
-ai (love),X wo maku (Y scatters X),metaphoricity,2.5000000000000000
+ai (love),X wo maku (Y sprinkles X),metaphoricity,2.5000000000000000
 yuuki (bravery),X ni uku (Y floats on X),metaphoricity,2.5000000000000000
 syutisin (shame),X ga koboreru (X spills out),novelty,3.5000000000000000
 rikai (understanding),X ga waku (X gushes out),comprehensibility,1.3000000000000000
@@ -4074,7 +4074,7 @@ keeki (cake),X wo susuru (Y sips X),comprehensibility,1.4000000000000000
 yorokobi (delight),X ga nagarederu (X flows out),metaphoricity,1.8000000000000000
 yuuki (bravery),X ga mitiru (X fills Y),comprehensibility,3.5000000000000000
 ansin (relief),X ga koboreru (X spills out),comprehensibility,1.5000000000000000
-oto (sound),X wo makitirasu (Y sprinkles X),novelty,1.7000000000000000
+oto (sound),X wo makitirasu (Y scatters X),novelty,1.7000000000000000
 jounetu (passion),X wo kumitoru (Y scoops up X),metaphoricity,2.5000000000000000
 jikan (time),X ga hotobasiru (X spurts),novelty,3.7000000000000000
 ikari (anger),X ni uku (Y floats on X),comprehensibility,0.90000000000000000000
