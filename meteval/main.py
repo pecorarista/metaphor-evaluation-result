@@ -33,11 +33,15 @@ def calc_means(session: Session) -> List[Tuple[str, str, str, str]]:
 
 
 def sort(session: Session, pos: str, metric: Metric) -> List[Tuple[str, str, str, str]]:
+    v = Metric.Metaphoricity.value \
+        if metric == Metric.Metaphoricity \
+        else Metric.Comprehensibility.value
+
     subquery = session \
         .query(Result.noun,
                Result.verb,
                func.avg(Result.vote).label('average')) \
-        .filter(Result.metric == metric.value) \
+        .filter(Result.metric == v) \
         .group_by(Result.metric,
                   Result.noun,
                   Result.verb) \
@@ -51,7 +55,7 @@ def sort(session: Session, pos: str, metric: Metric) -> List[Tuple[str, str, str
         .query(column,
                func.sum(subquery.c.average).label('score')) \
         .group_by(column) \
-        .order_by(func.sum(subquery.c.average)) \
+        .order_by(func.sum(subquery.c.average).desc()) \
         .all()
 
     return [(getattr(m, pos), m.score) for m in results]
