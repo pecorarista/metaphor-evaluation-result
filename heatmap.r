@@ -2,12 +2,13 @@ suppressMessages(require(ggplot2))
 suppressMessages(require(tidyr))
 
 args <- commandArgs(trailingOnly=TRUE)
-resourcedir <- args[1]
-builddir <- args[2]
+resourcedir <- "output"
+pdfdir <- "pdf"
+dir.create(pdfdir, showWarnings=FALSE)
 
 for (lang in c("ja", "en")) {
 
-    raw <- read.csv(paste(resourcedir, '/', 'mean-', lang, '.csv', sep=''),
+    raw <- read.csv(paste(resourcedir, "/", "mean-", lang, ".csv", sep=""),
                     header=TRUE, sep=",")
     df <- data.frame(raw)
     colnames(df) <- c("Noun", "Verb", "Metric", "Mean")
@@ -20,23 +21,23 @@ for (lang in c("ja", "en")) {
 
         if (metric == "comprehensibility") {
             titlelabel <- "理解可能性"
-            x <- read.csv(paste(resourcedir, '/', 'nouns-sorted-by-comprehensibility-', lang, '.csv', sep=''),
+            x <- read.csv(paste(resourcedir, "/", "nouns-sorted-by-comprehensibility-", lang, ".csv", sep=""),
                           header=FALSE, sep=",")$V1
-            y <- read.csv(paste(resourcedir, '/', 'verbs-sorted-by-comprehensibility-', lang, '.csv', sep=''),
+            y <- read.csv(paste(resourcedir, "/", "verbs-sorted-by-comprehensibility-", lang, ".csv", sep=""),
                           header=FALSE, sep=",")$V1
         }
         if (metric == "metaphoricity") {
             titlelabel <- "メタファー性"
-            x <- read.csv(paste(resourcedir, '/', 'nouns-sorted-by-metaphoricity-', lang, '.csv', sep=''),
+            x <- read.csv(paste(resourcedir, "/", "nouns-sorted-by-metaphoricity-", lang, ".csv", sep=""),
                           header=FALSE, sep=",")$V1
-            y <- read.csv(paste(resourcedir, '/', 'verbs-sorted-by-metaphoricity-', lang, '.csv', sep=''),
+            y <- read.csv(paste(resourcedir, "/", "verbs-sorted-by-metaphoricity-", lang, ".csv", sep=""),
                           header=FALSE, sep=",")$V1
         }
         if (metric == "novelty") {
             titlelabel <- "新規性"
-            x <- read.csv(paste(resourcedir, '/', 'nouns-sorted-by-comprehensibility-', lang, '.csv', sep=''),
+            x <- read.csv(paste(resourcedir, "/", "nouns-sorted-by-comprehensibility-", lang, ".csv", sep=""),
                           header=FALSE, sep=",")$V1
-            y <- read.csv(paste(resourcedir, '/', 'verbs-sorted-by-comprehensibility-', lang, '.csv', sep=''),
+            y <- read.csv(paste(resourcedir, "/", "verbs-sorted-by-comprehensibility-", lang, ".csv", sep=""),
                           header=FALSE, sep=",")$V1
         }
 
@@ -81,7 +82,7 @@ for (lang in c("ja", "en")) {
                   legend.position="right",
                   plot.title=element_text(hjust=0.5))
 
-        cairo_pdf(paste(builddir, '/', metric, "-", lang, ".pdf", sep=""),
+        cairo_pdf(paste(pdfdir, "/", metric, "-", lang, ".pdf", sep=""),
                   width=pdfwidth,
                   height=pdfheight,
                   family=font)
