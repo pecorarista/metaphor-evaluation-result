@@ -9,7 +9,7 @@ dir.create(pdfdir, showWarnings=FALSE)
 for (lang in c("ja", "en")) {
 
     raw <- read.csv(paste(resourcedir, "/", "mean-", lang, ".csv", sep=""),
-                    header=TRUE, sep=",")
+                    header=FALSE, sep=",")
     df <- data.frame(raw)
     colnames(df) <- c("Noun", "Verb", "Metric", "Mean")
 
@@ -21,23 +21,29 @@ for (lang in c("ja", "en")) {
 
         if (metric == "comprehensibility") {
             titlelabel <- "理解可能性"
-            x <- read.csv(paste(resourcedir, "/", "nouns-sorted-by-comprehensibility-", lang, ".csv", sep=""),
+            x <- read.csv(paste(resourcedir, "/",
+                                "nouns-sorted-by-comprehensibility-", lang, ".csv", sep=""),
                           header=FALSE, sep=",")$V1
-            y <- read.csv(paste(resourcedir, "/", "verbs-sorted-by-comprehensibility-", lang, ".csv", sep=""),
+            y <- read.csv(paste(resourcedir, "/",
+                                "verbs-sorted-by-comprehensibility-", lang, ".csv", sep=""),
                           header=FALSE, sep=",")$V1
         }
         if (metric == "metaphoricity") {
             titlelabel <- "メタファー性"
-            x <- read.csv(paste(resourcedir, "/", "nouns-sorted-by-metaphoricity-", lang, ".csv", sep=""),
+            x <- read.csv(paste(resourcedir, "/",
+                                "nouns-sorted-by-metaphoricity-", lang, ".csv", sep=""),
                           header=FALSE, sep=",")$V1
-            y <- read.csv(paste(resourcedir, "/", "verbs-sorted-by-metaphoricity-", lang, ".csv", sep=""),
+            y <- read.csv(paste(resourcedir, "/",
+                                "verbs-sorted-by-metaphoricity-", lang, ".csv", sep=""),
                           header=FALSE, sep=",")$V1
         }
         if (metric == "novelty") {
             titlelabel <- "新規性"
-            x <- read.csv(paste(resourcedir, "/", "nouns-sorted-by-comprehensibility-", lang, ".csv", sep=""),
+            x <- read.csv(paste(resourcedir, "/",
+                                "nouns-sorted-by-comprehensibility-", lang, ".csv", sep=""),
                           header=FALSE, sep=",")$V1
-            y <- read.csv(paste(resourcedir, "/", "verbs-sorted-by-comprehensibility-", lang, ".csv", sep=""),
+            y <- read.csv(paste(resourcedir, "/",
+                                "verbs-sorted-by-comprehensibility-", lang, ".csv", sep=""),
                           header=FALSE, sep=",")$V1
         }
 
@@ -59,7 +65,7 @@ for (lang in c("ja", "en")) {
             xhjust <- 0
             pdfheight <- 8
             pdfwidth <- 10.5
-            font <- "HelveticaNeueLT Pro 55 Roman"
+            font <- "HelveticaNeueLT Std"
         }
 
 
